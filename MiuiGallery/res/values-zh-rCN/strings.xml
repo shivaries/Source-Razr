@@ -127,7 +127,7 @@
     <string name="path">路径</string>
     <string name="width">宽度</string>
     <string name="height">高度</string>
-    <string name="orientation">浏览模式</string>
+    <string name="orientation">旋转度数</string>
     <string name="duration">时长</string>
     <string name="mimetype">MIME 类型</string>
     <string name="file_size">文件大小</string>
@@ -277,4 +277,5 @@
     <string name="global_setting">设置</string>
     <string name="no_storage_title">没有存储卡</string>
     <string name="no_storage_message">存储卡还没有准备好.</string>
+    <string name="message_no_delete_access">权限不足，不能删除文件或者文件夹: %s</string>
 </resources>

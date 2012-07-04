@@ -63,7 +63,7 @@
     <string name="title_online">在线</string>
     <string name="title_component">混搭</string>
     <string name="title_system_resource">系统自带</string>
-    <string name="title_download_resource">用户下载</string>
+    <string name="title_download_resource">我的下载</string>
     <string name="resource_preview">预览</string>
     <string name="wallpaper_set_as_both">同时设为锁屏和桌面壁纸</string>
     <string name="wallpaper_set_as_destop">设为桌面壁纸</string>

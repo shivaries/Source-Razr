@@ -124,8 +124,7 @@
     <string name="today">今天</string>
     <string name="tomorrow">明天</string>
     <string name="hour_minute_24" formatted="false">%-k:%M</string>
-    <string name="hour_minute_ampm" formatted="false">"请在%d秒后重试。
-剩余尝试次数%d。"</string>
+    <string name="hour_minute_ampm" formatted="false">%p %-l:%M</string>
     <string name="hour_minute_cap_ampm" formatted="false">%p %-l:%M</string>
     <string name="twelve_hour_time_format">ah:mm</string>
     <string name="twenty_four_hour_time_format">H:mm</string>
@@ -719,7 +718,7 @@
     <string name="keyguard_password_enter_puk_code">请输入 PUK 码和新的 PIN 码</string>
     <string name="keyguard_password_enter_puk_prompt">PUK 码</string>
     <string name="keyguard_password_enter_pin_prompt">新的 PIN 码</string>
-    <string name="keyguard_password_entry_touch_hint">" "<font size="17">触摸可输入密码</font>" "</string>
+    <string name="keyguard_password_entry_touch_hint"><font size="17">触摸可输入密码</font></string>
     <string name="keyguard_password_enter_password_code">输入密码进行解锁</string>
     <string name="keyguard_password_enter_pin_password_code">输入 PIN 进行解锁</string>
     <string name="keyguard_password_wrong_pin_code">PIN 码不正确！</string>
@@ -780,7 +779,7 @@
     <string name="lockscreen_glogin_submit_button">登录</string>
     <string name="lockscreen_glogin_invalid_input">用户名或密码无效。</string>
     <string name="lockscreen_glogin_account_recovery_hint">"忘记了您的用户名或密码？
-请访问 "<b>google.com/accounts/recovery</b>" "</string>
+请访问 "<b>google.com/accounts/recovery</b></string>
     <string name="lockscreen_glogin_checking_password">正在检查...</string>
     <string name="lockscreen_unlock_label">解锁</string>
     <string name="lockscreen_sound_on_label">打开声音</string>
@@ -983,8 +982,8 @@
     <string name="date_time_set">设置</string>
     <string name="default_permission_group">默认</string>
     <string name="no_permissions">不需要任何权限</string>
-    <string name="perms_hide">" "<b>隐藏</b>" "</string>
-    <string name="perms_show_all">" "<b>全部显示</b>" "</string>
+    <string name="perms_hide"><b>隐藏</b></string>
+    <string name="perms_show_all"><b>全部显示</b></string>
     <string name="usb_storage_activity_title">USB 大容量存储设备</string>
     <string name="usb_storage_title">USB 已连接</string>
     <string name="usb_storage_message">您已通过 USB 连接至计算机。如果您要在计算机和 Android 设备的 SD 卡之间复制文件，请触摸下面的按钮。</string>
@@ -1017,7 +1016,7 @@
     <string name="configure_input_methods">配置输入法</string>
     <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-    <string name="candidates_style">" "<u>候选</u>" "</string>
+    <string name="candidates_style"><u>候选</u></string>
     <string name="ext_media_checking_notification_title">正在准备 SD 卡</string>
     <string name="ext_media_checking_notification_message">正在检查是否有错误。</string>
     <string name="ext_media_nofs_notification_title">空 SD 卡</string>
@@ -1203,7 +1202,7 @@
     <string name="ethernet_getting_ip_details">以太网正在获取 IP 地址...</string>
     <string name="ethernet_connected">以太网已连接</string>
     <string name="ethernet_connected_details">部分应用程序可能无法通过以太网访问</string>
-    <string name="wifi_available_detailed_new">" "<item quantity="one">选择打开首选网络探测器</item>" "</string>
+    <string name="wifi_available_detailed_new"><item quantity="one">选择打开首选网络探测器</item></string>
     <string name="keyguard_password_enter_sim_pin_code">输入SIM卡PIN码</string>
     <string name="keyguard_password_enter_current_pin_code">输入当前密码:</string>
     <string name="keyguard_password_enter_new_pin_code">输入至少%d位的新密码.</string>
@@ -1450,7 +1449,7 @@
     <string name="httpStatusCode505Desc">不支持 HTTP 版本</string>
     <string name="httpStatusCode507Desc">存储空间不足</string>
     <string name="httpStatusCodeError">错误：请求出错</string>
-    <string name="httpStatusReason">" "<body> <html>%1$s :%2$s</html> </body>" "</string>
+    <string name="httpStatusReason"><html><body>%1$s :%2$s</body></html></string>
     <string name="data_link_lost">3G 数据链接丢失</string>
     <string name="data_link_suspend">3G 数据链接已暂停</string>
     <string name="service_name">绑定：</string>
@@ -1538,13 +1537,13 @@
     <string name="press_done_when_done">完成后点按完成。</string>
     <string name="press_enter_when_done">完成后按回车键</string>
     <string name="lockscreen_failed_attempts_times_countdown">"密码错误。
-剩余尝试次数%d。"</string>
+剩余尝试次数%1$d。"</string>
     <string name="lockscreen_failed_attempt_time_countdown">"密码错误。
-剩余尝试次数%d。"</string>
-    <string name="mot_lockscreen_too_many_failed_attempts_countdown" formatted="false">"请在%d秒后重试。
-剩余尝试次数%d。"</string>
-    <string name="mot_lockscreen_too_many_failed_attempt_countdown" formatted="false">"请在%d秒后重试。
-剩余尝试次数%d。"</string>
+剩余尝试次数%1$d。"</string>
+    <string name="mot_lockscreen_too_many_failed_attempts_countdown">"请在%1$d秒后重试。
+剩余尝试次数%1$d。"</string>
+    <string name="mot_lockscreen_too_many_failed_attempt_countdown">"请在%1$d秒后重试。
+剩余尝试次数%1$d。"</string>
     <string name="vzw_disable_we_gsm_cf">Verizon Wireless 网络之外不支持呼叫转移。</string>
     <string name="Select_text">选择文字</string>
     <string name="Share_selected_text">共享选定的文字</string>

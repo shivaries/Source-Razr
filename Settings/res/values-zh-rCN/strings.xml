@@ -781,7 +781,7 @@ PIN 可能不正确。"</string>
     <string name="tethering_help_button_text">帮助</string>
     <string name="network_settings_title">移动网络</string>
     <string name="location_title">我的位置</string>
-    <string name="location_network_based">Google 的位置服务</string>
+    <string name="location_network_based">基于网络的位置服务</string>
     <string name="location_neighborhood_level">允许应用程序使用来自 WLAN 或移动网络的数据确定您的大致位置</string>
     <string name="location_neighborhood_level_wifi">通过 WLAN 确定位置</string>
     <string name="location_gps">GPS 卫星</string>

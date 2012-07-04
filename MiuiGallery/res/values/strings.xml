@@ -278,4 +278,5 @@
     <string name="global_setting">Settings</string>
     <string name="no_storage_title">No Storage</string>
     <string name="no_storage_message">No external storage available.</string>
+    <string name="message_no_delete_access">Access is denied. Cannot delete file or folder: %s</string>
 </resources>

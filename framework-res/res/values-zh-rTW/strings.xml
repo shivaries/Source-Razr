@@ -124,8 +124,7 @@
     <string name="today">今天</string>
     <string name="tomorrow">明天</string>
     <string name="hour_minute_24" formatted="false">%-k:%M</string>
-    <string name="hour_minute_ampm" formatted="false">"請在 %d 秒後再試一次。
-剩餘嘗試次數：%d。"</string>
+    <string name="hour_minute_ampm" formatted="false">%p %-l:%M</string>
     <string name="hour_minute_cap_ampm" formatted="false">%p %-l:%M</string>
     <string name="twelve_hour_time_format">ah:mm</string>
     <string name="twenty_four_hour_time_format">H:mm</string>
@@ -719,7 +718,7 @@
     <string name="keyguard_password_enter_puk_code">輸入 PUK 碼和新的 PIN 碼</string>
     <string name="keyguard_password_enter_puk_prompt">PUK 碼</string>
     <string name="keyguard_password_enter_pin_prompt">新的 Pin 碼</string>
-    <string name="keyguard_password_entry_touch_hint">" "<font size="17">輕觸即可輸入密碼</font>" "</string>
+    <string name="keyguard_password_entry_touch_hint"><font size="17">輕觸即可輸入密碼</font></string>
     <string name="keyguard_password_enter_password_code">輸入密碼即可解鎖</string>
     <string name="keyguard_password_enter_pin_password_code">輸入 PIN 進行解鎖</string>
     <string name="keyguard_password_wrong_pin_code">PIN 碼錯誤！</string>
@@ -780,7 +779,7 @@
     <string name="lockscreen_glogin_submit_button">登入</string>
     <string name="lockscreen_glogin_invalid_input">使用者名稱或密碼錯誤。</string>
     <string name="lockscreen_glogin_account_recovery_hint">"忘了使用者名稱或密碼？
-請前往 "<b>google.com/accounts/recovery</b>" "</string>
+請前往 "<b>google.com/accounts/recovery</b></string>
     <string name="lockscreen_glogin_checking_password">檢查中...</string>
     <string name="lockscreen_unlock_label">解除封鎖</string>
     <string name="lockscreen_sound_on_label">開啟音效</string>
@@ -983,8 +982,8 @@
     <string name="date_time_set">設定</string>
     <string name="default_permission_group">預設值</string>
     <string name="no_permissions">無須許可</string>
-    <string name="perms_hide">" "<b> 隱藏</b>" "</string>
-    <string name="perms_show_all">" "<b>顯示全部</b>" "</string>
+    <string name="perms_hide"><b> 隱藏</b></string>
+    <string name="perms_show_all"><b>顯示全部</b></string>
     <string name="usb_storage_activity_title">USB 大量儲存裝置</string>
     <string name="usb_storage_title">USB 已連接</string>
     <string name="usb_storage_message">您已透過 USB 與電腦建立連線。如要在電腦和 Android 的 SD 卡之間複製檔案，請輕觸下方按鈕。</string>
@@ -1017,7 +1016,7 @@
     <string name="configure_input_methods">設定輸入法</string>
     <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-    <string name="candidates_style">" "<u>待選項目</u>" "</string>
+    <string name="candidates_style"><u>待選項目</u></string>
     <string name="ext_media_checking_notification_title">正在準備 SD 卡</string>
     <string name="ext_media_checking_notification_message">正在檢查錯誤。</string>
     <string name="ext_media_nofs_notification_title">SD 卡為空白</string>
@@ -1203,7 +1202,7 @@
     <string name="ethernet_getting_ip_details">乙太網路正在取得 IP 位址...</string>
     <string name="ethernet_connected">已連接乙太網路</string>
     <string name="ethernet_connected_details">某些應用程式可能無法透過乙太網路來存取</string>
-    <string name="wifi_available_detailed_new">" "<item quantity="one">選取以開啟偏好網路搜尋器</item>" "</string>
+    <string name="wifi_available_detailed_new"><item quantity="one">選取以開啟偏好網路搜尋器</item></string>
     <string name="keyguard_password_enter_sim_pin_code">輸入SIM卡PIN碼</string>
     <string name="keyguard_password_enter_current_pin_code">輸入當前密碼:</string>
     <string name="keyguard_password_enter_new_pin_code">輸入至少%d位的新密碼.</string>
@@ -1452,7 +1451,7 @@
     <string name="httpStatusCode505Desc">不支援 HTTP 版本</string>
     <string name="httpStatusCode507Desc">儲存空間不足</string>
     <string name="httpStatusCodeError">錯誤： 要求有問題</string>
-    <string name="httpStatusReason">" "<body> <html>%1$s : %2$s</html> </body>" "</string>
+    <string name="httpStatusReason"><html><body>%1$s : %2$s</body></html></string>
     <string name="data_link_lost">遺失 3G 資料連結</string>
     <string name="data_link_suspend">3G 資料連結已暫停</string>
     <string name="service_name">網路分享：</string>
@@ -1540,13 +1539,13 @@
     <string name="press_done_when_done">完成後請按 [完成]</string>
     <string name="press_enter_when_done">完成後按「輸入」鍵</string>
     <string name="lockscreen_failed_attempts_times_countdown">"密碼錯誤。
-剩餘嘗試次數：%d。"</string>
+剩餘嘗試次數：%1$d。"</string>
     <string name="lockscreen_failed_attempt_time_countdown">"密碼不正確。
-剩餘嘗試次數：%d。"</string>
-    <string name="mot_lockscreen_too_many_failed_attempts_countdown" formatted="false">"請在 %d 秒後再試一次。
-剩餘嘗試次數：%d。"</string>
-    <string name="mot_lockscreen_too_many_failed_attempt_countdown" formatted="false">"請在 %d 秒後再試一次。
-剩餘嘗試次數：%d。"</string>
+剩餘嘗試次數：%1$d。"</string>
+    <string name="mot_lockscreen_too_many_failed_attempts_countdown">"請在 %1$d 秒後再試一次。
+剩餘嘗試次數：%1$d。"</string>
+    <string name="mot_lockscreen_too_many_failed_attempt_countdown">"請在 %1$d 秒後再試一次。
+剩餘嘗試次數：%1$d。"</string>
     <string name="vzw_disable_we_gsm_cf">Verizon 無線網路以外不支援來電轉接。</string>
     <string name="Select_text">選取文字</string>
     <string name="Share_selected_text">分享已選取的文字</string>

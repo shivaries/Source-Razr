@@ -840,7 +840,7 @@ To clear music, pictures, and other user data, the "<b>USB storage</b> needs to 
     <string name="tethering_help_button_text">Help</string>
     <string name="network_settings_title">Mobile networks</string>
     <string name="location_title">My Location</string>
-    <string name="location_network_based">"Google's location service"</string>
+    <string name="location_network_based">Network based location service</string>
     <string name="location_neighborhood_level">Let apps use data from sources such as WLAN and mobile networks to determine your approximate location</string>
     <string name="location_neighborhood_level_wifi">Location determined by WLAN</string>
     <string name="location_gps">GPS satellites</string>

@@ -890,6 +890,7 @@
     <string name="sim_pin_change_miui">更改SIM卡PIN</string>
     <string name="sim_pin_toggle_miui">锁定SIM卡</string>
     <string name="sip_settings_miui">互联网通话</string>
+    <string name="sip_add_account_tip_text">要使用互联网通话，请添加SIP账户</string>
     <string name="sliding_down_hint_miui">向下滑动接听</string>
     <string name="sliding_target_hint_miui">滑动至此</string>
     <string name="sliding_up_hint_miui">向上滑动挂断</string>

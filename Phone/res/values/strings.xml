@@ -912,6 +912,7 @@ Please notice that SIM card will be trashed if failed again!"</string>
     <string name="sim_pin_change_miui">Change SIM PIN</string>
     <string name="sim_pin_toggle_miui">Lock SIM card</string>
     <string name="sip_settings_miui">Internet call</string>
+    <string name="sip_add_account_tip_text">Please add a SIP account to use the Internet call</string>
     <string name="sliding_down_hint_miui">Slide down to answer</string>
     <string name="sliding_target_hint_miui">Slide target</string>
     <string name="sliding_up_hint_miui">Slide up to reject</string>
