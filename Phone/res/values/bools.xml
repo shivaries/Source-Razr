@@ -19,4 +19,6 @@
     <bool name="config_built_in_sip_phone">true</bool>
     <bool name="config_call_recording">false</bool>
     <bool name="config_call_stream_recording">false</bool>
+    <bool name="config_download_mms_always">true</bool>
+    <bool name="config_preferred_network_type_when_data_enabled">true</bool>
 </resources>

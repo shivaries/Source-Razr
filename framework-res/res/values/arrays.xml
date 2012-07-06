@@ -555,6 +555,7 @@
         <item>headset</item>
         <item>call_record</item>
         <item>privacy_mode</item>
+        <item>bluetooth_handsfree_battery</item>
         <item>wimax</item>
     </string-array>
     <string-array name="networkAttributes">

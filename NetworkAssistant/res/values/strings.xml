@@ -4,10 +4,10 @@
     <string name="carrier_cmcc">%1$s, %2$s, %3$s</string>
     <string name="carrier_none_cmcc">%1$s, %2$s</string>
     <string name="mobile_type">2G/3G</string>
-    <string name="wifi_type">"WiFi    "</string>
+    <string name="wifi_type">WLAN</string>
     <string name="process_kernel_label">Android OS</string>
     <string name="mobile_traffic">2G/3G: %s</string>
-    <string name="wifi_traffic">WiFi: %s</string>
+    <string name="wifi_traffic">WLAN: %s</string>
     <string name="warning_settings_toast">"%1$d%%  %2$dMB"</string>
     <string name="widget_color_exceed_warn">\#F9882C</string>
     <string name="widget_color_uesd_none_exceed_warn">\#579D00</string>
@@ -34,8 +34,8 @@
     <string name="disable_background_connect_warning">If limiting background data, some programs or services may not be able to run via 2G/3G networking. Are you sure you want to close?</string>
     <string name="menu_refresh">Refresh</string>
     <string name="menu_sort">Sort</string>
-    <string name="menu_display_wifi">Display WiFi traffic</string>
-    <string name="menu_hide_wifi">Do not display WiFi traffic</string>
+    <string name="menu_display_wifi">Display WLAN traffic</string>
+    <string name="menu_hide_wifi">Do not display WLAN traffic</string>
     <string name="menu_display_system_app">Display system program</string>
     <string name="menu_hide_system_app">Do not display system program</string>
     <string name="adjust_traffic_title">Adjust traffic data</string>

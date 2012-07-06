@@ -8,8 +8,9 @@
     <bool name="has_camera_key">false</bool>
     <bool name="has_track_ball">false</bool>
     <bool name="has_multi_touch">false</bool>
-    <bool name="has_led">false</bool>
-    <bool name="has_volume_wake">false</bool>
+    <bool name="has_led">true</bool>
+    <bool name="has_volume_wake">true</bool>
     <bool name="disable_move_to_sd">false</bool>
     <bool name="mass_storage_enable">true</bool>
+    <bool name="enable_erase_application">false</bool>
 </resources>

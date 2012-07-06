@@ -4492,7 +4492,6 @@
     <public type="string" name="APKTOOL_DUMMY_0698" id="0x01040698" />
     <public type="string" name="APKTOOL_DUMMY_0699" id="0x01040699" />
     <public type="string" name="APKTOOL_DUMMY_069a" id="0x0104069a" />
-    <public type="string" name="carrier_lable_3g" id="0x0104069b" />
     <public type="dimen" name="app_icon_size" id="0x01050000" />
     <public type="dimen" name="thumbnail_height" id="0x01050001" />
     <public type="dimen" name="thumbnail_width" id="0x01050002" />

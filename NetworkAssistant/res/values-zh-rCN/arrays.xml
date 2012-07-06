@@ -10,10 +10,18 @@
         <item>当天流量</item>
         <item>当月流量</item>
     </string-array>
+    <string-array name="date_of_app_all">
+        <item>昨天2G/3G</item>
+        <item>当天2G/3G</item>
+        <item>当月2G/3G</item>
+        <item>昨天WLAN</item>
+        <item>当天WLAN</item>
+        <item>当月WLAN</item>
+    </string-array>
     <string-array name="date_of_app">
-        <item>昨天</item>
-        <item>当天</item>
-        <item>当月</item>
+        <item>昨天2G/3G</item>
+        <item>当天2G/3G</item>
+        <item>当月2G/3G</item>
     </string-array>
     <string-array name="carriers">
         <item>中国移动</item>

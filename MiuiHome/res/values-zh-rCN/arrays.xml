@@ -16,29 +16,4 @@
         <item>左</item>
         <item>右</item>
     </string-array>
-    <string-array name="gadget_weather_image">
-        <item>晴</item>
-        <item>多云</item>
-        <item>阴</item>
-        <item>雾</item>
-        <item>特大暴雨</item>
-        <item>大暴雨</item>
-        <item>暴雨</item>
-        <item>雷阵雨</item>
-        <item>阵雨</item>
-        <item>大雨</item>
-        <item>中雨</item>
-        <item>小雨</item>
-        <item>雨夹雪</item>
-        <item>暴雪</item>
-        <item>阵雪</item>
-        <item>大雪</item>
-        <item>中雪</item>
-        <item>小雪</item>
-        <item>强沙尘暴</item>
-        <item>沙尘暴</item>
-        <item>沙尘</item>
-        <item>扬沙</item>
-        <item>冰雹</item>
-    </string-array>
 </resources>

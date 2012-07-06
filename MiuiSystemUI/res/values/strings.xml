@@ -276,6 +276,7 @@ If you re-enable data, you may be charged by the operator."</string>
     <string name="screen_key_back">Back key</string>
     <string name="status_bar_network_flow_today">Toady:%1$s</string>
     <string name="status_bar_network_flow">"Toady:%1$s    Remain:%2$s    Package:%3$s"</string>
-    <item type="string" name="APKTOOL_DUMMY_0110">false</item>
+    <string name="status_bar_network_flow_exceed">"Toady:%1$s    Exceeded:%2$s    Package:%3$s"</string>
     <item type="string" name="APKTOOL_DUMMY_0111">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0112">false</item>
 </resources>

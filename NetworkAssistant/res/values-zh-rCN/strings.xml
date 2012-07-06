@@ -22,8 +22,8 @@
     <string name="disable_background_connect_warning">如果限制后台数据，在通过2G/3G联网时，部分程序或服务可能无法运行。确定要关闭吗？</string>
     <string name="menu_refresh">刷新</string>
     <string name="menu_sort">排序</string>
-    <string name="menu_display_wifi">显示WiFi流量</string>
-    <string name="menu_hide_wifi">不显示WiFi流量</string>
+    <string name="menu_display_wifi">显示WLAN流量</string>
+    <string name="menu_hide_wifi">不显示WLAN流量</string>
     <string name="menu_display_system_app">显示系统应用</string>
     <string name="menu_hide_system_app">不显示系统应用</string>
     <string name="adjust_traffic_title">校正流量数据</string>

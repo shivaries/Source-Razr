@@ -37,19 +37,19 @@
         <item quantity="other">马上</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d 分钟前</item>
+        <item quantity="other">%d分钟前</item>
         <item quantity="one">1分钟前</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d 分钟前</item>
+        <item quantity="other">%d分钟前</item>
         <item quantity="one">1分钟前</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d 分钟后</item>
+        <item quantity="other">%d分钟后</item>
         <item quantity="one">1分钟后</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">%d 分钟后</item>
+        <item quantity="other">%d分钟后</item>
         <item quantity="one">1分钟后</item>
     </plurals>
 </resources>

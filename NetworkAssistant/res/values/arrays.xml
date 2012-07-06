@@ -10,10 +10,18 @@
         <item>Traffic of today</item>
         <item>Traffic of the month</item>
     </string-array>
+    <string-array name="date_of_app_all">
+        <item>Yesterday 2G/3G</item>
+        <item>Today 2G/3G</item>
+        <item>This month 2G/3G</item>
+        <item>Yesterday WLAN</item>
+        <item>Today WLAN</item>
+        <item>This month WLAN</item>
+    </string-array>
     <string-array name="date_of_app">
-        <item>Yesterday</item>
-        <item>Today</item>
-        <item>This month</item>
+        <item>Yesterday 2G/3G</item>
+        <item>Today 2G/3G</item>
+        <item>This month 2G/3G</item>
     </string-array>
     <string-array name="carriers">
         <item>China Mobile</item>

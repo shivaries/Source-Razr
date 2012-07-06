@@ -1639,5 +1639,4 @@
     <string name="app_error_dialog_title">应用程序错误</string>
     <string name="app_error_dialog_message">抱歉，发生错误，我们无法打开该应用程序。</string>
     <string name="zz_moto_unlock">解锁</string>
-    <string name="carrier_lable_3g">" 3G"</string>
 </resources>

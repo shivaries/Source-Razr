@@ -106,6 +106,5 @@
     <string name="gadget_weather_loading">No weather data</string>
     <string name="gadget_weather_title_24">Weather 2X4</string>
     <string name="gadget_weather_title_14">Weather 1X4</string>
-    <string name="gadget_weather_to">转</string>
-    <string name="gadget_weather_app_not_installed">Please install MIUI Weather</string>
+    <string name="gadget_weather_app_not_installed">Click to install MIUI Weather</string>
 </resources>
