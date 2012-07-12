@@ -57,4 +57,5 @@
     <string name="uninstall_failed_retained_app_msg">无法卸载运营商定制的应用</string>
     <string name="Parse_error_dlg_title">解析错误</string>
     <string name="Parse_error_dlg_text">解析包时出现问题。</string>
+    <string name="caller_app">来源：%1$s</string>
 </resources>

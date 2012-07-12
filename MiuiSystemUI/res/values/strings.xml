@@ -25,8 +25,12 @@
     <string name="status_bar_recent_inspect_item_title">App info</string>
     <string name="status_bar_no_recent_apps">No recent apps</string>
     <string name="status_bar_accessibility_dismiss_recents">Dismiss recent apps</string>
-    <string name="status_bar_recent_clear_result">"Successfully freed %1$s memory.
-Current available memory is %2$s."</string>
+    <string name="status_bar_recent_clear_result">"Successfully freed %1$s memory,
+Current available memory is %2$s"</string>
+    <string name="status_bar_recent_clear_nothing_result">No freeable memory currently</string>
+    <string name="status_bar_recent_guide_all">Slide up to close, slide down to lock</string>
+    <string name="status_bar_recent_guide_top">Slide up to close</string>
+    <string name="status_bar_recent_guide_bottom">Slide down to lock</string>
     <string name="status_bar_no_notifications_title">No notifications</string>
     <string name="status_bar_ongoing_events_title">Ongoing</string>
     <string name="status_bar_latest_events_title">Notifications</string>
@@ -146,6 +150,7 @@ If you re-enable data, you may be charged by the operator."</string>
     <string name="status_bar_time_format_24">HH:mm</string>
     <string name="status_bar_date_format">MMMM d, yyyy</string>
     <string name="status_bar_recent_memory_info_format">%dM</string>
+    <string name="status_bar_recent_memory_info">%1$s / %2$s</string>
     <string name="usb_mode_notification">USB Storage</string>
     <string name="usb_mode_dont_ask">"Don't ask next time"</string>
     <string name="usb_mode_mount_storage_title">Open USB storage now？</string>
@@ -277,6 +282,6 @@ If you re-enable data, you may be charged by the operator."</string>
     <string name="status_bar_network_flow_today">Toady:%1$s</string>
     <string name="status_bar_network_flow">"Toady:%1$s    Remain:%2$s    Package:%3$s"</string>
     <string name="status_bar_network_flow_exceed">"Toady:%1$s    Exceeded:%2$s    Package:%3$s"</string>
-    <item type="string" name="APKTOOL_DUMMY_0111">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0112">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0116">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0117">false</item>
 </resources>

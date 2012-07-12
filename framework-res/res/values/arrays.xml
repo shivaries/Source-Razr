@@ -532,11 +532,15 @@
         <item>@null</item>
     </array>
     <string-array name="config_statusBarIcons">
+        <item>headset</item>
+        <item>call_record</item>
+        <item>privacy_mode</item>
         <item>ime</item>
         <item>sync_failing</item>
         <item>sync_active</item>
         <item>gps</item>
         <item>bluetooth</item>
+        <item>bluetooth_handsfree_battery</item>
         <item>nfc</item>
         <item>tty</item>
         <item>speakerphone</item>
@@ -544,6 +548,7 @@
         <item>volume</item>
         <item>ethernet</item>
         <item>wifi</item>
+        <item>wimax</item>
         <item>cdma_eri</item>
         <item>data_connection</item>
         <item>phone_evdo_signal</item>
@@ -552,11 +557,6 @@
         <item>alarm_clock</item>
         <item>secure</item>
         <item>clock</item>
-        <item>headset</item>
-        <item>call_record</item>
-        <item>privacy_mode</item>
-        <item>bluetooth_handsfree_battery</item>
-        <item>wimax</item>
     </string-array>
     <string-array name="networkAttributes">
         <item>wifi,1,1,1,-1,true</item>

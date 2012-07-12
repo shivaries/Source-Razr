@@ -552,7 +552,6 @@
     <string name="sim_contact_search_error">搜索SIM卡联系人发生错误</string>
     <string name="empty_divider_title">你可以</string>
     <string name="noContactHelpTextAccountsInfo">同步Google,Exchange帐户联系人</string>
-    <string name="sync_xiaomi_cloud_contacts">从在线备份恢复</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">恢复小米帐号、米聊备份的数据</string>
     <string name="group_name_contacts">联系人</string>
     <string name="group_name_friends">朋友</string>
@@ -626,6 +625,9 @@
     <string name="export_sim_contacts_dialog_message">您的 SIM 卡还能导入%d个联系人号码, 确定要继续吗?</string>
     <string name="export_sim_contact_finish">导出到 SIM 卡完成</string>
     <string name="sim_export_loading">正在读取 SIM 卡信息。此操作可能会花一分钟时间，请耐心等候。</string>
+    <string name="pref_title_account_import">帐户导入</string>
+    <string name="pref_title_import_from_account">导入到小米帐户</string>
+    <string name="pref_summary_import_from_account">把Google和Exchange联系人导入到我的小米帐户</string>
     <string name="raw_contact_list_title">该联系人包含如下%1$d个关联联系人，点击选择要编辑的联系人</string>
     <string name="raw_contact_account_label">帐号:%1$s</string>
     <string name="move_and_resize">移动和缩放</string>
@@ -638,4 +640,9 @@
     <string name="open_contact">打开联系人</string>
     <string name="date_picker_label">在TA生日前三天和当天会提醒您</string>
     <string name="pkgLabel">通讯录与拨号</string>
+    <string name="import_to_xiaomi_account_confirm">同步</string>
+    <string name="import_to_xiaomi_account_progress_title">同步联系人到小米帐号</string>
+    <string name="import_to_xiaomi_account_progress_message">正在同步...</string>
+    <string name="import_to_xiaomi_account_progress_finish">同步已完成</string>
+    <string name="import_to_xiaomi_account_title">是否将以下联系人同步到您的小米帐户中？</string>
 </resources>

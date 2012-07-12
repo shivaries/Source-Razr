@@ -15,4 +15,5 @@
     <bool name="android_config_use_strict_phone_number_comparation">@android:bool/config_use_strict_phone_number_comparation</bool>
     <bool name="config_has_antispam">true</bool>
     <bool name="config_show_status_bar_signal_for_keyguard">true</bool>
+    <bool name="resource_decode_image_with_low_quality">false</bool>
 </resources>

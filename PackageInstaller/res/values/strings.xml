@@ -57,4 +57,5 @@ All previous user data will be saved."</string>
     <string name="uninstall_failed_retained_app_msg">Application customized by the operator could not be uninstalled</string>
     <string name="Parse_error_dlg_title">Parse error</string>
     <string name="Parse_error_dlg_text">There is a problem parsing the package.</string>
+    <string name="caller_app">Caller:%1$s</string>
 </resources>

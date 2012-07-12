@@ -2,8 +2,19 @@
 <resources>
     <string-array name="download_filters">
         <item>All downloads</item>
-        <item>Downloaded</item>
-        <item>Downloading</item>
+        <item>Theme</item>
+        <item>Market</item>
+        <item>Browser</item>
+        <item>Music</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="download_filters_package">
+        <item></item>
+        <item>com.android.thememanager</item>
+        <item>com.xiaomi.market</item>
+        <item>com.android.browser</item>
+        <item>com.miui.player</item>
+        <item>*others*</item>
     </string-array>
     <string-array name="prefEntries_max_bytes_limit">
         <item>10M</item>

@@ -26,16 +26,17 @@
     <string name="wifi_required_body" formatted="false">"您必须使用 Wi-Fi 完成此内容 (%s ) 的下载。
 
 触摸“%s ”可在下次连接到 Wi-Fi 网络时开始下载此内容。"</string>
-    <string name="wifi_recommended_title">文件过大（%s）</string>
-    <string name="wifi_recommended_body">"您正在使用运营商网络的数据连接，可能会产生较高的流量费用，建议通过Wi-Fi完成下载。
+    <string name="wifi_recommended_title">流量提醒</string>
+    <string name="wifi_recommended_body" formatted="false">"即将使用运营商网络下载：
 
-点击“排队等待”可在下次连接到 Wi-Fi 网络时自动开始下载此文件。
+%s（%s）
 
-您可以在下载设置中修改默认设置。"</string>
-    <string name="button_queue_for_wifi">排队等待</string>
+下载以上文件可能会产生较高的流量费用"</string>
+    <string name="button_queue_for_wifi">有了WLAN再下载</string>
     <string name="button_cancel_download">取消</string>
     <string name="button_start_now">立即下载</string>
     <string name="download_percent">%d%%</string>
     <string name="dialog_insufficient_space_on_external">外部存储器的空间不足</string>
     <string name="dialog_insufficient_space_on_cache">内部下载存储器的空间不足</string>
+    <string name="auto_restart_under_wifi">WLAN下将自动开始下载此文件</string>
 </resources>

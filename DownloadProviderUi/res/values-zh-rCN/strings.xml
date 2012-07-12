@@ -64,4 +64,6 @@
     <string name="pref_dialog_title_max_bytes_limit">文件大小限制</string>
     <string name="prefDefault_max_bytes_limit">1048576</string>
     <string name="might_lead_to_mobile_charge">取消下载提示后，运营商网络下任何下载将不再提示，可能会导致流量费用</string>
+    <string name="download_in_process">下载中</string>
+    <string name="download_complete">已下载</string>
 </resources>

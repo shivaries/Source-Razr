@@ -53,4 +53,12 @@
         <item>Froyo-N1</item>
         <item>Honeycomb-Xoom</item>
     </string-array>
+    <string-array name="pref_volume_key_choices">
+        <item>页面上下翻页</item>
+        <item>切换标签页</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_choices">
+        <item>前进后退</item>
+        <item>切换标签页</item>
+    </string-array>
 </resources>

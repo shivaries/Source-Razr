@@ -73,7 +73,7 @@
     <string name="app_detail_internet_control_category">联网控制</string>
     <string name="app_detail_internet_background">后台运行时联网</string>
     <string name="app_detail_internet_background_traffic">"前台：%1$s    后台：%2$s"</string>
-    <string name="stop_app_button">结束运行</string>
+    <string name="stop_app_button">强行停止</string>
     <string name="detail_app_button">程序详情</string>
     <string name="plate_traffic_already_used">已用 (%s)</string>
     <string name="plate_traffic_remain">剩余 (%s)</string>
@@ -116,4 +116,6 @@
     <string name="pref_network_speed_settings">在状态栏显示当前流量</string>
     <string name="pref_network_speed_internal_title">网速刷新时间间隔</string>
     <string name="pref_netwotk_speed_internal_summary">网速每隔 %d 秒刷新一次</string>
+    <string name="force_stop_dlg_title">要强行停止吗？</string>
+    <string name="force_stop_dlg_text">强行停止某个应用程序可能会导致其出现异常。</string>
 </resources>

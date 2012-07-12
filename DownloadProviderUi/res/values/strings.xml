@@ -66,4 +66,6 @@
     <string name="pref_dialog_title_max_bytes_limit">File size limit</string>
     <string name="prefDefault_max_bytes_limit">1048576</string>
     <string name="might_lead_to_mobile_charge">"After canceling, there will be no download prompt of operator's network. This may lead to traffic costs"</string>
+    <string name="download_in_process">Downloading</string>
+    <string name="download_complete">Downloaded</string>
 </resources>

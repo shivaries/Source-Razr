@@ -335,4 +335,10 @@
     <string name="month_of_november">11月</string>
     <string name="month_of_december">12月</string>
     <string name="day_of_month">%d日</string>
+    <string name="group_name_contacts">联系人</string>
+    <string name="group_name_friends">朋友</string>
+    <string name="group_name_family">家人</string>
+    <string name="group_name_coworkers">同事</string>
+    <string name="perm_activate_lab">小米激活服务</string>
+    <string name="perm_activate_dspt">通过发送短信激活您的小米服务</string>
 </resources>
