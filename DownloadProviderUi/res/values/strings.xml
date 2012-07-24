@@ -68,7 +68,4 @@
     <string name="might_lead_to_mobile_charge">"After canceling, there will be no download prompt of operator's network. This may lead to traffic costs"</string>
     <string name="download_in_process">Downloading</string>
     <string name="download_complete">Downloaded</string>
-    <string name="retry_after_network_available">Please retry while network connection is available</string>
-    <string name="editmode_menu_share">Share</string>
-    <string name="editmode_menu_delete">Delete</string>
 </resources>

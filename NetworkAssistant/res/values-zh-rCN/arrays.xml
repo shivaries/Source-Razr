@@ -23,6 +23,20 @@
         <item>当天2G/3G</item>
         <item>当月2G/3G</item>
     </string-array>
+    <string-array name="carriers">
+        <item>中国移动</item>
+        <item>中国联通</item>
+        <item>中国电信</item>
+    </string-array>
+    <string-array name="brands_cmcc">
+        <item>全球通</item>
+        <item>动感地带</item>
+        <item>神州行</item>
+    </string-array>
+    <string-array name="brands_unicom">
+        <item>联通2G</item>
+        <item>联通3G</item>
+    </string-array>
     <string-array name="network_speed_update_internals">
         <item>3秒</item>
         <item>4秒</item>
