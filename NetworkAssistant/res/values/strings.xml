@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="empty" />
-    <string name="carrier_cmcc">%1$s, %2$s, %3$s</string>
+    <string name="carrier_cmcc">%1$s, %2$s, %3$s, %4$s</string>
     <string name="carrier_none_cmcc">%1$s, %2$s</string>
     <string name="mobile_type">2G/3G</string>
     <string name="wifi_type">WLAN</string>
@@ -130,4 +130,9 @@
     <string name="pref_netwotk_speed_internal_summary">Network speed update every %d s</string>
     <string name="force_stop_dlg_title">Force stop?</string>
     <string name="force_stop_dlg_text">If you force stop an app, it may misbehave.</string>
+    <string name="adjust_traffic_update">Update</string>
+    <string name="adjust_traffic_sms_template_update">Update sms template</string>
+    <string name="updating">updating…</string>
+    <string name="update_success">Updated success.</string>
+    <string name="update_fail">Updated fail.</string>
 </resources>
