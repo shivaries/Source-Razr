@@ -553,6 +553,8 @@
     <public type="drawable" name="ic_audio_system_mute" id="0x060201fb" />
     <public type="drawable" name="ic_lock_audio_vol" id="0x060201fc" />
     <public type="drawable" name="ic_lock_audio_vol_mute" id="0x060201fd" />
+    <public type="drawable" name="select_text_highlight" id="0x060201fe" />
+    <public type="drawable" name="select_text_magnifier" id="0x060201ff" />
     <public type="drawable" name="orientation_lock" id="0x060200c0" />
     <public type="drawable" name="orientation_unlock" id="0x060200c1" />
     <public type="layout" name="contact_header" id="0x06030000" />
