@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="app_icon_size">48.0dip</dimen>
-    <dimen name="thumbnail_height">200.0dip</dimen>
-    <dimen name="thumbnail_width">200.0dip</dimen>
+    <dimen name="thumbnail_height">120.0dip</dimen>
+    <dimen name="thumbnail_width">120.0dip</dimen>
     <item type="dimen" name="dialog_min_width_major">65.0%</item>
     <item type="dimen" name="dialog_min_width_minor">100.0%</item>
     <dimen name="notification_large_icon_width">28.0dip</dimen>

@@ -1729,6 +1729,8 @@ Attentation please，this operation can not be undone"</string>
     <string name="usage_log">Application usage statistics</string>
     <string name="usb_msd_title">Mass Storage</string>
     <string name="usb_msd_summary">Lets you transfer files on Windows and Mac</string>
+    <string name="input_settings">Input settings</string>
+    <string name="show_magnifier_when_input">Show magnifier</string>
     <string name="volume_voice_description">Voice volume</string>
     <string name="volume_system_description">System volume, for camera shutter, lockscreen and other system notifcations</string>
     <string name="volume_bluetooth_description">Bluetooth volume</string>

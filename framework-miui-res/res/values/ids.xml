@@ -3,16 +3,16 @@
     <item type="id" name="delete_button" />
     <item type="id" name="paste_list" />
     <item type="id" name="selection_menu" />
-    <id name="android_alertTitle">@android:id/alertTitle</id>
-    <id name="android_action_bar_container">@android:id/action_bar_container</id>
-    <id name="android_split_action_bar">@android:id/split_action_bar</id>
-    <id name="android_alwaysUse">@android:id/alwaysUse</id>
-    <id name="android_clearDefaultHint">@android:id/clearDefaultHint</id>
-    <id name="android_banner">@android:id/banner</id>
-    <id name="android_mount_button">@android:id/mount_button</id>
-    <id name="android_unmount_button">@android:id/unmount_button</id>
-    <id name="android_title">@android:id/title</id>
-    <id name="android_body">@android:id/body</id>
+    <item type="id" name="android_alertTitle">@android:id/alertTitle</item>
+    <item type="id" name="android_action_bar_container">@android:id/action_bar_container</item>
+    <item type="id" name="android_split_action_bar">@android:id/split_action_bar</item>
+    <item type="id" name="android_alwaysUse">@android:id/alwaysUse</item>
+    <item type="id" name="android_clearDefaultHint">@android:id/clearDefaultHint</item>
+    <item type="id" name="android_banner">@android:id/banner</item>
+    <item type="id" name="android_mount_button">@android:id/mount_button</item>
+    <item type="id" name="android_unmount_button">@android:id/unmount_button</item>
+    <item type="id" name="android_title">@android:id/title</item>
+    <item type="id" name="android_body">@android:id/body</item>
     <item type="id" name="visible_panel" />
     <item type="id" name="slider_group" />
     <item type="id" name="expand_button" />
@@ -35,7 +35,7 @@
     <item type="id" name="arrow_down" />
     <item type="id" name="boot_msg_title" />
     <item type="id" name="boot_msg_animation" />
-    <id name="android_placeholder">@android:id/placeholder</id>
+    <item type="id" name="android_placeholder">@android:id/placeholder</item>
     <item type="id" name="banner">false</item>
     <item type="id" name="photo">false</item>
     <item type="id" name="image_star">false</item>

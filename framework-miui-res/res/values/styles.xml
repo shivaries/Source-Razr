@@ -112,11 +112,11 @@
     </style>
     <style name="ResourceBrowser.ResourceProperty.Title" parent="@style/ResourceBrowser.ResourceProperty">
         <item name="android:gravity">right</item>
-        <item name="android:layout_weight">1.0</item>
+        <item name="android:layout_weight">2.0</item>
     </style>
     <style name="ResourceBrowser.ResourceProperty.Content" parent="@style/ResourceBrowser.ResourceProperty">
         <item name="android:layout_marginLeft">10.0dip</item>
-        <item name="android:layout_weight">2.0</item>
+        <item name="android:layout_weight">3.0</item>
     </style>
     <style name="Theme" parent="@android:style/Theme.Holo" />
     <style name="Theme.Light" parent="@android:style/Theme.Holo.Light">

@@ -1652,6 +1652,8 @@ Google 的这款同步数据工具可让您随时随地访问您的联系人、�
     <string name="usage_log">程序使用统计信息</string>
     <string name="usb_msd_title">大容量存储</string>
     <string name="usb_msd_summary">可让您在 Windows and Mac 系统中传输文件</string>
+    <string name="input_settings">输入</string>
+    <string name="show_magnifier_when_input">开启放大镜</string>
     <string name="volume_voice_description">语音通话音量</string>
     <string name="volume_system_description">系统音量，拍照、截屏、按键操作等的音量</string>
     <string name="volume_bluetooth_description">蓝牙音量</string>

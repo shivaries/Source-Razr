@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <xml name="android_apns">@android:xml/apns</xml>
+    <item type="xml" name="android_apns">@android:xml/apns</item>
 </resources>

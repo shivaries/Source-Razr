@@ -910,4 +910,8 @@
         <item>android.permission.RECEIVE_WAP_PUSH</item>
         <item>android.permission.RETRIEVE_WINDOW_CONTENT</item>
     </string-array>
+    <string-array name="new_account_types">
+        <item>Register via phone number (Recommended)</item>
+        <item>Register via Email</item>
+    </string-array>
 </resources>
