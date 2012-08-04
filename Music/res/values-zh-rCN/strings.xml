@@ -18,6 +18,8 @@
     <string name="refresh_finish">刷新完成</string>
     <string name="refresh_start">开始刷新</string>
     <string name="quit_player">退出</string>
+    <string name="not_selected">请选择一首歌曲</string>
+    <string name="file_not_found">文件不存在</string>
     <string name="music_settings">设置</string>
     <string name="mobile_connect_settings">运营商网络</string>
     <string name="download_album_settings">自动下载封面</string>
@@ -179,7 +181,7 @@
     <string name="playback_failed_no_title_by_bad_file">歌曲无法播放，格式不支持或者文件不存在</string>
     <string name="playback_failed_no_title_by_network">歌曲无法播放，请检查网络连接</string>
     <string name="buffering">缓冲</string>
-    <string name="musicbrowserlabel">音乐</string>
+    <string name="music_browser_label">音乐</string>
     <string name="mediaplaybacklabel">音乐</string>
     <string name="online_music">发现音乐</string>
     <string name="artists_title">歌手</string>

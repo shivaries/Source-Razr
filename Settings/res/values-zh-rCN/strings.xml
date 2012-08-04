@@ -1629,7 +1629,7 @@ Google 的这款同步数据工具可让您随时随地访问您的联系人、�
     <string name="frequently_fragment_tempty">您经常使用的设置项将出现在这里</string>
     <string name="frequently_fragment_delete">删除</string>
     <string name="show_fc">显示“强制关闭”</string>
-    <string name="show_fc_summary">为应用程序显示”强制关闭”(FC)对话框</string>
+    <string name="show_fc_summary">为应用程序显示“强制关闭”(FC)对话框</string>
     <string name="factory_reset_summary">您可以通过重置手机来清除手机中的个人数据，也可以选择清除安装程序和格式化SD卡来恢复到出厂设置</string>
     <string name="erase_sure">一定清除</string>
     <string name="erase_personal_data">个人数据</string>
@@ -1659,4 +1659,10 @@ Google 的这款同步数据工具可让您随时随地访问您的联系人、�
     <string name="volume_bluetooth_description">蓝牙音量</string>
     <string name="volume_restore">重置音量</string>
     <string name="volume_restore_alert">所有音量都会恢复到默认设置，确认是否继续？</string>
+    <string name="font_size_summary">调整电话、短信、联系人等应用的字体大小和布局，让阅读和操作更方便。</string>
+    <string name="font_size_small">小号</string>
+    <string name="font_size_normal">标准</string>
+    <string name="font_size_medium">中号</string>
+    <string name="font_size_large">大号</string>
+    <string name="font_size_huge">超大</string>
 </resources>

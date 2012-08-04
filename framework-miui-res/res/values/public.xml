@@ -188,6 +188,8 @@
     <public type="drawable" name="android_edit_text_holo_dark" id="0x060201d4" />
     <public type="drawable" name="resource_circle_progressbar_determinate" id="0x060201f7" />
     <public type="drawable" name="resource_circle_progressbar_indeterminate" id="0x060201f8" />
+    <public type="drawable" name="android_ic_lock_idle_lock" id="0x06020200" />
+    <public type="drawable" name="android_divider_horizontal_dark" id="0x06020201" />
     <public type="drawable" name="alphabet_indexer_bg_normal" id="0x06020001" />
     <public type="drawable" name="alphabet_indexer_bg_pressed" id="0x06020002" />
     <public type="drawable" name="alphabet_indexer_overlay" id="0x06020003" />
@@ -613,6 +615,8 @@
     <public type="layout" name="grid_single_item" id="0x06030035" />
     <public type="layout" name="grid_list_item" id="0x06030036" />
     <public type="layout" name="text_copy_float_panel" id="0x06030037" />
+    <public type="layout" name="keyguard_screen_glogin_unlock" id="0x06030038" />
+    <public type="layout" name="keyguard_screen_glogin_unlock_list_item" id="0x06030039" />
     <public type="anim" name="alert_dialog_enter" id="0x06040000" />
     <public type="anim" name="alert_dialog_exit" id="0x06040001" />
     <public type="anim" name="lock_screen_album_fade_in" id="0x06040002" />
@@ -823,84 +827,94 @@
     <public type="id" name="arrow_left" id="0x060b0046" />
     <public type="id" name="arrow_right" id="0x060b0047" />
     <public type="id" name="content" id="0x060b0048" />
-    <public type="id" name="common_root" id="0x060b0049" />
-    <public type="id" name="emergencyCall" id="0x060b004a" />
-    <public type="id" name="carrier" id="0x060b004b" />
-    <public type="id" name="screenLocked" id="0x060b004c" />
-    <public type="id" name="unlock_sim_via_puk" id="0x060b004d" />
-    <public type="id" name="lock_screen_battery_info" id="0x060b004e" />
-    <public type="id" name="lock_screen_call_preview_list" id="0x060b004f" />
-    <public type="id" name="line1" id="0x060b0050" />
-    <public type="id" name="number" id="0x060b0051" />
-    <public type="id" name="duration" id="0x060b0052" />
-    <public type="id" name="album_wrapper" id="0x060b0053" />
-    <public type="id" name="lock_screen_music_album" id="0x060b0054" />
-    <public type="id" name="lock_screen_music_temp_album" id="0x060b0055" />
-    <public type="id" name="lock_screen_music_battery_indicator" id="0x060b0056" />
-    <public type="id" name="title" id="0x060b0057" />
-    <public type="id" name="lockscreen_music_command" id="0x060b0058" />
-    <public type="id" name="previous" id="0x060b0059" />
-    <public type="id" name="play_pause" id="0x060b005a" />
-    <public type="id" name="next" id="0x060b005b" />
-    <public type="id" name="music_spectrum_visualizer" id="0x060b005c" />
-    <public type="id" name="lock_screen_sms_preview_list" id="0x060b005d" />
-    <public type="id" name="text" id="0x060b005e" />
-    <public type="id" name="time" id="0x060b005f" />
-    <public type="id" name="first_digital" id="0x060b0060" />
-    <public type="id" name="second_digital" id="0x060b0061" />
-    <public type="id" name="dot_digital" id="0x060b0062" />
-    <public type="id" name="third_digital" id="0x060b0063" />
-    <public type="id" name="fouth_digital" id="0x060b0064" />
-    <public type="id" name="current_date" id="0x060b0065" />
-    <public type="id" name="root" id="0x060b0066" />
-    <public type="id" name="previews" id="0x060b0067" />
-    <public type="id" name="imageView1" id="0x060b0068" />
-    <public type="id" name="textView1" id="0x060b0069" />
-    <public type="id" name="tableLayout1" id="0x060b006a" />
-    <public type="id" name="tableRow1" id="0x060b006b" />
-    <public type="id" name="resourceauthor" id="0x060b006c" />
-    <public type="id" name="tableRow2" id="0x060b006d" />
-    <public type="id" name="resourcedesigner" id="0x060b006e" />
-    <public type="id" name="tableRow3" id="0x060b006f" />
-    <public type="id" name="resourcesize" id="0x060b0070" />
-    <public type="id" name="tableRow4" id="0x060b0071" />
-    <public type="id" name="resourceversion" id="0x060b0072" />
-    <public type="id" name="tableRow5" id="0x060b0073" />
-    <public type="id" name="resourcemodifiedtime" id="0x060b0074" />
-    <public type="id" name="tableRow6" id="0x060b0075" />
-    <public type="id" name="resourcedownload" id="0x060b0076" />
-    <public type="id" name="ringtoneimage" id="0x060b0077" />
-    <public type="id" name="ringtonename" id="0x060b0078" />
-    <public type="id" name="ringtonebutton" id="0x060b0079" />
-    <public type="id" name="root_flag" id="0x060b007a" />
-    <public type="id" name="top_flag" id="0x060b007b" />
-    <public type="id" name="center_flag" id="0x060b007c" />
-    <public type="id" name="bottom_flag" id="0x060b007d" />
-    <public type="id" name="thumbnail" id="0x060b007e" />
-    <public type="id" name="mark" id="0x060b007f" />
-    <public type="id" name="subtitle" id="0x060b0080" />
-    <public type="id" name="thumbnail_1" id="0x060b0081" />
-    <public type="id" name="thumbnail_2" id="0x060b0082" />
-    <public type="id" name="thumbnail_3" id="0x060b0083" />
-    <public type="id" name="author" id="0x060b0084" />
-    <public type="id" name="playProgress" id="0x060b0085" />
-    <public type="id" name="textArea" id="0x060b0086" />
-    <public type="id" name="subTitle" id="0x060b0087" />
-    <public type="id" name="downloadProgress" id="0x060b0088" />
-    <public type="id" name="operator" id="0x060b0089" />
-    <public type="id" name="resourcelist" id="0x060b008a" />
-    <public type="id" name="loadingprogressbar" id="0x060b008b" />
-    <public type="id" name="seeMore" id="0x060b008c" />
-    <public type="id" name="tablayout" id="0x060b008d" />
-    <public type="id" name="categorylist" id="0x060b008e" />
-    <public type="id" name="operationBar" id="0x060b008f" />
-    <public type="id" name="operationView" id="0x060b0090" />
-    <public type="id" name="magicButton" id="0x060b0091" />
-    <public type="id" name="downloadButton" id="0x060b0092" />
-    <public type="id" name="applyButton" id="0x060b0093" />
-    <public type="id" name="deleteButton" id="0x060b0094" />
-    <public type="id" name="action_select_all" id="0x060b0095" />
-    <public type="id" name="delete" id="0x060b0096" />
+    <public type="id" name="emergencyCallButton_account" id="0x060b0049" />
+    <public type="id" name="topHeader_account" id="0x060b004a" />
+    <public type="id" name="spacerTop_account" id="0x060b004b" />
+    <public type="id" name="instructions_account" id="0x060b004c" />
+    <public type="id" name="login_account" id="0x060b004d" />
+    <public type="id" name="password_account" id="0x060b004e" />
+    <public type="id" name="ok" id="0x060b004f" />
+    <public type="id" name="ok_account" id="0x060b0050" />
+    <public type="id" name="account_icon" id="0x060b0051" />
+    <public type="id" name="account_id" id="0x060b0052" />
+    <public type="id" name="common_root" id="0x060b0053" />
+    <public type="id" name="emergencyCall" id="0x060b0054" />
+    <public type="id" name="carrier" id="0x060b0055" />
+    <public type="id" name="screenLocked" id="0x060b0056" />
+    <public type="id" name="unlock_sim_via_puk" id="0x060b0057" />
+    <public type="id" name="lock_screen_battery_info" id="0x060b0058" />
+    <public type="id" name="lock_screen_call_preview_list" id="0x060b0059" />
+    <public type="id" name="line1" id="0x060b005a" />
+    <public type="id" name="number" id="0x060b005b" />
+    <public type="id" name="duration" id="0x060b005c" />
+    <public type="id" name="album_wrapper" id="0x060b005d" />
+    <public type="id" name="lock_screen_music_album" id="0x060b005e" />
+    <public type="id" name="lock_screen_music_temp_album" id="0x060b005f" />
+    <public type="id" name="lock_screen_music_battery_indicator" id="0x060b0060" />
+    <public type="id" name="title" id="0x060b0061" />
+    <public type="id" name="lockscreen_music_command" id="0x060b0062" />
+    <public type="id" name="previous" id="0x060b0063" />
+    <public type="id" name="play_pause" id="0x060b0064" />
+    <public type="id" name="next" id="0x060b0065" />
+    <public type="id" name="music_spectrum_visualizer" id="0x060b0066" />
+    <public type="id" name="lock_screen_sms_preview_list" id="0x060b0067" />
+    <public type="id" name="text" id="0x060b0068" />
+    <public type="id" name="time" id="0x060b0069" />
+    <public type="id" name="first_digital" id="0x060b006a" />
+    <public type="id" name="second_digital" id="0x060b006b" />
+    <public type="id" name="dot_digital" id="0x060b006c" />
+    <public type="id" name="third_digital" id="0x060b006d" />
+    <public type="id" name="fouth_digital" id="0x060b006e" />
+    <public type="id" name="current_date" id="0x060b006f" />
+    <public type="id" name="root" id="0x060b0070" />
+    <public type="id" name="previews" id="0x060b0071" />
+    <public type="id" name="imageView1" id="0x060b0072" />
+    <public type="id" name="textView1" id="0x060b0073" />
+    <public type="id" name="tableLayout1" id="0x060b0074" />
+    <public type="id" name="tableRow1" id="0x060b0075" />
+    <public type="id" name="resourceauthor" id="0x060b0076" />
+    <public type="id" name="tableRow2" id="0x060b0077" />
+    <public type="id" name="resourcedesigner" id="0x060b0078" />
+    <public type="id" name="tableRow3" id="0x060b0079" />
+    <public type="id" name="resourcesize" id="0x060b007a" />
+    <public type="id" name="tableRow4" id="0x060b007b" />
+    <public type="id" name="resourceversion" id="0x060b007c" />
+    <public type="id" name="tableRow5" id="0x060b007d" />
+    <public type="id" name="resourcemodifiedtime" id="0x060b007e" />
+    <public type="id" name="tableRow6" id="0x060b007f" />
+    <public type="id" name="resourcedownload" id="0x060b0080" />
+    <public type="id" name="ringtoneimage" id="0x060b0081" />
+    <public type="id" name="ringtonename" id="0x060b0082" />
+    <public type="id" name="ringtonebutton" id="0x060b0083" />
+    <public type="id" name="root_flag" id="0x060b0084" />
+    <public type="id" name="top_flag" id="0x060b0085" />
+    <public type="id" name="center_flag" id="0x060b0086" />
+    <public type="id" name="bottom_flag" id="0x060b0087" />
+    <public type="id" name="thumbnail" id="0x060b0088" />
+    <public type="id" name="mark" id="0x060b0089" />
+    <public type="id" name="subtitle" id="0x060b008a" />
+    <public type="id" name="thumbnail_1" id="0x060b008b" />
+    <public type="id" name="thumbnail_2" id="0x060b008c" />
+    <public type="id" name="thumbnail_3" id="0x060b008d" />
+    <public type="id" name="author" id="0x060b008e" />
+    <public type="id" name="playProgress" id="0x060b008f" />
+    <public type="id" name="textArea" id="0x060b0090" />
+    <public type="id" name="subTitle" id="0x060b0091" />
+    <public type="id" name="downloadProgress" id="0x060b0092" />
+    <public type="id" name="operator" id="0x060b0093" />
+    <public type="id" name="resourcelist" id="0x060b0094" />
+    <public type="id" name="loadingprogressbar" id="0x060b0095" />
+    <public type="id" name="seeMore" id="0x060b0096" />
+    <public type="id" name="tablayout" id="0x060b0097" />
+    <public type="id" name="categorylist" id="0x060b0098" />
+    <public type="id" name="operationBar" id="0x060b0099" />
+    <public type="id" name="operationView" id="0x060b009a" />
+    <public type="id" name="magicButton" id="0x060b009b" />
+    <public type="id" name="downloadButton" id="0x060b009c" />
+    <public type="id" name="applyButton" id="0x060b009d" />
+    <public type="id" name="deleteButton" id="0x060b009e" />
+    <public type="id" name="action_select_all" id="0x060b009f" />
+    <public type="id" name="delete" id="0x060b00a0" />
     <public type="string" name="reboot_confirm" id="0x060c0000" />
     <public type="string" name="reboot_progress" id="0x060c0001" />
     <public type="string" name="resourcebrowser_lable" id="0x060c0002" />
@@ -1366,6 +1380,16 @@
     <public type="string" name="group_name_coworkers" id="0x060c01ce" />
     <public type="string" name="perm_activate_lab" id="0x060c01cf" />
     <public type="string" name="perm_activate_dspt" id="0x060c01d0" />
+    <public type="string" name="android_today" id="0x060c01d1" />
+    <public type="string" name="perm_get_user_info_lab" id="0x060c01d2" />
+    <public type="string" name="perm_get_user_info_dspt" id="0x060c01d3" />
+    <public type="string" name="android_lockscreen_glogin_instructions" id="0x060c01d4" />
+    <public type="string" name="android_lockscreen_glogin_password_hint" id="0x060c01d5" />
+    <public type="string" name="android_lockscreen_glogin_submit_button" id="0x060c01d6" />
+    <public type="string" name="android_lockscreen_glogin_too_many_attempts" id="0x060c01d7" />
+    <public type="string" name="android_lockscreen_glogin_forgot_pattern" id="0x060c01d8" />
+    <public type="string" name="android_lockscreen_glogin_invalid_input" id="0x060c01d9" />
+    <public type="string" name="android_lockscreen_glogin_checking_password" id="0x060c01da" />
     <public type="style" name="Widget.ListView.NoDivider" id="0x060d0000" />
     <public type="style" name="Widget.TabWidget.Secondary" id="0x060d0001" />
     <public type="style" name="Widget.Button" id="0x060d0002" />
