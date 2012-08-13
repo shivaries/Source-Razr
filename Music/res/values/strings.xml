@@ -7,7 +7,6 @@
     <string name="deselect_all">Reject all</string>
     <string name="network_error">No network connection, please check your network settings</string>
     <string name="server_failed">Connection to server failed, please try again later</string>
-    <string name="search_result_format">\"%s\"</string>
     <string name="artist_details_format">%1$s, %2$s</string>
     <string name="sleep_mode">Sleep timer</string>
     <string name="cancel_sleep_mode">Sleep timer stopped</string>
@@ -73,7 +72,6 @@
     <string name="scanning_nosdcard">Scanning USB storage…</string>
     <string name="online_indicator">-online</string>
     <string name="search_title">Search</string>
-    <string name="no_tracks_title">No songs</string>
     <string name="delete_playlist_menu">Delete</string>
     <string name="edit_playlist_menu">Edit</string>
     <string name="rename_playlist_menu">Rename</string>
@@ -120,9 +118,23 @@
     <string name="download_processing">Downloading</string>
     <string name="download_batch_start">Start downloading all</string>
     <string name="delete_file_from_sdcard">Also delete file from SD card</string>
+    <string name="recommend">Recommend</string>
+    <string name="billboard">Billboard</string>
+    <string name="channel">FM</string>
+    <string name="new_albums">New Albums</string>
+    <string name="hot_artists">Hot Artists</string>
+    <string name="search_suggestion">Search Suggestions:</string>
     <string name="online_search_hint">Search for online music</string>
-    <string name="load_category_failed">Failed to load category list, please try again</string>
-    <string name="load_category_in_process">Load list(s)</string>
+    <string name="load_channel_in_process">Load channel list</string>
+    <string name="load_channel_failed">Failed to load channel list, please try again</string>
+    <string name="load_bill_in_process">Load billboard list</string>
+    <string name="load_bill_failed">Failed to load billboard list, please try again</string>
+    <string name="load_artist_in_process">Load artist list</string>
+    <string name="load_artist_failed">Failed to load artist list, please try again</string>
+    <string name="load_album_in_process">Load album list</string>
+    <string name="load_album_failed">Failed to load album list, please try again</string>
+    <string name="load_audio_in_process">Load audio list</string>
+    <string name="load_audio_failed">Failed to load audio list, please try again</string>
     <string name="flow_save_confirm">I know</string>
     <string name="continue_when_wifi_disconnect">Continue listening to online music via mobile network</string>
     <string name="stop_when_wifi_disconnect">"WLAN connection has been lost, online songs have been stopped. If you want to listen to online songs using the operator's network, you can modify the settings."</string>
@@ -130,8 +142,6 @@
     <string name="lrc_search_failed">Lyrics not found!</string>
     <string name="lrc_searching">Searching for lyrics...</string>
     <string name="lyric_open_other_connect">Download lyrics using mobile internet connection</string>
-    <string name="search_in_process">Searching</string>
-    <string name="search_failed">Search failed</string>
     <string name="search_history">Search History</string>
     <string name="clear_search_history">Clear Search History</string>
     <string name="impunity_declaration_title">Declaration</string>
@@ -183,6 +193,7 @@
     <string name="buffering">Buffering</string>
     <string name="music_browser_label">Music</string>
     <string name="mediaplaybacklabel">Music</string>
+    <string name="discovery_music">Discovery Music</string>
     <string name="online_music">Online Music</string>
     <string name="artists_title">Artists</string>
     <string name="albums_title">Albums</string>
@@ -223,4 +234,6 @@
     <string name="category_num_format">(%s)</string>
     <string name="track_num_format">(%s)</string>
     <string name="track_album_format" formatted="false">%s - %s</string>
+    <string name="channel_postfix">MHZ</string>
+    <string name="channel_format" formatted="false">"%s  %s MHZ"</string>
 </resources>

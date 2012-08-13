@@ -257,7 +257,7 @@
     <string name="screen_key_home">桌面键</string>
     <string name="screen_key_recent_apps">任务切换键</string>
     <string name="screen_key_back">返回键</string>
-    <string name="status_bar_network_flow_today">今日:%1$s</string>
-    <string name="status_bar_network_flow">"今日:%1$s     剩余:%2$s"</string>
-    <string name="status_bar_network_flow_exceed">"今日:%1$s     超出:%2$s"</string>
+    <string name="status_bar_network_flow_today">今日: %1$s</string>
+    <string name="status_bar_network_flow">"今日:  %1$s    |    剩余:  %2$s"</string>
+    <string name="status_bar_network_flow_exceed">"今日:  %1$s    |    超出:  %2$s"</string>
 </resources>
