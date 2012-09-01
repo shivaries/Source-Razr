@@ -19,7 +19,6 @@
     <string name="menu_account">我的账户</string>
     <string name="menu_install_all">一键安装</string>
     <string name="menu_download_manager">下载管理</string>
-    <string name="menu_refresh">刷新</string>
     <string name="quicksearchbox_description">搜索应用市场中的应用</string>
     <string name="pref_title_update_notification">更新通知</string>
     <string name="pref_title_auto_update_setting">自动更新设置</string>
@@ -101,7 +100,7 @@
     <string name="launch_failed_text">无法启动%1$s</string>
     <string name="notif_title_update">%1$s款应用有更新！</string>
     <string name="notif_installing">正在安装“%1$s”…</string>
-    <string name="notif_install_successful">%1$s安装成功，点此立即启动</string>
+    <string name="notif_install_successful">%1$s安装成功</string>
     <string name="notif_install_failed">%1$s安装失败</string>
     <string name="share_subject">分享一个应用：%1$s</string>
     <string name="share_text">在小米应用商店发现一个有趣的APP：%1$s，分享一下！传送门：%2$s</string>

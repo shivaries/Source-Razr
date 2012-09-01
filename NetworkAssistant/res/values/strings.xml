@@ -135,5 +135,4 @@
     <string name="updating">updating…</string>
     <string name="update_success">Updated success.</string>
     <string name="update_fail">Updated fail.</string>
-    <string name="update_no_network">Failed to update, please check the settings of network.</string>
 </resources>

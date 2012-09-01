@@ -169,9 +169,9 @@ cancelling restore may cause data corruption to occur"</string>
     <string name="enable_encrypt">Enable now</string>
     <string name="already_enable_encrypt">Encryption enabled</string>
     <string name="enable_encrypt_summery1">"System will encrypt your local backup based on Xiaomi account 
- You need to log in Xiaomi account when factory reset or using other phone to restore the backup."</string>
+ You need to log in Xiaomi account when emptying data or using other phone to restore the backup."</string>
     <string name="enable_encrypt_summery2">"The new backup will be automatically encrypted 
- You need to log in Xiaomi account when factory reset or using other phone to restore the backup."</string>
+ You need to log in Xiaomi account when emptying data or using other phone to restore the backup."</string>
     <string name="enable_encrypt_xiaomi_account">This backup was created by %1$s, please delete the current account, and log in %2$s to restore the data.</string>
     <string name="enable_encrypt_ok">OK</string>
     <string name="no_encrypt_password">No encrypt password</string>

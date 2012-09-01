@@ -117,7 +117,6 @@
     <string name="submit_fail">提交失败</string>
     <string name="submit_progress">正在提交...</string>
     <string name="choose_recommend">请选择是否推荐</string>
-    <string name="refuse_recommend_reason">请填写不推荐的理由</string>
     <string name="update_feedback">四格体验报告</string>
     <string name="update_feedback_expired">"抱歉，你错过了体验四格反馈！
 每周二开放，不要再错过哦～"</string>

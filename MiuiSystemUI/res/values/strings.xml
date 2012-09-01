@@ -279,9 +279,9 @@ If you re-enable data, you may be charged by the operator."</string>
     <string name="screen_key_home">Home key</string>
     <string name="screen_key_recent_apps">Recent apps key</string>
     <string name="screen_key_back">Back key</string>
-    <string name="status_bar_network_flow_today">Toady: %1$s</string>
-    <string name="status_bar_network_flow">"Toady:  %1$s    |    Remain:  %2$s"</string>
-    <string name="status_bar_network_flow_exceed">"Toady:  %1$s    |    Exceeded:  %2$s"</string>
+    <string name="status_bar_network_flow_today">Toady:%1$s</string>
+    <string name="status_bar_network_flow">"Toady:%1$s    Remain:%2$s"</string>
+    <string name="status_bar_network_flow_exceed">"Toady:%1$s    Exceeded:%2$s"</string>
     <item type="string" name="APKTOOL_DUMMY_0116">false</item>
     <item type="string" name="APKTOOL_DUMMY_0117">false</item>
 </resources>

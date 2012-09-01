@@ -67,6 +67,8 @@
         <item name="android:layout_height">wrap_content</item>
     </style>
     <style name="ResourceBrowser.ListItem" parent="@style/ResourceBrowser">
+        <item name="android:paddingTop">3.0dip</item>
+        <item name="android:paddingBottom">3.0dip</item>
         <item name="android:layout_width">1.0dip</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_weight">1.0</item>

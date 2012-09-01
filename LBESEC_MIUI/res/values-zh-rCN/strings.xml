@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">授权管理</string>
-    <string name="Generic_Copyright">LBE安全大师提供技术支持</string>
+    <string name="Generic_Copyright">Powered By LBE安全大师</string>
     <string name="Generic_Version">版本: %1$s</string>
     <string name="Generic_Configuration">设置</string>
     <string name="Generic_UserApp">您安装的软件(%d)</string>
@@ -151,7 +151,8 @@
     <string name="Dashboard_Perm_HIPS_Disabled">权限监控已关闭</string>
     <string name="Dashboard_Perm_HIPS_Risky">可能有风险权限(%1$d)</string>
     <string name="Dashboard_Perm_HIPS_Safe">低风险权限(%1$d)</string>
-    <string name="Dashboard_Perm_AutoStart">后台应用管理</string>
+    <string name="Dashboard_Perm_AutoStart_Switch">自启动管理</string>
+    <string name="Dashboard_Perm_AutoStart">软件自启动管理</string>
     <string name="Dashboard_Perm_AutoStart_Desc">监控软件自动启动，不影响手动启动软件</string>
     <string name="Dashboard_HIPS_Disable_Title">关闭权限监控</string>
     <string name="Dashboard_HIPS_Disable_Content">将关闭权限监控。系统将不会监控您安装的程序行为并弹出提醒。确定要关闭吗？</string>
