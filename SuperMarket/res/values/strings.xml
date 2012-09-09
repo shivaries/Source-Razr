@@ -19,6 +19,7 @@
     <string name="menu_account">我的账户</string>
     <string name="menu_install_all">一键安装</string>
     <string name="menu_download_manager">下载管理</string>
+    <string name="menu_refresh">刷新</string>
     <string name="quicksearchbox_description">搜索应用市场中的应用</string>
     <string name="pref_title_update_notification">更新通知</string>
     <string name="pref_title_auto_update_setting">自动更新设置</string>
@@ -90,6 +91,8 @@
     <string name="install_hash_fail">%1$s安装失败：安装包验证失败，请重新下载</string>
     <string name="install_inconsistent_fail">%1$s安装失败：签名不一致，请先卸载该应用</string>
     <string name="install_fail">%1$s安装失败</string>
+    <string name="system_app_sign_not_match_fail">%1$s安装失败：系统应用签名不同无法升级</string>
+    <string name="remove_package_timeout_fail">%1$s安装失败：无法卸载该应用，请手动卸载应用</string>
     <string name="no_data">获取数据失败，请检查网络</string>
     <string name="no_update">没有可升级应用</string>
     <string name="no_local_apps">没有已安装应用</string>
@@ -100,7 +103,7 @@
     <string name="launch_failed_text">无法启动%1$s</string>
     <string name="notif_title_update">%1$s款应用有更新！</string>
     <string name="notif_installing">正在安装“%1$s”…</string>
-    <string name="notif_install_successful">%1$s安装成功</string>
+    <string name="notif_install_successful">%1$s安装成功，点此立即启动</string>
     <string name="notif_install_failed">%1$s安装失败</string>
     <string name="share_subject">分享一个应用：%1$s</string>
     <string name="share_text">在小米应用商店发现一个有趣的APP：%1$s，分享一下！传送门：%2$s</string>
@@ -114,6 +117,9 @@
     <string name="install_btn_continue">继续</string>
     <string name="install_btn_ok">知道了</string>
     <string name="install_btn_download_manager">下载管理</string>
+    <string name="install_sign_not_same_title">签名不一致哦亲</string>
+    <string name="install_sign_not_same_message">%1$s升级包与本地应用签名不同，需卸载本地应用才能继续安装，是否卸载？</string>
+    <string name="install_sign_not_same_btn_remove">卸载并升级</string>
     <string name="status_downloading">下载中：%1$s%%</string>
     <string name="header_processing">正在执行的下载任务</string>
     <string name="header_waiting">等待中的下载任务</string>

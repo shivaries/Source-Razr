@@ -6,6 +6,7 @@
     <string name="process" />
     <string name="application_name">MiuiHome</string>
     <string name="folder_name">Folder</string>
+    <string name="unnamed_folder_name">Unnamed folder</string>
     <string name="chooser_wallpaper">Select wallpaper from</string>
     <string name="activity_not_found">Application is not installed on your phone.</string>
     <string name="cancel_action">Cancel</string>
@@ -22,6 +23,8 @@
     <string name="menu_workspace_preview">Preview</string>
     <string name="menu_back_desktop">Back to home</string>
     <string name="menu_settings">Settings</string>
+    <string name="menu_reset_scene">Reset to default scene</string>
+    <string name="menu_exit_scene">Exit Free Desktop</string>
     <string name="permlab_install_shortcut">install shortcuts</string>
     <string name="permdesc_install_shortcut">Allows an application to add shortcuts without user intervention.</string>
     <string name="permlab_uninstall_shortcut">uninstall shortcuts</string>
@@ -60,6 +63,8 @@
     <string name="default_folder_title_tools">Tools</string>
     <string name="default_folder_title_recommend">Recommend</string>
     <string name="default_folder_title_game">Games</string>
+    <string name="default_folder_title_security">Sceurity Center</string>
+    <string name="reset_scene_prompt">The scene will be reset to default layout</string>
     <string name="preferences_title">Launcher Settings</string>
     <string name="preferences_general_title">General settings</string>
     <string name="pref_keep_in_memory_title">Keep in memory</string>
@@ -109,4 +114,15 @@
     <string name="gadget_weather_title_14">Weather 1X4</string>
     <string name="gadget_weather_app_not_installed">Click to install MIUI Weather</string>
     <string name="gadget_weather_time_format">MM/d EEE</string>
+    <string name="gadget_weather_time_spliter">:</string>
+    <string name="upside_apps_title">Select application</string>
+    <string name="upside_edit_bottom_empty_tip">Tap the rect for change</string>
+    <string name="upside_edit_bar_empty">Empty</string>
+    <string name="upside_edit_bar_select_app">Select app</string>
+    <string name="upside_enter_tip">Slide down with two fingers to switch to free home</string>
+    <string name="upside_exit_tip">Slide up with two fingers to exit free home</string>
+    <string name="gadget_weather_theme_type">Gadget type</string>
+    <string name="gadget_weather_download_title">Download</string>
+    <string name="gadget_weather_download_message">Need to download theme package: %1$s. size: %2$s. Please re-pick after download finish</string>
+    <string name="gadget_weather_download_start">start</string>
 </resources>

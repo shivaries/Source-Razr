@@ -551,6 +551,7 @@
     <string name="sim_indexed_contact_not_exist">数字 %1$d 不是SIM卡有效位置，请输入 %2$d 到 %3$d</string>
     <string name="sim_contact_search_error">搜索SIM卡联系人发生错误</string>
     <string name="empty_divider_title">你可以</string>
+    <string name="contacts_unavailable_add_xiaomi_account">使用小米账户同步</string>
     <string name="noContactHelpTextAccountsInfo">同步Google,Exchange帐户联系人</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">恢复小米帐号、米聊备份的数据</string>
     <string name="group_name_contacts">联系人</string>
@@ -589,6 +590,8 @@
     <string name="pick_recent_list_title">共有%1$d个最近联系人号码</string>
     <string name="noRecentContacts">当前没有最近联系人</string>
     <string name="hint_search_contacts">搜索%d位联系人</string>
+    <string name="pick_favorites_contacts_list_title">共有%1$d个收藏联系人</string>
+    <string name="pick_recent_contacts_list_title">共有%1$d个最近联系人</string>
     <string name="preference_import">导入</string>
     <string name="preference_export">导出</string>
     <string name="preference_others">其他</string>
@@ -628,6 +631,10 @@
     <string name="pref_title_account_import">帐户导入</string>
     <string name="pref_title_import_from_account">导入到小米帐户</string>
     <string name="pref_summary_import_from_account">把Google和Exchange联系人导入到我的小米帐户</string>
+    <string name="preference_select_account_display">按账户筛选</string>
+    <string name="select_show_contacts">要显示的联系人</string>
+    <string name="pref_key_rebuild_t9_index_title">重建索引数据</string>
+    <string name="pref_key_rebuild_t9_index_message">可修复搜索不到联系人的情况</string>
     <string name="raw_contact_list_title">该联系人包含如下%1$d个关联联系人，点击选择要编辑的联系人</string>
     <string name="raw_contact_account_label">帐号:%1$s</string>
     <string name="move_and_resize">移动和缩放</string>
@@ -649,4 +656,11 @@
     <string name="batch_delete_msg">"确定要删除选中的%d个联系人吗？
 
  如果您正在使用联系人同步服务，那么位于云端的联系人信息也会被删除。"</string>
+    <string name="listTotalAllContactsZero">没有联系人。</string>
+    <string name="listTotalAllContactsZeroCustom">未发现任何联系人。</string>
+    <string name="listTotalAllContactsZeroGroup">“%s”中没有联系人</string>
+    <string name="listSingleContact">单个联系人</string>
+    <string name="listCustomView">自定义视图中的联系人</string>
+    <string name="listAllContactsInAccount">%s帐户中的联系人</string>
+    <string name="listTotalPhoneContactsZero">没有联系人拥有电话号码</string>
 </resources>

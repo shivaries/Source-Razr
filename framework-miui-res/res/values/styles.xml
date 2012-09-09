@@ -67,8 +67,6 @@
         <item name="android:layout_height">wrap_content</item>
     </style>
     <style name="ResourceBrowser.ListItem" parent="@style/ResourceBrowser">
-        <item name="android:paddingTop">3.0dip</item>
-        <item name="android:paddingBottom">3.0dip</item>
         <item name="android:layout_width">1.0dip</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_weight">1.0</item>
@@ -77,6 +75,7 @@
         <item name="android:gravity">center_vertical</item>
     </style>
     <style name="ResourceBrowser.ResourceImage" parent="@style/ResourceBrowser">
+        <item name="android:background">@drawable/resource_thumbnail_bg</item>
         <item name="android:layout_width">fill_parent</item>
         <item name="android:layout_height">fill_parent</item>
         <item name="android:scaleType">centerCrop</item>
@@ -147,7 +146,7 @@
     </style>
     <style name="EditorCustomActionButtonText">
         <item name="android:textAppearance">?android:textAppearanceMedium</item>
-        <item name="android:textColor">#b2000000</item>
+        <item name="android:textColor">@color/editor_custom_action_button_text_color</item>
         <item name="android:ellipsize">none</item>
         <item name="android:orientation">horizontal</item>
         <item name="android:padding">4.0dip</item>
@@ -248,5 +247,13 @@
         <item name="android:progressDrawable">@drawable/resource_circle_progressbar_determinate</item>
         <item name="android:indeterminateDuration">3500</item>
         <item name="android:indeterminateBehavior">repeat</item>
+    </style>
+    <style name="ResourceBrowser.ResourceDescription.Font" parent="@style/ResourceBrowser.ResourceDescription">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textColor">@android:color/darker_gray</item>
+        <item name="android:gravity">bottom|center</item>
+        <item name="android:paddingBottom">30.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
     </style>
 </resources>

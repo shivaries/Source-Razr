@@ -58,4 +58,5 @@ All previous user data will be saved."</string>
     <string name="Parse_error_dlg_title">Parse error</string>
     <string name="Parse_error_dlg_text">There is a problem parsing the package.</string>
     <string name="caller_app">Caller:%1$s</string>
+    <string name="safe_guard_support">Technical support provided by %1$s</string>
 </resources>

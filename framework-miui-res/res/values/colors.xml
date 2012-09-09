@@ -28,4 +28,5 @@
     <color name="primary_tab_text_selected_color">#ffff7e00</color>
     <item type="color" name="primary_tab_text_color">@color/primary_text_holo_light</item>
     <color name="darker_transparent">#c1000000</color>
+    <color name="editor_custom_action_button_text_color">#b2000000</color>
 </resources>

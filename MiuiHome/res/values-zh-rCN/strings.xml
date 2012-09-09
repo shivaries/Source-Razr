@@ -2,6 +2,7 @@
 <resources>
     <string name="application_name">MIUI启动器</string>
     <string name="folder_name">文件夹</string>
+    <string name="unnamed_folder_name">未命名文件夹</string>
     <string name="chooser_wallpaper">选择壁纸来源</string>
     <string name="activity_not_found">您的手机上未安装应用程序。</string>
     <string name="cancel_action">取消</string>
@@ -18,6 +19,8 @@
     <string name="menu_workspace_preview">桌面缩略图</string>
     <string name="menu_back_desktop">返回桌面</string>
     <string name="menu_settings">系统设置</string>
+    <string name="menu_reset_scene">恢复默认布局</string>
+    <string name="menu_exit_scene">退出自由桌面</string>
     <string name="permlab_install_shortcut">安装快捷方式</string>
     <string name="permdesc_install_shortcut">允许应用程序在没有用户介入的情况下添加快捷方式。</string>
     <string name="permlab_uninstall_shortcut">卸载快捷方式</string>
@@ -56,6 +59,8 @@
     <string name="default_folder_title_tools">系统工具</string>
     <string name="default_folder_title_recommend">推荐</string>
     <string name="default_folder_title_game">游戏</string>
+    <string name="default_folder_title_security">安全中心</string>
+    <string name="reset_scene_prompt">主题将恢复默认布局和样式</string>
     <string name="preferences_title">桌面效果设置</string>
     <string name="preferences_general_title">一般设置</string>
     <string name="pref_keep_in_memory_title">常驻内存</string>
@@ -103,4 +108,14 @@
     <string name="gadget_weather_title_14">天气1X4</string>
     <string name="gadget_weather_app_not_installed">点击安装MIUI天气</string>
     <string name="gadget_weather_time_format">M月d日 EEE</string>
+    <string name="upside_apps_title">选择应用程序</string>
+    <string name="upside_edit_bottom_empty_tip">单击可编辑区域进行编辑</string>
+    <string name="upside_edit_bar_empty">空</string>
+    <string name="upside_edit_bar_select_app">选择应用程序</string>
+    <string name="upside_enter_tip">双指下划切换至自由桌面</string>
+    <string name="upside_exit_tip">双指上划退出自由桌面</string>
+    <string name="gadget_weather_theme_type">插件样式</string>
+    <string name="gadget_weather_download_title">下载</string>
+    <string name="gadget_weather_download_message">需要下载插件皮肤包: %1$s. 大小: %2$s。请下载完成后重新选择。</string>
+    <string name="gadget_weather_download_start">开始下载</string>
 </resources>

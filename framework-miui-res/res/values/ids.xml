@@ -110,8 +110,12 @@
     <item type="id" name="third_digital">false</item>
     <item type="id" name="fouth_digital">false</item>
     <item type="id" name="current_date">false</item>
+    <item type="id" name="sync_failed">false</item>
+    <item type="id" name="sync_active">false</item>
     <item type="id" name="root">false</item>
+    <item type="id" name="childroot">false</item>
     <item type="id" name="previews">false</item>
+    <item type="id" name="coverview">false</item>
     <item type="id" name="imageView1">false</item>
     <item type="id" name="textView1">false</item>
     <item type="id" name="tableLayout1">false</item>
@@ -150,6 +154,7 @@
     <item type="id" name="loadingprogressbar">false</item>
     <item type="id" name="seeMore">false</item>
     <item type="id" name="tablayout">false</item>
+    <item type="id" name="recommendlist">false</item>
     <item type="id" name="categorylist">false</item>
     <item type="id" name="operationBar">false</item>
     <item type="id" name="operationView">false</item>

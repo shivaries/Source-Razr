@@ -565,6 +565,7 @@ Choose one of the following options:"</string>
     <string name="sim_indexed_contact_not_exist">Position %1$d on SIM card is not valid, should between %2$d and %3$d</string>
     <string name="sim_contact_search_error">Error occurs when searching SIM card contacts</string>
     <string name="empty_divider_title">You can</string>
+    <string name="contacts_unavailable_add_xiaomi_account">Sync Xiaomi contacts</string>
     <string name="noContactHelpTextAccountsInfo">Sync Google, Exchange contacts.</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">Restore data backed up in Xiaomi account and MiTalk</string>
     <string name="group_name_contacts">Contacts</string>
@@ -603,6 +604,8 @@ Choose one of the following options:"</string>
     <string name="pick_recent_list_title">%1$d recent contact numbers in total</string>
     <string name="noRecentContacts">No recent contact</string>
     <string name="hint_search_contacts">%d contacts</string>
+    <string name="pick_favorites_contacts_list_title">%1$d favorite contacts in total</string>
+    <string name="pick_recent_contacts_list_title">%1$d recent contacts in total</string>
     <string name="preference_import">Import</string>
     <string name="preference_export">Export</string>
     <string name="preference_others">Others</string>
@@ -642,6 +645,10 @@ Choose one of the following options:"</string>
     <string name="pref_title_account_import">Import from account</string>
     <string name="pref_title_import_from_account">Import to Xiaomi account</string>
     <string name="pref_summary_import_from_account">Import contacts in Google and Exchange accounts to my Xiaomi Account</string>
+    <string name="preference_select_account_display">setting options</string>
+    <string name="select_show_contacts">To display the contact</string>
+    <string name="pref_key_rebuild_t9_index_title">Rebuild index data</string>
+    <string name="pref_key_rebuild_t9_index_message">Able to fix contact search failure</string>
     <string name="raw_contact_list_title">This contact includes following %1$d raw contacts，click to choose contact to edit</string>
     <string name="raw_contact_account_label">Account:%1$s</string>
     <string name="move_and_resize">Move and Scale</string>
@@ -663,4 +670,11 @@ Choose one of the following options:"</string>
     <string name="batch_delete_msg">"Are you sure you want to delete the selected %d contacts? 
 
  If you are using the contact sync service, the contact info in the cloud will also be deleted."</string>
+    <string name="listTotalAllContactsZero">No contacts.</string>
+    <string name="listTotalAllContactsZeroCustom">No visible contacts.</string>
+    <string name="listTotalAllContactsZeroGroup">No contacts in %s</string>
+    <string name="listSingleContact">Single contact</string>
+    <string name="listCustomView">Contacts in custom view</string>
+    <string name="listAllContactsInAccount">Contacts in %s</string>
+    <string name="listTotalPhoneContactsZero">No contacts with phone numbers</string>
 </resources>

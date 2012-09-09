@@ -11,7 +11,7 @@
     <dimen name="alphabet_indexer_overlay_padding_top">0.0dip</dimen>
     <dimen name="button_bar_text_size">17.0sp</dimen>
     <dimen name="alphabet_indexer_overlay_offset">20.0dip</dimen>
-    <dimen name="resource_thumbnail_gap">4.0dip</dimen>
+    <dimen name="resource_thumbnail_gap">2.665985dip</dimen>
     <dimen name="text_font_size_huge">18.0sp</dimen>
     <dimen name="text_font_size_large">16.0sp</dimen>
     <dimen name="text_font_size_medium">14.0sp</dimen>
@@ -39,4 +39,7 @@
     <dimen name="two_floors_action_bar_height">46.0dip</dimen>
     <item type="dimen" name="android_preference_icon_minWidth">@android:dimen/preference_icon_minWidth</item>
     <dimen name="magnifier_finger_offset">70.0dip</dimen>
+    <dimen name="float_panel_arrow_top_offset">2.6669922dip</dimen>
+    <dimen name="float_panel_arrow_bottom_offset">6.666992dip</dimen>
+    <dimen name="resource_perview_font_padding">14.0dip</dimen>
 </resources>

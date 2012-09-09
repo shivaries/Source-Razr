@@ -135,4 +135,12 @@
     <string name="updating">updating…</string>
     <string name="update_success">Updated success.</string>
     <string name="update_fail">Updated fail.</string>
+    <string name="update_no_network">Failed to update, please check the settings of network.</string>
+    <string name="adjust_traffic_carrier_summary_today">Today %1$02d:%2$02d updated</string>
+    <string name="adjust_traffic_carrier_summary_yesterday">Yesterday %1$02d:%2$02d updated</string>
+    <string name="adjust_traffic_carrier_summary_three_day_before">Three days before updated</string>
+    <string name="adjust_traffic_carrier_summary_oneweek_before">One week updated</string>
+    <string name="adjust_traffic_carrier_summary_more_oneweek_before">"Haven't been updated more than one week"</string>
+    <string name="adjust_traffic_carrier_summary_more_onemonth_before">"Haven't been update more than one month"</string>
+    <string name="adjust_traffic_carrier_adjusting">adjusting…</string>
 </resources>

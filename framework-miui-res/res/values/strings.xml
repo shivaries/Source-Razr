@@ -478,4 +478,24 @@ Enable via Settings > System > Button Settings"</string>
     <string name="android_lockscreen_glogin_forgot_pattern">@android:string/lockscreen_glogin_forgot_pattern</string>
     <string name="android_lockscreen_glogin_invalid_input">@android:string/lockscreen_glogin_invalid_input</string>
     <string name="android_lockscreen_glogin_checking_password">@android:string/lockscreen_glogin_checking_password</string>
+    <string name="sync_one_time_sync">Touch to sync（ %1$s )</string>
+    <string name="no_sim">No sim, service is unavailable</string>
+    <string name="activating">Activating...</string>
+    <string name="android_byteShort">@android:string/byteShort</string>
+    <string name="android_terabyteShort">@android:string/terabyteShort</string>
+    <string name="android_petabyteShort">@android:string/petabyteShort</string>
+    <string name="android_fileSizeSuffix">@android:string/fileSizeSuffix</string>
+    <string name="perm_tigger_toggle_lab">Tigger toggles from status bar</string>
+    <string name="perm_tigger_toggle_dspt">Allow Apps to trigger toggles provided by status bar</string>
+    <string name="perm_use_find_device">Find device</string>
+    <string name="find_device_sim_change_instructions">"Your device has been locked
+Please insert the SIM card , or input your Xiaomi account password"</string>
+    <string name="check_phone_error_title">Failed to enable sync service</string>
+    <string name="check_phone_io_error">Network error</string>
+    <string name="send_sms_for_sync_title">Sync service not activated</string>
+    <string name="send_sms_for_sync_notice">An activate SMS need to be sent, continue?</string>
+    <string name="activate">Activate</string>
+    <string name="perm_auto_backup">Auto backup</string>
+    <string name="activate_fail_notification_title">Reactivate Xiaomi sync service</string>
+    <string name="sim_changed_reactivate_notice">Current SIM is unactivated. A common sms is required to activate the service, activate now?</string>
 </resources>

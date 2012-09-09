@@ -93,7 +93,7 @@
     <string name="settings_page_adjust_summary_no_carrier">运营商未设置，自动校正关</string>
     <string name="settings_page_traffic_summary">可用%1$s，警告%2$s，%3$d号计费</string>
     <string name="settings_page_traffic_summary_no_settings">套餐未设置，%d号计费</string>
-    <string name="sync_traffic_ing">正在向运营商查询，请稍侯…</string>
+    <string name="sync_traffic_ing">正在向运营商查询，请稍候…</string>
     <string name="sync_traffic_success">已获取运营商数据，成功校正流量</string>
     <string name="sync_traffic_fail_title">查询失败</string>
     <string name="sync_traffic_fail_message">向运营商查询流量数据失败，可能是服务器正忙。你可稍后再试，也可以拨打客户服务电话%s询问</string>
@@ -123,4 +123,12 @@
     <string name="updating">正在更新…</string>
     <string name="update_success">更新成功</string>
     <string name="update_fail">更新失败</string>
+    <string name="update_no_network">更新失败，请检查联网设置</string>
+    <string name="adjust_traffic_carrier_summary_today">今天 %1$02d:%2$02d 更新</string>
+    <string name="adjust_traffic_carrier_summary_yesterday">昨天 %1$02d:%2$02d 更新</string>
+    <string name="adjust_traffic_carrier_summary_three_day_before">三天前更新</string>
+    <string name="adjust_traffic_carrier_summary_oneweek_before">一周前更新</string>
+    <string name="adjust_traffic_carrier_summary_more_oneweek_before">超过一周未更新</string>
+    <string name="adjust_traffic_carrier_summary_more_onemonth_before">超过一个月未更新</string>
+    <string name="adjust_traffic_carrier_adjusting">正在校正…</string>
 </resources>

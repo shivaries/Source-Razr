@@ -9,8 +9,8 @@
     <string name="installing">正在安装...</string>
     <string name="install_done">应用程序已安装</string>
     <string name="install_confirm_question">是否要安装该应用程序？</string>
-    <string name="install_failed">应用程序未安装</string>
-    <string name="install_failed_invalid_apk">该数据包似乎已损坏。</string>
+    <string name="install_failed">安装失败</string>
+    <string name="install_failed_invalid_apk">该数据包似乎已损坏</string>
     <string name="install_failed_inconsistent_certificates">已安装了存在签名冲突的同名数据包。</string>
     <string name="install_failed_older_sdk">该数据包仅适用于较新版本的 Android。</string>
     <string name="install_failed_cpu_abi_incompatible">该应用程序与此手机的 CPU 不兼容。</string>
@@ -46,16 +46,17 @@
     <string name="uninstall_application_title">卸载应用程序</string>
     <string name="uninstall_update_title">卸载更新</string>
     <string name="uninstall_activity_text">%1$s属于以下应用程序：</string>
-    <string name="uninstall_application_text">将卸载此应用程序。</string>
-    <string name="uninstall_update_text">该应用程序会替换成出厂版本。</string>
+    <string name="uninstall_application_text">将卸载此应用程序</string>
+    <string name="uninstall_update_text">该应用程序会替换成出厂版本</string>
     <string name="uninstalling">正在卸载...</string>
     <string name="uninstall_done">卸载完成</string>
     <string name="uninstall_failed">卸载失败</string>
-    <string name="uninstall_failed_device_policy_manager">无法卸载：该数据包是活动的设备管理器。</string>
+    <string name="uninstall_failed_device_policy_manager">无法卸载：该数据包是活动的设备管理器</string>
     <string name="manage_device_administrators">管理设备管理器</string>
     <string name="uninstall_failed_msg">无法卸载%1$s</string>
     <string name="uninstall_failed_retained_app_msg">无法卸载运营商定制的应用</string>
     <string name="Parse_error_dlg_title">解析错误</string>
     <string name="Parse_error_dlg_text">解析包时出现问题。</string>
     <string name="caller_app">来源：%1$s</string>
+    <string name="safe_guard_support">%1$s提供技术支持</string>
 </resources>
