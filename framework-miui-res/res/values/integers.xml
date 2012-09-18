@@ -12,4 +12,5 @@
     <item type="integer" name="android_preference_fragment_scrollbarStyle">@android:integer/preference_fragment_scrollbarStyle</item>
     <integer name="config_defaultNotificationLedFreq">4000</integer>
     <integer name="config_show_rounded_corners_default">1</integer>
+    <integer name="config_screen_on_proximity_sensor_first_change_delay">0</integer>
 </resources>

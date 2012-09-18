@@ -115,8 +115,8 @@
     <string name="picasa_posts">帖子</string>
     <string name="make_available_offline">允许离线状态下使用</string>
     <string name="sync_picasa_albums">刷新</string>
-    <string name="sd_explorer">浏览SD卡</string>
-    <string name="cloud_albums">在线云图册</string>
+    <string name="sd_explorer">浏览存储设备</string>
+    <string name="cloud_albums">云图册</string>
     <string name="home_my_captured_items">张我拍摄的照片</string>
     <string name="all_media">全部图片</string>
     <string name="done">完成</string>
@@ -206,7 +206,7 @@
     <string name="save_pic_error">保存图片失败！</string>
     <string name="save_pic_to_success">"图片保存到
 %s"</string>
-    <string name="save_to_sdcard">保存到SD卡</string>
+    <string name="save_to_sdcard">保存到存储设备</string>
     <string name="damaged_file">加载失败</string>
     <string name="camera_folder_display_name">相机</string>
     <string name="miui_capture_screen_folder_display_name">截屏</string>
@@ -262,13 +262,15 @@
     <string name="no_file">没有图片或视频文件</string>
     <string name="no_files">该文件夹没有文件</string>
     <string name="send">发送</string>
-    <string name="sd_not_available">无可用SD卡，请插入或连接SD卡</string>
+    <string name="sd_not_available">无存储设备，请插入或连接存储设备</string>
     <string name="confirm_know">知道了</string>
     <string name="image_property">图片属性</string>
     <string name="video_property">视频属性</string>
     <string name="cancel_bookmark">取消收藏</string>
     <string name="add_bookmark">收藏</string>
-    <string name="sd_folder">SD卡</string>
+    <string name="internal_sd_card">内置SD卡</string>
+    <string name="external_sd_card">SD卡</string>
+    <string name="external_usb_device">U盘</string>
     <string name="menu_item_sort">排序</string>
     <string name="menu_item_sort_name_asc">名称(升序)</string>
     <string name="menu_item_sort_name_desc">名称(降序)</string>
@@ -287,6 +289,7 @@
     <string name="how_many_videos">%d个视频</string>
     <string name="how_many_sub_folders">%d个子文件夹</string>
     <string name="how_many_pics">%d张照片</string>
+    <string name="how_many_volumes">%d个存储设备</string>
     <string name="file_info_title">标题:</string>
     <string name="file_info_path">路径:</string>
     <string name="file_info_geo_location">地理位置:</string>
@@ -301,4 +304,7 @@
     <string name="message_no_delete_access">权限不足，不能删除文件或者文件夹: %s</string>
     <string name="fail_init_gallery_db_helper">结束运行。无法打开图库的数据库，可能存储空间不足。</string>
     <string name="crop_fail_to_load_image">无法加载图片</string>
+    <string name="error_should_not_select_image">说明：请不要选择图片文件。</string>
+    <string name="error_should_not_select_video">说明：请不要选择视频文件。</string>
+    <string name="storage_all_volumes">所有存储设备</string>
 </resources>

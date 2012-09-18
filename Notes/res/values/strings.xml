@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Notes</string>
-    <string name="app_widget2x2">Notes 2x2</string>
-    <string name="app_widget4x4">Notes 4x4</string>
+    <string name="app_widget">Notes</string>
     <string name="widget_havenot_content">No associated note found, click to create associated note. You can resize it by long click and drag edge.</string>
     <string name="widget_under_visit_mode">Privacy mode，can not see note content</string>
     <string name="notelist_string_info">...</string>
@@ -96,6 +95,7 @@
     <string name="search">Notes</string>
     <string name="button_new_note">New Note</string>
     <string name="default_folder_name">Notes</string>
+    <string name="move_to_parent">Move to parent folder</string>
     <string name="attachment_gallery">Gallery</string>
     <string name="attachment_camera">Camera</string>
     <string name="attachment_contact">Contact</string>

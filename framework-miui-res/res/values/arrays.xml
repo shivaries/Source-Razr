@@ -83,4 +83,6 @@
         <item>PM</item>
         <item>PM</item>
     </string-array>
+    <item type="array" name="android_special_locale_codes">@android:array/special_locale_codes</item>
+    <item type="array" name="android_special_locale_names">@android:array/special_locale_names</item>
 </resources>

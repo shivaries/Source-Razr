@@ -666,6 +666,8 @@
     <public type="array" name="android_config_keyboardTapVibePattern" id="0x06060009" />
     <public type="array" name="detailed_am_pm_segments" id="0x0606000a" />
     <public type="array" name="detailed_am_pm_names" id="0x0606000b" />
+    <public type="array" name="android_special_locale_codes" id="0x0606000c" />
+    <public type="array" name="android_special_locale_names" id="0x0606000d" />
     <public type="color" name="secondary_tab_text_color" id="0x06070000" />
     <public type="color" name="secondary_tab_text_pressed_color" id="0x06070001" />
     <public type="color" name="guide_popup_window_textColor" id="0x06070002" />
@@ -713,6 +715,7 @@
     <public type="integer" name="android_preference_fragment_scrollbarStyle" id="0x06080009" />
     <public type="integer" name="config_defaultNotificationLedFreq" id="0x0608000a" />
     <public type="integer" name="config_show_rounded_corners_default" id="0x0608000b" />
+    <public type="integer" name="config_screen_on_proximity_sensor_first_change_delay" id="0x0608000c" />
     <public type="bool" name="config_enableUsbModeSelection" id="0x06090000" />
     <public type="bool" name="config_show_status_bar_battery_for_keyguard" id="0x06090001" />
     <public type="bool" name="config_show_status_bar_carrier_for_keyguard" id="0x06090002" />
@@ -902,18 +905,18 @@
     <public type="id" name="tableRow4" id="0x060b007f" />
     <public type="id" name="resourceversion" id="0x060b0080" />
     <public type="id" name="tableRow5" id="0x060b0081" />
-    <public type="id" name="resourcemodifiedtime" id="0x060b0082" />
-    <public type="id" name="tableRow6" id="0x060b0083" />
-    <public type="id" name="resourcedownload" id="0x060b0084" />
-    <public type="id" name="ringtoneimage" id="0x060b0085" />
-    <public type="id" name="ringtonename" id="0x060b0086" />
-    <public type="id" name="ringtonebutton" id="0x060b0087" />
-    <public type="id" name="root_flag" id="0x060b0088" />
-    <public type="id" name="top_flag" id="0x060b0089" />
-    <public type="id" name="center_flag" id="0x060b008a" />
-    <public type="id" name="bottom_flag" id="0x060b008b" />
-    <public type="id" name="thumbnail" id="0x060b008c" />
-    <public type="id" name="mark" id="0x060b008d" />
+    <public type="id" name="mark" id="0x060b0082" />
+    <public type="id" name="resourcemodifiedtime" id="0x060b0083" />
+    <public type="id" name="tableRow6" id="0x060b0084" />
+    <public type="id" name="resourcedownload" id="0x060b0085" />
+    <public type="id" name="ringtoneimage" id="0x060b0086" />
+    <public type="id" name="ringtonename" id="0x060b0087" />
+    <public type="id" name="ringtonebutton" id="0x060b0088" />
+    <public type="id" name="root_flag" id="0x060b0089" />
+    <public type="id" name="top_flag" id="0x060b008a" />
+    <public type="id" name="center_flag" id="0x060b008b" />
+    <public type="id" name="bottom_flag" id="0x060b008c" />
+    <public type="id" name="thumbnail" id="0x060b008d" />
     <public type="id" name="subtitle" id="0x060b008e" />
     <public type="id" name="thumbnail_1" id="0x060b008f" />
     <public type="id" name="thumbnail_2" id="0x060b0090" />
@@ -954,7 +957,7 @@
     <public type="string" name="description_designer" id="0x060c000d" />
     <public type="string" name="description_author" id="0x060c000e" />
     <public type="string" name="description_size" id="0x060c000f" />
-    <public type="string" name="description_modifiedtime" id="0x060c0010" />
+    <public type="string" name="description_uploadtime" id="0x060c0010" />
     <public type="string" name="description_download" id="0x060c0011" />
     <public type="string" name="description_version" id="0x060c0012" />
     <public type="string" name="description_file" id="0x060c0013" />
@@ -1443,6 +1446,7 @@
     <public type="string" name="alarm_message_12_hour_formate" id="0x060c01f6" />
     <public type="string" name="format_time_in_12_hours" id="0x060c01f7" />
     <public type="string" name="android_storage_usb" id="0x060c01f8" />
+    <public type="string" name="description_downloadtime" id="0x060c01f9" />
     <public type="style" name="Widget.ListView.NoDivider" id="0x060d0000" />
     <public type="style" name="Widget.TabWidget.Secondary" id="0x060d0001" />
     <public type="style" name="Widget.Button" id="0x060d0002" />

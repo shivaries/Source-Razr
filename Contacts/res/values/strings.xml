@@ -604,6 +604,7 @@ Choose one of the following options:"</string>
     <string name="pick_recent_list_title">%1$d recent contact numbers in total</string>
     <string name="noRecentContacts">No recent contact</string>
     <string name="hint_search_contacts">%d contacts</string>
+    <string name="hint_search_phone_numbers">%d contact numbers</string>
     <string name="pick_favorites_contacts_list_title">%1$d favorite contacts in total</string>
     <string name="pick_recent_contacts_list_title">%1$d recent contacts in total</string>
     <string name="preference_import">Import</string>

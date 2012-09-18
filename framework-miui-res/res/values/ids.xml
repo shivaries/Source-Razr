@@ -128,6 +128,7 @@
     <item type="id" name="tableRow4">false</item>
     <item type="id" name="resourceversion">false</item>
     <item type="id" name="tableRow5">false</item>
+    <item type="id" name="mark">false</item>
     <item type="id" name="resourcemodifiedtime">false</item>
     <item type="id" name="tableRow6">false</item>
     <item type="id" name="resourcedownload">false</item>
@@ -139,7 +140,6 @@
     <item type="id" name="center_flag">false</item>
     <item type="id" name="bottom_flag">false</item>
     <item type="id" name="thumbnail">false</item>
-    <item type="id" name="mark">false</item>
     <item type="id" name="subtitle">false</item>
     <item type="id" name="thumbnail_1">false</item>
     <item type="id" name="thumbnail_2">false</item>
