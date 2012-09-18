@@ -498,4 +498,15 @@ Please insert the SIM card , or input your Xiaomi account password"</string>
     <string name="perm_auto_backup">Auto backup</string>
     <string name="activate_fail_notification_title">Reactivate Xiaomi sync service</string>
     <string name="sim_changed_reactivate_notice">Current SIM is unactivated. A common sms is required to activate the service, activate now?</string>
+    <string name="error_title">Sync error for %s</string>
+    <string name="error_unauthorized">Too many failures on authenticaion. Sync disabled.</string>
+    <string name="error_forbidden">You account met problems. Sync disabled.</string>
+    <string name="error_not_acceptable">Server malfunctional. Sync disabled.</string>
+    <string name="screen_on_proximity_sensor_hint">"Force to quit: pressing 'Back'+'Volume Up' key"</string>
+    <string name="screen_on_proximity_sensor_summary">"Don't cover the top of screen"</string>
+    <string name="screen_on_proximity_sensor_title">Misoperation prevent mode</string>
+    <string name="wake_alarm_message">Shutdown alarm still rings at %s</string>
+    <string name="alarm_message_12_hour_formate">h:mm aa</string>
+    <string name="format_time_in_12_hours">%1$s %2$s</string>
+    <string name="android_storage_usb">@android:string/storage_usb</string>
 </resources>

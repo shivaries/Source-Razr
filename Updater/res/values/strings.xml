@@ -104,7 +104,9 @@ Over %2$s users have signed in for MIUI %3$s"</string>
     <string name="share_update_content_unsign">I’ve updated MIUI to %1$s! For detailed changelog, please visit %2$s</string>
     <string name="share_update_content_sign">I’ve updated MIUI to %1$s! My update user rank is %2$s. For detailed changelog, please visit %3$s</string>
     <string name="share_sina">Post it via Sina weibo</string>
+    <string name="install_sina">Install Sina weibo</string>
     <string name="share_qq">Post it via Tencent weibo</string>
+    <string name="install_qq">Install Tencent weibo</string>
     <string name="upgrade_kernel">Current kernel version need upgrade</string>
     <string name="upgrade_kernel_msg">"Current kernel version doesn't match the MIUI ROM.You need upgrade the kernel manually.Please refer to upgrade tutorial:
 "</string>

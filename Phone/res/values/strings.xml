@@ -678,9 +678,16 @@ end call on hold"</string>
     <string name="auto_ip_remove_exception_numbers_confirm_miui">Are you sure to delete those %d numbers?</string>
     <string name="auto_ip_exception_summary_miui">%d totally</string>
     <string name="auto_ip_exception_summary_more_miui">,... %d totally</string>
-    <string name="auto_ip_support_local_numbers">Support local numbers</string>
+    <string name="auto_ip_support_local_numbers">IP dialing for current location numbers</string>
     <string name="auto_record_call_summary_miui">Start recording while the call is connected, and save it to folder MIUI/sound_recorder/call_rec of SD card</string>
     <string name="auto_record_call_title_miui">Record automatically</string>
+    <string name="auto_record_scenario_title_miui">Auto record mode</string>
+    <string name="auto_record_scenario_enteries_always_miui">Auto record for all numbers</string>
+    <string name="auto_record_scenario_enteries_whitelist_miui">Auto record for specified numbers</string>
+    <string name="auto_record_whitelist_miui">Set up specified numbers</string>
+    <string name="auto_record_whitelist_no_item_miui">Click the bottom button to add numbers for auto recording</string>
+    <string name="auto_record_whitelist_summary_for_one_miui">1 number</string>
+    <string name="auto_record_whitelist_summary_miui">%d numbers</string>
     <string name="auto_redial_pref_summary_miui">Redial numbers automatically if line is busy</string>
     <string name="auto_redial_pref_title_miui">Auto redial</string>
     <string name="auto_retry_mode_summary_miui">Enable Auto Retry mode</string>
@@ -705,6 +712,7 @@ end call on hold"</string>
     <string name="call_log_number_limit_key_title">Maximum</string>
     <string name="call_log_number_limit_title">Set the storage amount of call log</string>
     <string name="call_log_number_limit_subsummary">%d</string>
+    <string name="call_record_setting_miui">Record settings</string>
     <string name="call_recording_notification_summary_miui">Show notification in status bar when recording is completed</string>
     <string name="call_recording_notification_title_miui">Call recording notification</string>
     <string name="call_recording_prompt_miui">Open call recording</string>
@@ -716,6 +724,7 @@ end call on hold"</string>
     <string name="call_record_sample_prefix_miui">MIUI_Recording</string>
     <string name="call_record_sd_error_miui">SD card access error!</string>
     <string name="call_record_sd_space_low_miui">SD card is low on space, please try again after some cleaning</string>
+    <string name="call_record_path_name_of_sdcard_miui">SD card</string>
     <string name="call_settings_category_miui">Call settings</string>
     <string name="call_settings_miui">Call settings</string>
     <string name="call_title_redialing_with_times_miui">Redialling %d times</string>

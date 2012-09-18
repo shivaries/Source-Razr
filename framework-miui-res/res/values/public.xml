@@ -565,6 +565,7 @@
     <public type="drawable" name="resource_preview_font_bg" id="0x06020206" />
     <public type="drawable" name="spinner_bg_n" id="0x06020208" />
     <public type="drawable" name="spinner_bg_p" id="0x06020209" />
+    <public type="drawable" name="screen_on_proximity_sensor_hint" id="0x0602020a" />
     <public type="drawable" name="orientation_lock" id="0x060200c0" />
     <public type="drawable" name="orientation_unlock" id="0x060200c1" />
     <public type="layout" name="contact_header" id="0x06030000" />
@@ -629,6 +630,7 @@
     <public type="layout" name="resource_item_vertical_flat_big_font" id="0x0603003b" />
     <public type="layout" name="micloud_preference_widget_sync_toggle" id="0x0603003c" />
     <public type="layout" name="micloud_settings_preference" id="0x0603003d" />
+    <public type="layout" name="screen_on_proximity_sensor_guide" id="0x0603003e" />
     <public type="anim" name="alert_dialog_enter" id="0x06040000" />
     <public type="anim" name="alert_dialog_exit" id="0x06040001" />
     <public type="anim" name="lock_screen_album_fade_in" id="0x06040002" />
@@ -1430,6 +1432,17 @@
     <public type="string" name="perm_auto_backup" id="0x060c01eb" />
     <public type="string" name="activate_fail_notification_title" id="0x060c01ec" />
     <public type="string" name="sim_changed_reactivate_notice" id="0x060c01ed" />
+    <public type="string" name="error_title" id="0x060c01ee" />
+    <public type="string" name="error_unauthorized" id="0x060c01ef" />
+    <public type="string" name="error_forbidden" id="0x060c01f0" />
+    <public type="string" name="error_not_acceptable" id="0x060c01f1" />
+    <public type="string" name="screen_on_proximity_sensor_hint" id="0x060c01f2" />
+    <public type="string" name="screen_on_proximity_sensor_summary" id="0x060c01f3" />
+    <public type="string" name="screen_on_proximity_sensor_title" id="0x060c01f4" />
+    <public type="string" name="wake_alarm_message" id="0x060c01f5" />
+    <public type="string" name="alarm_message_12_hour_formate" id="0x060c01f6" />
+    <public type="string" name="format_time_in_12_hours" id="0x060c01f7" />
+    <public type="string" name="android_storage_usb" id="0x060c01f8" />
     <public type="style" name="Widget.ListView.NoDivider" id="0x060d0000" />
     <public type="style" name="Widget.TabWidget.Secondary" id="0x060d0001" />
     <public type="style" name="Widget.Button" id="0x060d0002" />

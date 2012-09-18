@@ -289,6 +289,10 @@
         <item>@string/auto_answer_scenario_enteries_bluetooth_only_miui</item>
         <item>@string/auto_answer_scenario_enteries_headset_bluetooth_miui</item>
     </array>
+    <array name="auto_record_scenario_entries_miui">
+        <item>@string/auto_record_scenario_enteries_always_miui</item>
+        <item>@string/auto_record_scenario_enteries_whitelist_miui</item>
+    </array>
     <array name="umts_gsm_preferred_network_type_pref_entries_miui">
         <item>@string/preferred_network_type_pref_entries_3g_preferred_miui</item>
         <item>@string/preferred_network_type_pref_entries_only_2g_miui</item>

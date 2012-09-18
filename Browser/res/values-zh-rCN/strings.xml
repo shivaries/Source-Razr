@@ -349,7 +349,7 @@
     <string name="open_all_bookmarks">打开全部书签</string>
     <string name="move_to_up_folder">移动到上一级</string>
     <string name="tab_yellowpage">名站导航</string>
-    <string name="tab_quicklinks">快速链接</string>
+    <string name="tab_quicklinks">快捷书签</string>
     <string name="pref_content_night_read_mode">夜间模式</string>
     <string name="pref_exit_on_closing_last_tab_enabled_title">关闭标签时退出</string>
     <string name="pref_exit_on_closing_last_tab_enabled_summary">选中设定在标签浏览页关闭最后一个标签时退出浏览器，不选中则显示主页</string>

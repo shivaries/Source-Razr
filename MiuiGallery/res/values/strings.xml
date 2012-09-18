@@ -301,4 +301,5 @@
     <string name="no_storage_disable_cloud_albums">Cloud albums is disabled; please retry after external storage is available.</string>
     <string name="message_no_delete_access">Access is denied. Cannot delete file or folder: %s</string>
     <string name="fail_init_gallery_db_helper">Quit app because fail to open gallery database; maybe disk is full.</string>
+    <string name="crop_fail_to_load_image">Fail to load image.</string>
 </resources>

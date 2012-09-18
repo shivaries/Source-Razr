@@ -3,7 +3,7 @@
     <string name="app_name">Notes</string>
     <string name="app_widget2x2">Notes 2x2</string>
     <string name="app_widget4x4">Notes 4x4</string>
-    <string name="widget_havenot_content">No associated note found, click to create associated note.</string>
+    <string name="widget_havenot_content">No associated note found, click to create associated note. You can resize it by long click and drag edge.</string>
     <string name="widget_under_visit_mode">Privacy mode，can not see note content</string>
     <string name="notelist_string_info">...</string>
     <string name="notelist_menu_new">Add note</string>
@@ -55,6 +55,7 @@
     <string name="error_note_not_exist">The note is not exist</string>
     <string name="error_note_empty_for_clock">Sorry, can not set clock on empty note</string>
     <string name="error_note_empty_for_send_to_desktop">Sorry, can not send and empty note to home</string>
+    <string name="error_widget_exist_for_send_to_desktop">This note already exists on desktop</string>
     <string name="success_sdcard_export">Export successful</string>
     <string name="failed_sdcard_export">Export fail</string>
     <string name="format_exported_file_location">Export text file (%1$s) to SD (%2$s) directory</string>

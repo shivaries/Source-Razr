@@ -108,4 +108,7 @@
     <string name="alarm_duration_summary">Alarm at intervals of %d min</string>
     <string name="alarm_count_summary">, auto silence after %d times</string>
     <string name="alarm_count_never_summary">, never stop</string>
+    <string name="shutdown_alarm_title">Shutdown alarm</string>
+    <string name="shutdown_alarm_enable_summary">Shutdown alarm enabled</string>
+    <string name="shutdown_alarm_disable_summary">Shutdown alarm disabled</string>
 </resources>

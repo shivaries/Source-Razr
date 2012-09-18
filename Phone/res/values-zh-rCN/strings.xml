@@ -656,9 +656,16 @@
     <string name="auto_ip_remove_exception_numbers_confirm_miui">您确认删除这%d个号码吗？</string>
     <string name="auto_ip_exception_summary_miui">共%d人</string>
     <string name="auto_ip_exception_summary_more_miui">等%d人</string>
-    <string name="auto_ip_support_local_numbers">支持本地号码</string>
+    <string name="auto_ip_support_local_numbers">所在地号码使用IP拨号</string>
     <string name="auto_record_call_summary_miui">通话接通时自动录音，保存到SD卡的MIUI/sound_recorder/call_rec</string>
     <string name="auto_record_call_title_miui">自动录音</string>
+    <string name="auto_record_scenario_title_miui">自动录音模式</string>
+    <string name="auto_record_scenario_enteries_always_miui">所有通话自动录音</string>
+    <string name="auto_record_scenario_enteries_whitelist_miui">指定号码自动录音</string>
+    <string name="auto_record_whitelist_miui">设置自动录音号码</string>
+    <string name="auto_record_whitelist_no_item_miui">点击底部按钮添加需要自动录音的号码</string>
+    <string name="auto_record_whitelist_summary_for_one_miui">1个号码</string>
+    <string name="auto_record_whitelist_summary_miui">%d个号码</string>
     <string name="auto_redial_pref_summary_miui">拨打电话如未接通，系统自动重拨10次，手动挂断取消</string>
     <string name="auto_redial_pref_title_miui">自动重拨</string>
     <string name="auto_retry_mode_summary_miui">启用自动重拨模式</string>
@@ -683,6 +690,7 @@
     <string name="call_log_number_limit_key_title">最大条数</string>
     <string name="call_log_number_limit_title">设置要保存的通话记录数量</string>
     <string name="call_log_number_limit_subsummary">%d条</string>
+    <string name="call_record_setting_miui">通话录音设置</string>
     <string name="call_recording_notification_summary_miui">完成后在通知栏提示</string>
     <string name="call_recording_notification_title_miui">录音通知</string>
     <string name="call_recording_prompt_miui">录音请打开免提</string>
@@ -694,6 +702,7 @@
     <string name="call_record_sample_prefix_miui">MIUI录音</string>
     <string name="call_record_sd_error_miui">SD卡访问出错，录音前请插好SD卡</string>
     <string name="call_record_sd_space_low_miui">SD卡空间不足，请清理SD卡后再尝试录音</string>
+    <string name="call_record_path_name_of_sdcard_miui">SD卡</string>
     <string name="call_settings_category_miui">通话设置</string>
     <string name="call_settings_miui">通话设置</string>
     <string name="call_title_redialing_with_times_miui">正在第%d次重拨</string>

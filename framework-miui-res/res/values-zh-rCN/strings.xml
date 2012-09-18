@@ -61,7 +61,9 @@
     <string name="sd_not_available_use_internal_storage">无可用SD卡，将使用内部存储</string>
     <string name="sd_not_available_low_internal_storage">无可用SD卡，且内部存储不足</string>
     <string name="sd_not_available_saved_to_internal_storage">文件已存入内部文件夹</string>
+    <string name="unknown">未知号码</string>
     <string name="private_num">私人号码</string>
+    <string name="payphone">公用号码</string>
     <string name="callNoAnswerTimeFormat">响铃%s声</string>
     <string name="date_day">日</string>
     <string name="country_name_bs">巴哈马</string>
@@ -360,4 +362,14 @@
     <string name="perm_auto_backup">自动备份</string>
     <string name="activate_fail_notification_title">请重新激活小米同步</string>
     <string name="sim_changed_reactivate_notice">当前SIM卡未激活。需要发送一条普通短信以激活小米同步服务，是否现在激活？</string>
+    <string name="error_title">%s同步错误</string>
+    <string name="error_unauthorized">认证失败次数过多，同步已关闭</string>
+    <string name="error_forbidden">您的账户出现问题，同步已关闭</string>
+    <string name="error_not_acceptable">服务器状态异常，同步已关闭</string>
+    <string name="screen_on_proximity_sensor_hint">强制退出：同时按下“返回键”+“加音量键”</string>
+    <string name="screen_on_proximity_sensor_summary">请勿遮挡屏幕顶端</string>
+    <string name="screen_on_proximity_sensor_title">防误触模式</string>
+    <string name="wake_alarm_message">关机闹钟仍在%s提醒</string>
+    <string name="alarm_message_12_hour_formate">aah:mm</string>
+    <string name="format_time_in_12_hours">%2$s%1$s</string>
 </resources>
