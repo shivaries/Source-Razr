@@ -158,6 +158,8 @@
     <string name="album_search_failed">未找到专辑封面</string>
     <string name="start_to_download_album">正在为您下载所有专辑封面</string>
     <string name="download_all_album">下载所有专辑封面</string>
+    <string name="lrc_progress_modify">调整歌词进度</string>
+    <string name="lrc_progress_modify_helper">上下滑动以调整歌词进度</string>
     <string name="equalizer">均衡器</string>
     <string name="no_effect">无效果</string>
     <string name="equalizer_delete">删除当前效果</string>

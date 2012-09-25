@@ -6,4 +6,5 @@
     <bool name="config_statusBarShowNumber">false</bool>
     <bool name="config_showPhoneRSSIForData">false</bool>
     <bool name="config_showMin3G">false</bool>
+    <bool name="config_flash_camera">false</bool>
 </resources>

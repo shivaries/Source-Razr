@@ -54,6 +54,8 @@
     <string name="resume_playing_message">从 %s 开始继续播放？</string>
     <string name="resume_playing_resume">继续播放</string>
     <string name="loading">正在载入...</string>
+    <string name="loading_thumbnail">下载大图</string>
+    <string name="loading_will_cost">下载大图会消耗流量</string>
     <string name="fail_to_load">无法加载</string>
     <string name="no_thumbnail">无缩略图</string>
     <string name="resume_playing_restart">重新开始</string>
@@ -115,7 +117,7 @@
     <string name="picasa_posts">帖子</string>
     <string name="make_available_offline">允许离线状态下使用</string>
     <string name="sync_picasa_albums">刷新</string>
-    <string name="sd_explorer">浏览存储设备</string>
+    <string name="sd_explorer">存储设备</string>
     <string name="cloud_albums">云图册</string>
     <string name="home_my_captured_items">张我拍摄的照片</string>
     <string name="all_media">全部图片</string>
@@ -194,12 +196,16 @@
     <string name="cloud_gallery_setting">云图册设置</string>
     <string name="sync_history_power_on">仅在充电时同步历史图片</string>
     <string name="sync_history_power_on_summary">建议开启，否则将加速电量消耗</string>
-    <string name="sync_only_in_wifi">仅在WLAN下同步</string>
+    <string name="sync_only_in_wifi">仅在WLAN下上传</string>
     <string name="sync_only_in_wifi_summary">建议开启，否则将消耗手机流量</string>
-    <string name="alert_message_sync_histoy_power_on">默认仅在充电时同步历史图片，如想更改，请到图库设置里操作。</string>
     <string name="alert">注意</string>
     <string name="gallery_cloud_provider_name">相册</string>
     <string name="sync_album">同步相册</string>
+    <string name="account_not_login">您可以登录小米账户，将本地图片同步至云端，实现图片自动上传，云端管理图片更方便。</string>
+    <string name="sync_not_open">您可以将本地图片同步至云端，实现图片自动上传，云端管理图片更方便。</string>
+    <string name="login_account">登录小米账户开始同步</string>
+    <string name="open_sync">立即开启同步</string>
+    <string name="alert_message_initial_cloud">系统将自动上传您新创建的照片及截图，并在充电时上传您的历史照片及截图，默认仅在WLAN下进行所有上传。</string>
     <string name="open_single_image_failure">打开图片失败！</string>
     <string name="already_saved">您已经保存过该图片，在%s</string>
     <string name="failure_external_storage_not_writable">外部存储设备不可写，操作失败！</string>

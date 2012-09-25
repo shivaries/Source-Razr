@@ -36,22 +36,6 @@
     <item type="id" name="boot_msg_title" />
     <item type="id" name="boot_msg_animation" />
     <item type="id" name="android_placeholder">@android:id/placeholder</item>
-    <item type="id" name="banner">false</item>
-    <item type="id" name="photo">false</item>
-    <item type="id" name="image_star">false</item>
-    <item type="id" name="aggregate_badge">false</item>
-    <item type="id" name="name">false</item>
-    <item type="id" name="name_alt">false</item>
-    <item type="id" name="presence">false</item>
-    <item type="id" name="phonetic_name">false</item>
-    <item type="id" name="self_status">false</item>
-    <item type="id" name="unknown_contact_location">false</item>
-    <item type="id" name="edit_organization_company">false</item>
-    <item type="id" name="edit_organization_title">false</item>
-    <item type="id" name="status">false</item>
-    <item type="id" name="status_date">false</item>
-    <item type="id" name="star">false</item>
-    <item type="id" name="edit">false</item>
     <item type="id" name="date">false</item>
     <item type="id" name="hour">false</item>
     <item type="id" name="minute">false</item>
@@ -64,6 +48,7 @@
     <item type="id" name="ok_menu_item_text">false</item>
     <item type="id" name="icon">false</item>
     <item type="id" name="message">false</item>
+    <item type="id" name="status">false</item>
     <item type="id" name="option1">false</item>
     <item type="id" name="option2">false</item>
     <item type="id" name="option3">false</item>

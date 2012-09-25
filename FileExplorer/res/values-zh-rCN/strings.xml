@@ -198,4 +198,12 @@ pan.xiaomi.com"</string>
     <string name="decompress_to">解压缩到...</string>
     <string name="decompress_confirm">解压缩</string>
     <string name="decompress_cancel">取消</string>
+    <string name="kuaipan_prompt">网盘提示</string>
+    <string name="kuaipan_prompt_message">"
+服务器正在维护中，请稍候再试...
+"</string>
+    <string name="move_success">剪切成功</string>
+    <string name="move_failed">剪切失败</string>
+    <string name="copy_success">复制成功</string>
+    <string name="copy_failed">复制失败</string>
 </resources>

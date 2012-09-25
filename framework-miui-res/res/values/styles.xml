@@ -236,10 +236,6 @@
         <item name="overlayTextSize">@dimen/alphabet_indexer_overlay_text_size</item>
         <item name="overlayTextColor">@color/alphabet_indexer_overlay_text_color</item>
     </style>
-    <style name="Animation.Magnifier" parent="@android:style/Animation">
-        <item name="android:windowEnterAnimation">@anim/magnifier_enter</item>
-        <item name="android:windowExitAnimation">@anim/magnifier_exit</item>
-    </style>
     <style name="resource_circle_progressbar">
         <item name="android:scaleType">fitCenter</item>
         <item name="android:indeterminateOnly">false</item>
