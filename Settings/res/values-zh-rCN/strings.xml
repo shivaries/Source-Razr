@@ -1504,9 +1504,9 @@ Google 的这款同步数据工具可让您随时随地访问您的联系人、�
     <string name="search_date_time">日期;时间;RiQi;ShiJian</string>
     <string name="search_language">语言;输入法;ShuRuFa</string>
     <string name="search_about">关于手机;系统版本;GuanYuShouJi;BanBen</string>
-    <string name="debug_log">调试日志</string>
-    <string name="upload_debug_log_title">允许上传调试日志</string>
-    <string name="upload_debug_log_summary">仅在WLAN连接可用情况下，上传调试日志以帮助MIUI开发更加稳定好用的ROM</string>
+    <string name="debug_log">用户体验计划</string>
+    <string name="upload_debug_log_title">加入“用户体验计划”</string>
+    <string name="upload_debug_log_summary">我们会统计您对产品各项功能的使用情况，用以提升我们的产品和服务。整个过程将遵循我们的隐私政策。</string>
     <string name="device_miui_version">MIUI 版本:</string>
     <string name="device_cpu">处理器:</string>
     <string name="device_memory">运行内存:</string>

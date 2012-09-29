@@ -4,8 +4,8 @@
     <string name="prefDefault_ringtone_repeat">1</string>
     <string name="pref_summary_manage_sim_messages">Manage messages stored on your SIM card</string>
     <string name="pref_title_manage_sim_messages">Manage SIM card messages</string>
-    <string name="confirm_delete_all_SIM_messages">All messages on the SIM card will be deleted.</string>
-    <string name="confirm_delete_SIM_message">This message on the SIM card will be deleted.</string>
+    <string name="confirm_delete_all_SIM_messages">Are you sure to delete all SIM messages?</string>
+    <string name="confirm_delete_SIM_message">Are you sure to delete this SIM message?</string>
     <string name="sim_manage_messages_title">Text messages on SIM card</string>
     <string name="sim_empty">No messages on SIM card.</string>
     <string name="sim_full_title">SIM card full</string>
@@ -160,11 +160,11 @@ Attempt made: %s."</string>
     <string name="to_label">"To "</string>
     <string name="confirm_dialog_title">Delete?</string>
     <string name="confirm_dialog_locked_title">Delete locked message?</string>
-    <string name="confirm_delete_conversation">The entire thread will be deleted.</string>
-    <string name="confirm_delete_all_conversations">All threads will be deleted.</string>
-    <string name="confirm_delete_group_message">Group messages will be deleted.</string>
-    <string name="confirm_delete_message">The message will be deleted.</string>
-    <string name="confirm_delete_locked_message">Delete this locked message?</string>
+    <string name="confirm_delete_conversation">Are you sure to delete this entire thread?</string>
+    <string name="confirm_delete_all_conversations">Are you sure to delete all conversations?</string>
+    <string name="confirm_delete_group_message">Are you sure to delete group messages?</string>
+    <string name="confirm_delete_message">Are you sure to delete the message?</string>
+    <string name="confirm_delete_locked_message">Are you sure to delete this locked message?</string>
     <string name="delete_unlocked">Delete locked messages</string>
     <string name="delete">Delete</string>
     <string name="select_conversations">Choose conversations</string>
@@ -447,8 +447,9 @@ Attempt made: %s."</string>
     <string name="ex_type_mms">Mms</string>
     <string name="ex_type_mx">Cloud message</string>
     <string name="mx_activate_failure">Failed to activate cloud messaging</string>
-    <string name="mx_dspt">Send messages via Internet between MIUI, turn to send via Operator once failed</string>
-    <string name="mx_count_dspt">Since activation, MIUI has sent %d cloud message(s) for you</string>
+    <string name="mx_dspt_disabled">Send messages via Internet between MIUI, turn to send via Operator once failed</string>
+    <string name="mx_dspt">Send messages via Internet between MIUI, turn to send via Operator once failed (%s)</string>
+    <string name="mx_count_dspt">Since activation, MIUI has sent %1$d cloud message(s) for you (%2$s)</string>
     <string name="mx_auto_resend_sms">Send As SMS</string>
     <string name="mx_auto_resend_sms_summary">Send as SMS when Cloud message is unavailable. Carrier messaging rates may apply</string>
     <string name="msg_type_hint_sms">Text message</string>
@@ -469,4 +470,6 @@ Attempt made: %s."</string>
     <string name="found_old_messages">Found messages of previous accounts on your phone:%1$sDo you want to upload them to your current account %2$s?</string>
     <string name="show_all_messages">Show all messages</string>
     <string name="loading_all_messages">Loading all messages...</string>
+    <string name="mx_online">Online</string>
+    <string name="mx_offline">Offline</string>
 </resources>

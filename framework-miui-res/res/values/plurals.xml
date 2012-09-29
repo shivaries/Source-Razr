@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="in_half_hour">
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="other">In half an hour</item>
     </plurals>
     <plurals name="a_hour_ago">
         <item quantity="other">One hour ago</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="other">In half an hour</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
         <item quantity="other">Immediately</item>
@@ -22,10 +22,10 @@
         <item quantity="other">Half an hour ago</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">One hour ago</item>
+        <item quantity="other">In one hour</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="other">One hour ago</item>
+        <item quantity="other">In one hour</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Just now</item>

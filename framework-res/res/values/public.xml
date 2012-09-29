@@ -6436,9 +6436,10 @@
     <public type="drawable" name="stat_sys_battery_charge_anim5" id="0x01080514" />
     <public type="drawable" name="zz_moto_ic_launcher_mmssms" id="0x01080609" />
     <public type="drawable" name="zz_moto_ic_launcher_txtmsg" id="0x0108060b" />
-    <public type="drawable" name="ab_tab_divider" id="0x0108064a" />
-    <public type="drawable" name="dialog_button_bottom_holo_dark" id="0x0108064b" />
-    <public type="drawable" name="dialog_button_bottom_holo_light" id="0x0108064c" />
+    <public type="drawable" name="ab_tab_bg" id="0x0108064a" />
+    <public type="drawable" name="ab_tab_divider" id="0x0108064b" />
+    <public type="drawable" name="dialog_button_bottom_holo_dark" id="0x0108064c" />
+    <public type="drawable" name="dialog_button_bottom_holo_light" id="0x0108064d" />
     <public type="layout" name="activity_list_item" id="0x01090000" />
     <public type="layout" name="expandable_list_content" id="0x01090001" />
     <public type="layout" name="preference_category" id="0x01090002" />
