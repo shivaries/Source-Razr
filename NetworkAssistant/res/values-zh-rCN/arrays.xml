@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="traffic_sort_type">
-        <item>按名称排序</item>
-        <item>按2G/3G流量排序</item>
-        <item>按总流量排序</item>
-    </string-array>
     <string-array name="date_of_traffic">
         <item>昨天流量</item>
         <item>当天流量</item>

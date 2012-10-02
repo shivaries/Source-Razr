@@ -131,4 +131,12 @@
     <string name="adjust_traffic_carrier_summary_more_oneweek_before">超过一周未更新</string>
     <string name="adjust_traffic_carrier_summary_more_onemonth_before">超过一个月未更新</string>
     <string name="adjust_traffic_carrier_adjusting">正在校正…</string>
+    <string name="menu_sort_by_name">按名称排序</string>
+    <string name="menu_sort_by_mobile_traffic">按2G/3G流量排序</string>
+    <string name="menu_sort_by_all_traffic">按总流量排序</string>
+    <string name="menu_sort_by_disabled">按已关闭程序排序</string>
+    <string name="notify_traffic_settings_title">您还未设置套餐，要不要设置下？</string>
+    <string name="notify_carrier_settings_title">您还未设置运营商，要不要设置下？</string>
+    <string name="notify_traffic_settings_cancel_hint">系统将无法关注和提醒您的流量使用情况，确定离开吗？</string>
+    <string name="carrier_settings_button">运营商设置</string>
 </resources>

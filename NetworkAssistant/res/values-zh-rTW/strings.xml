@@ -80,15 +80,13 @@
     <string name="plate_traffic_exceed">超出 (%s)</string>
     <string name="traffic_remain">剩餘</string>
     <string name="apply_rules_failed_known">知道了</string>
-    <string name="apply_rules_failed">"應用防火牆失敗了，請重試。
-(%s)"</string>
+    <string name="apply_rules_failed">應用防火牆失敗了，請重試。(%s)</string>
     <string name="traffic_total">方案:%s</string>
     <string name="traffic_used_status">已用:%s</string>
     <string name="unknown_traffic_hint">未知流量方案，要不要設定？</string>
     <string name="finish_traffic_settings_hint">完成方案設定</string>
     <string name="finish_traffic_settings_title">校正流量數據</string>
-    <string name="finish_traffic_settings_message">"目前已用流量為%s，數據是否正確？
-您可以進行校正。"</string>
+    <string name="finish_traffic_settings_message">目前已用流量為%s，數據是否正確？您可以進行校正。</string>
     <string name="dialog_button_adjust">校正</string>
     <string name="settings_page_adjust_summary_no_carrier">電信業者未設定，自動校正關</string>
     <string name="settings_page_traffic_summary">可用%1$s，警告%2$s，%3$d號計費</string>
@@ -131,4 +129,12 @@
     <string name="adjust_traffic_carrier_summary_more_oneweek_before">超過一周未更新</string>
     <string name="adjust_traffic_carrier_summary_more_onemonth_before">超過一個月未更新</string>
     <string name="adjust_traffic_carrier_adjusting">正在校正…</string>
+    <string name="menu_sort_by_name">按名稱排序</string>
+    <string name="menu_sort_by_mobile_traffic">按2G/3G流量排序</string>
+    <string name="menu_sort_by_all_traffic">按總流量排序</string>
+    <string name="menu_sort_by_disabled">按已关闭程序排序</string>
+    <string name="notify_traffic_settings_title">您還未設定套餐，要不要設定下？</string>
+    <string name="notify_carrier_settings_title">您還未設定運營商，要不要設定下？</string>
+    <string name="notify_traffic_settings_cancel_hint">系統將無法關注和提醒您的流量使用情況，確定離開嗎？</string>
+    <string name="carrier_settings_button">運營商設定</string>
 </resources>

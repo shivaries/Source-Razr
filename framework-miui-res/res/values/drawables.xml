@@ -72,4 +72,5 @@
     <item type="drawable" name="android_menu_hardkey_panel_holo_light">@android:drawable/menu_hardkey_panel_holo_light</item>
     <item type="drawable" name="android_ab_bottom_solid_light_holo">@android:drawable/ab_bottom_solid_light_holo</item>
     <item type="drawable" name="android_tab_indicator_ab_holo">@android:drawable/tab_indicator_ab_holo</item>
+    <item type="drawable" name="android_list_pressed_holo_light">@android:drawable/list_pressed_holo_light</item>
 </resources>
