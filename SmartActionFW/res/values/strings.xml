@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">( 0 )</string>
+    <string name="app_name">Smart Actions FW</string>
+    <string name="clear_db">Clear Data</string>
+    <string name="add_test_data">Add Test Data</string>
+    <string name="about">About</string>
+    <string name="filter_name">Filter</string>
+    <string name="component_name">Component Name</string>
+    <string name="filter_component">Select one or more components to view data and filter out the rest</string>
+    <string name="button_done">Done</string>
+    <string name="component_filter">ComponentFilter</string>
+    <string name="internal_on">ON</string>
+    <string name="internal_off">OFF</string>
+    <string name="internal">Internal</string>
+    <string name="direction">direction</string>
+    <string name="timestamp">timestamp</string>
+    <string name="data">data</string>
+    <string name="perm_action_label">Use Actions Module</string>
+    <string name="perm_action_desc">Allows an application to configure and execute Actions on the Phone</string>
+    <string name="perm_plugin_server_label">Use Plugin Server</string>
+    <string name="perm_plugin_server_desc">Allows an application to talk to the Plugin Server Receiver</string>
+    <string name="auto_adjust">Automatic brightness</string>
+    <string name="screen_brightness">Screen brightness</string>
+    <string name="brightness">Brightness</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="toggle_data">Cellular data</string>
+    <string name="sync">Background sync</string>
+    <string name="unknown">Unknown</string>
+    <string name="desc_value">" "</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="enable">Enable</string>
+    <string name="disable">Disable</string>
+    <string name="save">Save</string>
+    <item type="string" name="APKTOOL_DUMMY_0022">false</item>
+</resources>

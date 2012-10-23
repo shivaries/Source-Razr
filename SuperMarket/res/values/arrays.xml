@@ -197,7 +197,7 @@
         <item>implement MTP protocol</item>
         <item>view network state</item>
         <item>access SurfaceFlinger</item>
-        <item>view Wi-Fi state</item>
+        <item>view WLAN state</item>
         <item>view WiMAX state</item>
         <item>act as the AccountManagerService</item>
         <item>add voicemail</item>
@@ -234,8 +234,8 @@
         <item>enable or disable application components</item>
         <item>change your UI settings</item>
         <item>change network connectivity</item>
-        <item>allow Wi-Fi Multicast reception</item>
-        <item>change Wi-Fi state</item>
+        <item>allow WLAN Multicast reception</item>
+        <item>change WLAN state</item>
         <item>change WiMAX state</item>
         <item>access checkin properties</item>
         <item>delete all application cache data</item>
@@ -356,7 +356,7 @@
         <item>Allows access to the kernel MTP driver to implement the MTP USB protocol.</item>
         <item>Allows an application to view the state of all networks.</item>
         <item>Allows application to use SurfaceFlinger low-level features.</item>
-        <item>Allows an application to view the information about the state of Wi-Fi.</item>
+        <item>Allows an application to view the information about the state of WLAN.</item>
         <item>Allows an application to view the information about the state of WiMAX.</item>
         <item>Allows an application to make calls to AccountAuthenticators</item>
         <item>Allows the application to add messages to your voicemail inbox.</item>
@@ -394,7 +394,7 @@
         <item>Allows an application to change the current configuration, such as the locale or overall font size.</item>
         <item>Allows an application to change the state of network connectivity.</item>
         <item>Allows an application to receive packets not directly addressed to your device. This can be useful when discovering services offered near by. It uses more power than the non-multicast mode.</item>
-        <item>Allows an application to connect to and disconnect from Wi-Fi access points, and to make changes to configured Wi-Fi networks.</item>
+        <item>Allows an application to connect to and disconnect from WLAN access points, and to make changes to configured WLAN networks.</item>
         <item>Allows an application to connect to and disconnect from WiMAX network.</item>
         <item>Allows read/write access to properties uploaded by the checkin service. Not for use by normal applications.</item>
         <item>Allows an application to free phone storage by deleting files in application cache directory. Access is very restricted usually to system process.</item>

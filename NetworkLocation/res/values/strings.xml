@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">网络位置</string>
+    <string name="location_warning_title">提示</string>
+    <string name="location_warning_title_first">提示</string>
+    <string name="location_warning_title_close">提示</string>
+    <string name="location_warning_message">允许系统的网络定位服务收集匿名地点数据。</string>
+    <string name="location_close_warning_message">关闭网络定位服务部分应用将无法定位。</string>
+    <string name="location_first_warning_message">为了给您带来更好的用户体验，系统会开启网络定位服务。</string>
+    <string name="agree">同意</string>
+    <string name="disagree">不同意</string>
+    <string name="close_agree">确定</string>
+    <string name="close_disagree">取消</string>
+</resources>

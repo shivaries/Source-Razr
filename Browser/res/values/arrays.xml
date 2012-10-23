@@ -758,11 +758,11 @@
         <item>OFF</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Current Page</item>
+        <item>Current page</item>
         <item>MIUI home</item>
-        <item>Blank Page</item>
-        <item>Default Page</item>
-        <item>Most Visited Sites</item>
+        <item>Blank page</item>
+        <item>Default page</item>
+        <item>Most visited sites</item>
         <item>Other</item>
     </string-array>
     <string-array name="pref_homepage_values">

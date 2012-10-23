@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Controls!</string>
+    <string name="app_name">ContextEngine</string>
+    <string name="perm_wrapped_label">Encapsulated Events</string>
+    <string name="perm_wrapped_desc">Encapsulate Data for feeding into the Recognition Engine</string>
+    <string name="perm_proxy_label">Context Proxies</string>
+    <string name="perm_proxy_desc">Control Context Engine Proxies</string>
+    <string name="perm_sensor_label">Control Context Sensors</string>
+    <string name="perm_sensor_desc">Control Context Engine Sensors</string>
+    <string name="perm_vsensor_label">Control Context Virtual Sensors</string>
+    <string name="perm_vsensor_desc">Control Context Engine Virtual Sensors</string>
+    <string name="perm_ruleupdate_label">Update Context Rules</string>
+    <string name="perm_ruleupdate_desc">Update Context Engine Rules</string>
+    <string name="perm_adminops_label">Access Context Admin/Testing</string>
+    <string name="perm_adminops_desc">Access Context Engine Admin and Testing Interfaces</string>
+    <string name="perm_fwsend_ops_label">Access Context Framework Hooks</string>
+    <string name="perm_fwsend_ops_desc">Required to inject FW events into Context Engine</string>
+    <string name="perm_fwrcvr_ops_label">Access Context Framework Hooks</string>
+    <string name="perm_fwrcvr_ops_desc">Required to receive FW events intended for Context Engine</string>
+</resources>

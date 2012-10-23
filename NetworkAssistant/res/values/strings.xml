@@ -151,4 +151,6 @@
     <string name="notify_carrier_settings_title">You have not configured your service provider.Configure now?</string>
     <string name="notify_traffic_settings_cancel_hint">Notifications and traffic monitoring will be disabled. Exit now?</string>
     <string name="carrier_settings_button">Service provider settings</string>
+    <string name="sync_traffic_no_cmd_title">No SMS template</string>
+    <string name="sync_traffic_no_cmd_detail">"Submit your city, province and ICC's brand and carrier to the following forum: http://www.miui.com/forum-172-1.html.Thanks."</string>
 </resources>

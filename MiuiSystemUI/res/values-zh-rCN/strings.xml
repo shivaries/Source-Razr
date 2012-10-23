@@ -128,7 +128,7 @@
     <string name="tab_notifications_lable">通知</string>
     <string name="tab_toggles_lable">开关</string>
     <string name="status_bar_time_format_12">ah:mm</string>
-    <string name="status_bar_date_format">y年M月d日 E</string>
+    <string name="status_bar_date_format">yyyy年M月d日 E</string>
     <string name="usb_mode_notification">USB数据存储</string>
     <string name="usb_mode_dont_ask">下次不再询问</string>
     <string name="usb_mode_mount_storage_title">是否打开USB存储？</string>

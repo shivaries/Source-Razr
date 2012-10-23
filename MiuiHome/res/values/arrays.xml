@@ -62,4 +62,30 @@
         <item>Default</item>
         <item>Classic</item>
     </string-array>
+    <string-array name="gadget_weather_image">
+        <item>Sunny</item>
+        <item>Cloudy</item>
+        <item>Overcast</item>
+        <item>Fog</item>
+        <item>Strong Rainstorm</item>
+        <item>Heavy Rainstorm</item>
+        <item>Rainstorm</item>
+        <item>T-Storms</item>
+        <item>Rain Showers</item>
+        <item>Heavy Rain</item>
+        <item>Moderate Rain</item>
+        <item>Light Rain</item>
+        <item>Sleet</item>
+        <item>Blizzard</item>
+        <item>Snow Showers</item>
+        <item>Heavy Snow</item>
+        <item>Moderate Snow</item>
+        <item>Light Snow</item>
+        <item>Strong Duststorm</item>
+        <item>Duststorm</item>
+        <item>Dust</item>
+        <item>Blowing Sand</item>
+        <item>Hailstone</item>
+        <item>Floating Dust</item>
+    </string-array>
 </resources>

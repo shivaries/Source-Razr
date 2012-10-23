@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Motorola Dock Helper Service</string>
+    <string name="permlab_dockHelperService">dock helper</string>
+    <string name="permdesc_dockHelperService">Allows the application to use the dock helper service.</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OMAP Power Meter</string>
+    <string name="btnStartService">Service Stopped</string>
+    <string name="btnStopService">Service Started</string>
+    <string name="btnRegAp">OMAP Power Unregistered</string>
+    <string name="btnUnregAp">OMAP Power Registered</string>
+    <string name="serviceStarted">omap power meter service started!</string>
+    <string name="serviceStopped">omap power meter service stopped!</string>
+    <string name="serviceCrashed">omap power meter service CRASHED!</string>
+</resources>

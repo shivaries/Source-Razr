@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="NNNtrackstoplayqueue">
+        <item quantity="other">%1$d songs added to play queue</item>
+        <item quantity="one">1 song added to play queue</item>
+    </plurals>
+    <plurals name="NNNdownloaded">
+        <item quantity="other">%1$d items downloaded from %2$s</item>
+        <item quantity="one">%1$d item downloaded from %2$s</item>
+    </plurals>
+    <plurals name="NNNtodownload">
+        <item quantity="other">%1$d items from %2$s</item>
+        <item quantity="one">%1$d item from %2$s</item>
+    </plurals>
+    <plurals name="NNNtoupload">
+        <item quantity="other">%1$d items to %2$s</item>
+        <item quantity="one">%1$d item to %2$s</item>
+    </plurals>
+    <plurals name="NNNuploaded">
+        <item quantity="other">%1$d items uploaded to %2$s</item>
+        <item quantity="one">%1$d item uploaded to %2$s</item>
+    </plurals>
+    <plurals name="NNNitems">
+        <item quantity="other">%1$d items</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
+</resources>

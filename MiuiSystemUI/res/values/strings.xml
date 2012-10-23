@@ -282,6 +282,4 @@ If you re-enable data, you may be charged by the operator."</string>
     <string name="status_bar_network_flow_today">Today:%1$s</string>
     <string name="status_bar_network_flow">"Today:%1$s    Remain:%2$s    Package:%3$s"</string>
     <string name="status_bar_network_flow_exceed">"Today:%1$s    Exceeded:%2$s    Package:%3$s"</string>
-    <item type="string" name="APKTOOL_DUMMY_0116">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0117">false</item>
 </resources>

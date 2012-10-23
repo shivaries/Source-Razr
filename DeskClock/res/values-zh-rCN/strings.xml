@@ -43,8 +43,12 @@
     <string name="alarm_volume_summary">闹钟与计时器都使用闹钟音量</string>
     <string name="silent_alarm_summary">静音</string>
     <string name="alarm_notify_text">暂停或关闭闹钟。</string>
-    <string name="alarm_notify_snooze_label">%s（已暂停）</string>
-    <string name="alarm_notify_snooze_text">已将闹钟设置为在%s再提醒。选中可以取消。</string>
+    <string name="alarm_notify_snooze_label">%s闹铃再响</string>
+    <string name="alarm_notify_snooze_text">点击取消 %s</string>
+    <string name="snooze_confirm_message">"闹钟已延迟，%s再次响铃。
+您也可以取消闹钟停止响铃。"</string>
+    <string name="snooze_confirm_ok">我知道了</string>
+    <string name="snooze_confirm_cancel">取消闹钟</string>
     <string name="volume_button_setting_title">按键设置</string>
     <string name="volume_button_dialog_title">按钮的作用</string>
     <string name="volume_button_setting_summary">设置响铃时音量、电源、相机键的作用</string>

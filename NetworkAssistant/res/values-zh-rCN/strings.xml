@@ -139,4 +139,6 @@
     <string name="notify_carrier_settings_title">您还未设置运营商，要不要设置下？</string>
     <string name="notify_traffic_settings_cancel_hint">系统将无法关注和提醒您的流量使用情况，确定离开吗？</string>
     <string name="carrier_settings_button">运营商设置</string>
+    <string name="sync_traffic_no_cmd_title">没有找到指令</string>
+    <string name="sync_traffic_no_cmd_detail">没有找到你所在地区与所设定的品牌的指令，可能是我们没有收集到该数据，麻烦您去小米论坛提交下信息：http://www.miui.com/forum-172-1.html，谢谢!</string>
 </resources>
