@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="config_services_to_keep_running">
-        <item>\#Intent;action=android.mot.PortalService.action.Android;component=com.motorola.android.portal/.PortalService;end</item>
-    </string-array>
-    <array name="dock_wizard" />
-    <array name="dock_wizard_condition" />
-</resources>

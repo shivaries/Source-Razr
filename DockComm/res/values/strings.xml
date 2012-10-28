@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">DockComm</string>
-    <string name="permlab_dockcomm">DockComm permission</string>
-    <string name="permdesc_dockcomm">DockComm permission to run in mot_whisper gid</string>
-    <string name="adb_active_notification_title">A mouse is connected</string>
-    <string name="adb_active_notification_message">Select to trackpad setting.</string>
-</resources>
