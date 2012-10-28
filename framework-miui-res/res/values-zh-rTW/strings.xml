@@ -373,4 +373,10 @@
     <string name="alarm_message_12_hour_formate">aah:mm</string>
     <string name="format_time_in_12_hours">%2$s%1$s</string>
     <string name="description_downloadtime">下載時間：</string>
+    <string name="permlab_accessNote">存取便條</string>
+    <string name="permdesc_accessNote">允許應用程式讀取和修改您手機上儲存的便條。請注意，惡意應用程式可能會利用這項功能将您的便條傳送給他人或清除所有便條。</string>
+    <string name="memory_clear_result">"成功釋放了%1$s記憶體，
+目前可用記憶體為%2$s"</string>
+    <string name="memory_clear_nothing_result">已最佳化記憶體</string>
+    <string name="miui_user_manual_title">用戶手冊</string>
 </resources>

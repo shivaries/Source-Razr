@@ -161,6 +161,8 @@
     <string name="birthday_event_description">今天是%1$s的%2$s%3$s生日！%4$s</string>
     <string name="birthday_event_description_detail_leap">今年闰%1$s月，有两个%1$s月。礼多人不怪，今天也可以送上生日祝福！</string>
     <string name="birthday_event_description_detail_smart">今年%1$s月小，本月生日提前一天!</string>
+    <string name="jump_date">跳转</string>
+    <string name="jump_date_full">跳转到指定日期</string>
     <string name="more_string">以及其他 %1$s 个...</string>
     <string name="chips_waiting_for_directory_result">正在等待更多联系人</string>
     <string name="copy">复制电子邮件地址</string>

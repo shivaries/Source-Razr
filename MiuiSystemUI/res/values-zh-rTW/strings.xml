@@ -10,9 +10,6 @@
     <string name="status_bar_recent_inspect_item_title">應用程式資訊</string>
     <string name="status_bar_no_recent_apps">最近沒有執行任何應用程式</string>
     <string name="status_bar_accessibility_dismiss_recents">關閉最近執行的應用程式</string>
-    <string name="status_bar_recent_clear_result">"成功釋放了%1$s記憶體，
-當前可用記憶體為%2$s"</string>
-    <string name="status_bar_recent_clear_nothing_result">沒有可釋放的記憶體</string>
     <string name="status_bar_recent_guide_all">上滑刪除，下滑鎖定</string>
     <string name="status_bar_recent_guide_top">上滑刪除</string>
     <string name="status_bar_recent_guide_bottom">下滑鎖定</string>

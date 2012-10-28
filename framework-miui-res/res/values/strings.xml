@@ -510,4 +510,12 @@ Please insert the SIM card , or input your Xiaomi account password"</string>
     <string name="format_time_in_12_hours">%1$s %2$s</string>
     <string name="android_storage_usb">@android:string/storage_usb</string>
     <string name="description_downloadtime">Download:</string>
+    <string name="permlab_accessNote">Access your notes</string>
+    <string name="permdesc_accessNote">Allows the app to read and modify your notes stored on your phone. Malicious applications can use this to send your notes to other people or erase all your notes.</string>
+    <string name="memory_clear_result">"Successfully freed %1$s memory,
+Current available memory is %2$s"</string>
+    <string name="memory_clear_nothing_result">No freeable memory currently</string>
+    <string name="perm_send_push_lab">Send push message</string>
+    <string name="perm_send_push_dspt">Allow to send Xiaomi push message</string>
+    <string name="miui_user_manual_title">User manual</string>
 </resources>

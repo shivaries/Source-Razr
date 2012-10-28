@@ -229,7 +229,7 @@
     <string name="default_interval">30</string>
     <string name="folder_title_format" formatted="false">%s(%d)</string>
     <string name="filter_by_size_max">2MB</string>
-    <string name="filter_by_size_min">0K</string>
+    <string name="filter_by_size_min">0KB</string>
     <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="category_num_format">(%s)</string>
     <string name="track_num_format">(%s)</string>

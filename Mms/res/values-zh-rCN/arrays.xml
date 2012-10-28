@@ -24,8 +24,12 @@
         <item>显示短信的接收时间</item>
         <item>显示短信的发送时间（服务器时间，可能不准确）</item>
     </string-array>
-    <string-array name="resent_via_entries">
+    <string-array name="resent_via_entries_sms">
         <item>通过短信</item>
+        <item>通过网络短信</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>通过彩信</item>
         <item>通过网络短信</item>
     </string-array>
     <string-array name="select_dialog_items">
