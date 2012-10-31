@@ -36,6 +36,7 @@
     <item type="id" name="boot_msg_title" />
     <item type="id" name="boot_msg_animation" />
     <id name="android_placeholder">@android:id/placeholder</id>
+    <item type="id" name="buttonWebSearch" />
     <item type="id" name="date">false</item>
     <item type="id" name="hour">false</item>
     <item type="id" name="minute">false</item>

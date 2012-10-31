@@ -220,13 +220,6 @@ If you re-enable data, you may be charged by the operator."</string>
     <string name="notification_icon_filter_other_list">Application list</string>
     <string name="notification_icon_filter_menu_item_show">Show notifications of this app in status bar</string>
     <string name="notification_icon_filter_menu_item_hide">Don’t show notifications of this app in status bar</string>
-    <string name="settings_separator">,</string>
-    <string name="incoming_call_vibrate_hint">Incoming call</string>
-    <string name="notification_vibrate_hint">Notification</string>
-    <string name="mms_vibrate_hint">Message</string>
-    <string name="not_all_vibrate_hint">According to your settings, %1$s V ibrates, %2$s does not vibrate, you can change it through Settings > Sound > Vibrate</string>
-    <string name="no_vibrate_hint">Accoring to your settings, incoming call notifcation and sms will not vibrate, enabling vibration has no effect</string>
-    <string name="to_vibrate_settings">Vibration Settings</string>
     <string name="camera_key_action_title">MI button</string>
     <string name="camera_key_action_setting_title">MI Button</string>
     <string name="camera_key_action_category_title">Use if camera application is not open</string>

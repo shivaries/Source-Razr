@@ -198,13 +198,6 @@
     <string name="notification_icon_filter_other_list">应用列表</string>
     <string name="notification_icon_filter_menu_item_show">在状态栏中显示该应用的通知</string>
     <string name="notification_icon_filter_menu_item_hide">不在状态栏中显示该应用的通知</string>
-    <string name="settings_separator">、</string>
-    <string name="incoming_call_vibrate_hint">来电</string>
-    <string name="notification_vibrate_hint">通知</string>
-    <string name="mms_vibrate_hint">短信</string>
-    <string name="not_all_vibrate_hint">根据您的设置，%1$s振动，%2$s不振动，您可以通过“系统设置->声音->振动选项”进行修改</string>
-    <string name="no_vibrate_hint">根据您的设置，来电、通知和短信均不会振动，当前开启振动无效</string>
-    <string name="to_vibrate_settings">设置</string>
     <string name="camera_key_action_title">米键</string>
     <string name="camera_key_action_setting_title">按下米键</string>
     <string name="camera_key_action_category_title">非拍照模式下，执行操作</string>
