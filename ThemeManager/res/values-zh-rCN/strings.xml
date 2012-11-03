@@ -77,4 +77,5 @@
     <string name="wallpaper_decoded_error">图片解析出错</string>
     <string name="close">关闭</string>
     <string name="download_success">下载成功</string>
+    <string name="theme_importing">主题导入中</string>
 </resources>

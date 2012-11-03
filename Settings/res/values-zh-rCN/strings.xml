@@ -1523,10 +1523,12 @@ Google 的这款同步数据工具可让您随时随地访问您的联系人、�
     <string name="sms_delivered_sound_dialog_title">选择短信送达铃声</string>
     <string name="haptic_feedback_level">振动强度</string>
     <string name="privacy_protect_title">隐私保护</string>
-    <string name="privacy_mode_enable_title">启用访客模式</string>
-    <string name="ac_enable_title">启用访问限制</string>
-    <string name="ac_set_apps_title">密码保护应用</string>
-    <string name="ac_privacy_mode_title">密码保护访客模式</string>
+    <string name="privacy_mode_enable_title">访客模式</string>
+    <string name="privacy_mode_enable_sum">隐藏通话短信等个人数据以保护隐私</string>
+    <string name="ac_enable_title">访问限制</string>
+    <string name="ac_set_apps_title">设置限制访问的应用</string>
+    <string name="ac_privacy_mode_title">启用密码</string>
+    <string name="ac_privacy_mode_sum">输入访问限制密码以退出访客模式</string>
     <string name="access_control_password_title">启用访问限制</string>
     <string name="access_control_need_to_unlock">请输入访问限制密码</string>
     <string name="access_control_need_password">"%s已被密码保护
@@ -1707,4 +1709,5 @@ Google 的这款同步数据工具可让您随时随地访问您的联系人、�
     <string name="vpn_safe">安全</string>
     <string name="vpn_configure">配置</string>
     <string name="sync_wifi_label">WLAN设置</string>
+    <string name="milicenter_settings">米币中心</string>
 </resources>

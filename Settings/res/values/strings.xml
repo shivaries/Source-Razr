@@ -1590,10 +1590,12 @@ Since data usage is measured by your phone, and your carrier may account for usa
     <string name="sms_delivered_sound_dialog_title">Choose SMS delivered sound</string>
     <string name="haptic_feedback_level">Vibration level</string>
     <string name="privacy_protect_title">Privacy protection</string>
-    <string name="privacy_mode_enable_title">Enable guarded mode</string>
-    <string name="ac_enable_title">Enable access control</string>
+    <string name="privacy_mode_enable_title">Guarded mode</string>
+    <string name="privacy_mode_enable_sum">Hide call log, messages and so on to protect privacy.</string>
+    <string name="ac_enable_title">Access control</string>
     <string name="ac_set_apps_title">Protect applications</string>
-    <string name="ac_privacy_mode_title">Protect guarded mode</string>
+    <string name="ac_privacy_mode_title">Enable password</string>
+    <string name="ac_privacy_mode_sum">Input access control password to cancel guarded mode</string>
     <string name="access_control_password_title">Enable password</string>
     <string name="access_control_need_to_unlock">Password required</string>
     <string name="access_control_need_password">"%s has been protected
@@ -1785,4 +1787,5 @@ Attention: this operation cannot be undone."</string>
     <string name="vpn_safe">Security</string>
     <string name="vpn_configure">Configuration</string>
     <string name="sync_wifi_label">WLAN settings</string>
+    <string name="milicenter_settings">Xiaomi Dollar Center</string>
 </resources>

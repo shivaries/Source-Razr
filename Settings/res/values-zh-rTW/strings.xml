@@ -1523,10 +1523,12 @@ PIN 碼可能不正確。"</string>
     <string name="sms_delivered_sound_dialog_title">選擇簡訊送達鈴聲</string>
     <string name="haptic_feedback_level">震動強度</string>
     <string name="privacy_protect_title">隱私保護</string>
-    <string name="privacy_mode_enable_title">啟用訪客模式</string>
-    <string name="ac_enable_title">啟用瀏覽限制</string>
-    <string name="ac_set_apps_title">密碼保護應用</string>
-    <string name="ac_privacy_mode_title">密碼保護訪客模式</string>
+    <string name="privacy_mode_enable_title">訪客模式</string>
+    <string name="privacy_mode_enable_sum">隱藏通話短信等個人資訊以保護隱私</string>
+    <string name="ac_enable_title">瀏覽限制</string>
+    <string name="ac_set_apps_title">設定限制瀏覽的應用</string>
+    <string name="ac_privacy_mode_title">啟用密碼</string>
+    <string name="ac_privacy_mode_sum">輸入瀏覽限制密碼以退出訪客模式</string>
     <string name="access_control_password_title">啟用瀏覽限制</string>
     <string name="access_control_need_to_unlock">請輸入瀏覽限制密碼</string>
     <string name="access_control_need_password">"%s已被密碼保護
@@ -1707,4 +1709,5 @@ PIN 碼可能不正確。"</string>
     <string name="vpn_safe">安全</string>
     <string name="vpn_configure">配置</string>
     <string name="sync_wifi_label">WLAN設置</string>
+    <string name="milicenter_settings">米幣中心</string>
 </resources>
