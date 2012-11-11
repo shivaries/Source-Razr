@@ -66,6 +66,8 @@
     <string name="update_date">%1$s年%2$s月%3$s日</string>
     <string name="version_label">版本號：</string>
     <string name="share_button">分享給好友</string>
+    <string name="update_info">更新日誌</string>
+    <string name="description_info">功能介紹</string>
     <string name="install">安裝</string>
     <string name="update">升級</string>
     <string name="installed">已安裝</string>
