@@ -381,7 +381,7 @@
     <string name="miui_user_manual_title">用戶手冊</string>
     <string name="status_bar_toggle_ac">瀏覽限制</string>
     <string name="status_bar_toggle_bluetooth">藍牙</string>
-    <string name="status_bar_toggle_brightness">亮度</string>
+    <string name="status_bar_toggle_brightness">亮度調節</string>
     <string name="status_bar_toggle_data">資料</string>
     <string name="status_bar_toggle_divider">更多</string>
     <string name="status_bar_toggle_flight_mode">飛航模式</string>
@@ -396,7 +396,7 @@
     <string name="status_bar_toggle_screenshot">截取螢幕</string>
     <string name="status_bar_toggle_shutdown">關機</string>
     <string name="status_bar_toggle_sync">同步</string>
-    <string name="status_bar_toggle_torch">手電</string>
+    <string name="status_bar_toggle_torch">手電筒</string>
     <string name="status_bar_toggle_vibrate">震動</string>
     <string name="status_bar_toggle_wifi">WLAN</string>
     <string name="screen_rotation_freeze_message">鎖定螢幕為橫向模式</string>
@@ -407,13 +407,13 @@
     <string name="perm_payment_lab">小米支付服務</string>
     <string name="perm_payment_dspt">允許應用程式使用小米支付服務</string>
     <string name="resource_buy">購買</string>
-    <string name="resources_importing">導入資源中</string>
+    <string name="resource_importing">導入資源中</string>
     <string name="resource_price_free">免費</string>
     <string name="resource_price_unit">米幣</string>
     <string name="resource_get_auth">您尚未獲得該主題的使用授權，請獲得授權後使用</string>
     <string name="resource_get_auth_checking">正在檢驗授權</string>
     <string name="resource_get_auth_retrieving">正在獲取授權</string>
-    <string name="resource_get_auth_failed">獲取授權失敗</string>
+    <string name="resource_server_out_of_service">服務暫時不可用，請稍後重試</string>
     <string name="description_summary">資源簡介：</string>
     <string name="resource_price_format">（%1$s）</string>
     <string name="theme_update_request_title">升級主題</string>
@@ -426,4 +426,10 @@
     <string name="theme_update_complete_content_success">%1$d個主題升級成功</string>
     <string name="theme_update_complete_content_fail">，%1$d個未成功</string>
     <string name="resource_get_auth_missing">該主題不是從官方市場下載，請在官方市場下載同類主題</string>
+    <string name="resource_no_result">無結果</string>
+    <string name="status_bar_toggle_drive_mode">開車糢式</string>
+    <string name="status_bar_toggle_auto_brightness">自動亮度</string>
+    <string name="resource_get_auth_exceed_max_limit_title">授權手機數超出限制</string>
+    <string name="resource_get_auth_exceed_max_limit_tips">您的小米賬號每年可在10台移動設備上使用主題，當前賬號已超出限制。您可以使用其他小米賬號重新嘗試。</string>
+    <string name="resource_switch_account">切換帳號</string>
 </resources>
