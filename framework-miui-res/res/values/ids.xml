@@ -37,6 +37,8 @@
     <item type="id" name="boot_msg_animation" />
     <id name="android_placeholder">@android:id/placeholder</id>
     <item type="id" name="buttonWebSearch" />
+    <item type="id" name="tableRow1" />
+    <item type="id" name="tableRow6" />
     <item type="id" name="date">false</item>
     <item type="id" name="hour">false</item>
     <item type="id" name="minute">false</item>
@@ -111,8 +113,6 @@
     <item type="id" name="sync_active">false</item>
     <item type="id" name="imageView1">false</item>
     <item type="id" name="textView1">false</item>
-    <item type="id" name="tableLayout1">false</item>
-    <item type="id" name="tableRow1">false</item>
     <item type="id" name="resourceauthor">false</item>
     <item type="id" name="tableRow2">false</item>
     <item type="id" name="resourcedesigner">false</item>
@@ -123,7 +123,6 @@
     <item type="id" name="tableRow5">false</item>
     <item type="id" name="mark">false</item>
     <item type="id" name="resourcemodifiedtime">false</item>
-    <item type="id" name="tableRow6">false</item>
     <item type="id" name="resourcedownload">false</item>
     <item type="id" name="resourcesummary">false</item>
     <item type="id" name="ringtoneimage">false</item>
