@@ -225,5 +225,4 @@
     <string name="status_bar_network_flow_today">今日:%1$s</string>
     <string name="status_bar_network_flow">"今日:%1$s    剩余:%2$s    套餐:%3$s"</string>
     <string name="status_bar_network_flow_exceed">"今日:%1$s    超出:%2$s    套餐:%3$s"</string>
-    <string name="drive_mode_tip">开车模式，请注意行车安全</string>
 </resources>
