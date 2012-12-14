@@ -39,6 +39,8 @@
     <item type="id" name="buttonWebSearch" />
     <item type="id" name="tableRow1" />
     <item type="id" name="tableRow6" />
+    <item type="id" name="airplane_mode" />
+    <id name="android_emergencyCallButton">@android:id/emergencyCallButton</id>
     <item type="id" name="date">false</item>
     <item type="id" name="hour">false</item>
     <item type="id" name="minute">false</item>
@@ -70,13 +72,10 @@
     <item type="id" name="arrow_left">false</item>
     <item type="id" name="arrow_right">false</item>
     <item type="id" name="content">false</item>
-    <item type="id" name="emergencyCallButton_account">false</item>
     <item type="id" name="topHeader_account">false</item>
-    <item type="id" name="spacerTop_account">false</item>
     <item type="id" name="instructions_account">false</item>
     <item type="id" name="login_account">false</item>
     <item type="id" name="password_account">false</item>
-    <item type="id" name="ok">false</item>
     <item type="id" name="ok_account">false</item>
     <item type="id" name="account_icon">false</item>
     <item type="id" name="account_id">false</item>

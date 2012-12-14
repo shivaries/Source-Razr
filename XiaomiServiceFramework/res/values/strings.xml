@@ -66,7 +66,7 @@
     <string name="input_password_hint">Input password</string>
     <string name="confirm">Confirm</string>
     <string name="alert_title_remove_account">Delete account</string>
-    <string name="remove_account_notice">What would you like to do with the previously synced messages, contacts, call logs, and notes on your device?</string>
+    <string name="remove_account_notice">What would you like to do with the previously synced messages and contacts on your device?</string>
     <string name="data_keep_in_phone">Keep on my device</string>
     <string name="data_wipe_from_phone">Delete from my device</string>
     <string name="login_notice">Signing in...</string>
@@ -188,8 +188,9 @@ contacts, photos, etc"</string>
     <string name="prepaid_edit_limit">digits</string>
     <string name="prepaid_error_carrier">Please select carrier</string>
     <string name="prepaid_error_denomination">Please select recharge amount</string>
-    <string name="prepaid_error_card_number">Please input the correct recharge amount</string>
+    <string name="prepaid_error_card_number">Please input the correct recharge number</string>
     <string name="prepaid_error_password">Please input the correct prepaid card password</string>
+    <string name="prepaid_error_card_length">Please input the correct prepaid card number or password</string>
     <string name="progress_submit_title">Request submitted, verifying</string>
     <string name="progress_submit_summary">Recharging: %1$sRMB</string>
     <string name="progress_submit_hint">Recharge will be reflected within 3 minutes</string>
@@ -214,7 +215,7 @@ contacts, photos, etc"</string>
     <string name="recharge_notification">Recharging%1$sMi dollar</string>
     <string name="title_mili_center">Mi Credit center</string>
     <string name="title_recharge_record">Recharge records</string>
-    <string name="title_pay_record">%1$sPayment records</string>
+    <string name="title_pay_record">%1$s payment records</string>
     <string name="recharge_record">Recharge records</string>
     <string name="pay_record">Payment records</string>
     <string name="btn_mili_center_recharge">Recharge Mi Credit</string>

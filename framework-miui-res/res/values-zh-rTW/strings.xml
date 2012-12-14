@@ -429,7 +429,21 @@
     <string name="resource_no_result">無結果</string>
     <string name="status_bar_toggle_drive_mode">開車糢式</string>
     <string name="status_bar_toggle_auto_brightness">自動亮度</string>
+    <string name="status_bar_toggle_ring">響鈴</string>
+    <string name="status_bar_toggle_ringtone">鈴聲</string>
+    <string name="status_bar_toggle_sync_auto">自動同步</string>
+    <string name="status_bar_toggle_sync_manual">手動同步</string>
+    <string name="status_bar_toggle_syncing">正在同步</string>
+    <string name="status_bar_toggle_power_low">省電模式</string>
+    <string name="status_bar_toggle_power_mid">正常模式</string>
+    <string name="status_bar_toggle_power_high">性能模式</string>
     <string name="resource_get_auth_exceed_max_limit_title">授權手機數超出限制</string>
     <string name="resource_get_auth_exceed_max_limit_tips">您的小米賬號每年可在10台移動設備上使用主題，當前賬號已超出限制。您可以使用其他小米賬號重新嘗試。</string>
     <string name="resource_switch_account">切換帳號</string>
+    <string name="find_device_turn_off_flight_mode">關閉飛航模式</string>
+    <string name="find_device_turn_off_flight_mode_instructions">"您的手機已經被保護鎖定
+請先關閉飛航模式"</string>
+    <string name="find_device_sim_change_instructions_no_network">"您的手機已經被保護鎖定
+請插入原始SIM卡"</string>
+    <string name="find_device_check_sim">正在檢測SIM卡，請稍候。。。</string>
 </resources>
