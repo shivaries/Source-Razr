@@ -226,7 +226,7 @@
     <string name="airplane_mode">飛航模式</string>
     <string name="radio_controls_title">更多無線連接</string>
     <string name="wireless_networks_settings_title">無線與網路</string>
-    <string name="radio_controls_summary">管理 WLAN、藍牙、航空模式、網際網路和 VPN</string>
+    <string name="radio_controls_summary">管理 Wi-Fi、藍牙、飛行模式、行動網路和 VPN</string>
     <string name="roaming">漫遊服務</string>
     <string name="roaming_enable">漫遊時連線到資料傳輸服務</string>
     <string name="roaming_disable">漫遊時連線到資料傳輸服務</string>
@@ -425,32 +425,31 @@
     <string name="android_beam_explained">"這項功能啟用時，您只要將裝置靠在一起，即可讓應用程式內容傳輸至其他支援 NFC 的裝置。例如，您可以傳輸瀏覽器頁面、YouTube 影片、使用者聯絡人等內容。
 
 只要將裝置靠在一起 (一般都是背靠背)，然後輕觸螢幕，接著應用程式會決定要傳輸哪些內容。"</string>
-    <string name="wifi_quick_toggle_title">WLAN</string>
-    <string name="wifi_quick_toggle_summary">打開 WLAN</string>
-    <string name="wifi_settings">WLAN</string>
-    <string name="wifi_settings_category">"WLAN 設定
-    "</string>
-    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_quick_toggle_title">Wi-Fi</string>
+    <string name="wifi_quick_toggle_summary">開啟 Wi-Fi</string>
+    <string name="wifi_settings">Wi-Fi</string>
+    <string name="wifi_settings_category">Wi-Fi 設定</string>
+    <string name="wifi_settings_title">Wi-Fi</string>
     <string name="wifi_settings_summary">設定、管理無線網路存取點</string>
-    <string name="wifi_starting">正在打開 WLAN...</string>
-    <string name="wifi_stopping">正在關閉 WLAN...</string>
+    <string name="wifi_starting">開啟 Wi-Fi？</string>
+    <string name="wifi_stopping">正在關閉 Wi-Fi…</string>
     <string name="wifi_error">錯誤</string>
     <string name="wifi_in_airplane_mode">處於飛行模式時</string>
     <string name="wifi_fail_to_scan">無法掃描網路</string>
     <string name="wifi_notify_open_networks">網路通知</string>
     <string name="wifi_notify_open_networks_summary">有開放網路時通知我</string>
     <string name="wifi_enable_watchdog_service">避開品質不佳的連線</string>
-    <string name="wifi_enable_watchdog_service_summary">僅在 WLAN 網路連接狀況良好時使用 WLAN 網路</string>
-    <string name="wifi_setting_sleep_policy_title">在休眠狀態下保持 WLAN 連接</string>
+    <string name="wifi_enable_watchdog_service_summary">僅在 Wi-Fi 網路連接狀況良好時使用 Wi-Fi 網路</string>
+    <string name="wifi_setting_sleep_policy_title">休眠狀態仍保持 Wi-Fi 連線</string>
     <string name="wifi_setting_sleep_policy_error">變更設定時發生問題</string>
     <string name="wifi_add_network">新增網路</string>
-    <string name="wifi_access_points">WLAN 網路</string>
+    <string name="wifi_access_points">Wi-Fi 網路</string>
     <string name="wifi_menu_scan">掃描</string>
     <string name="wifi_menu_advanced">進階</string>
     <string name="wifi_menu_connect">連線至網路</string>
     <string name="wifi_menu_forget">清除網路</string>
     <string name="wifi_menu_modify">修改網路</string>
-    <string name="wifi_empty_list_wifi_off">要查看可用網路，請打開 WLAN。</string>
+    <string name="wifi_empty_list_wifi_off">如要查看可用的網路，請開啟 Wi-Fi。</string>
     <string name="wifi_show_advanced">顯示進階選項</string>
     <string name="wifi_network_setup">WPS</string>
     <string name="wifi_wps_pin">從存取點輸入 PIN</string>
@@ -479,7 +478,7 @@
     <string name="wifi_disabled_generic">已停用</string>
     <string name="wifi_disabled_network_failure">已避開品質不佳的網際網路連線</string>
     <string name="wifi_disabled_heading" />
-    <string name="wifi_disabled_help">系統因連接狀況不佳而停用了該網路。您可以通過「設定」>「WLAN」螢幕中的「高級」功能項關閉此功能。</string>
+    <string name="wifi_disabled_help">系統因連接狀況不佳而停用了該網路。您可以通過「設定」>「Wi-Fi」螢幕中的「高級」功能項關閉此功能。</string>
     <string name="wifi_disabled_password_failure">驗證問題</string>
     <string name="wifi_not_in_range">不在有效範圍內</string>
     <string name="wifi_wps_available_first_item">有可用的受保護網路</string>
@@ -491,9 +490,9 @@
     <string name="wifi_forget">清除</string>
     <string name="wifi_save">儲存</string>
     <string name="wifi_cancel">取消</string>
-    <string name="wifi_wps_overlap_error">檢測到另一個 WLAN 保護會話. 請過幾分鐘後重試。</string>
-    <string name="wifi_advanced_titlebar">高級 WLAN 設定</string>
-    <string name="wifi_setting_frequency_band_title">WLAN 頻帶</string>
+    <string name="wifi_wps_overlap_error">檢測到另一個 Wi-Fi 保護會話. 請過幾分鐘後重試。</string>
+    <string name="wifi_advanced_titlebar">進階 Wi-Fi</string>
+    <string name="wifi_setting_frequency_band_title">Wi-Fi 頻帶</string>
     <string name="wifi_setting_frequency_band_summary">指定作業的頻率範圍</string>
     <string name="wifi_setting_frequency_band_error">設定頻帶時發生問題。</string>
     <string name="wifi_advanced_mac_address_title">MAC 位址</string>
@@ -509,10 +508,10 @@
     <string name="wifi_dns2">DNS 2</string>
     <string name="wifi_gateway">閘道</string>
     <string name="wifi_network_prefix_length">網路首碼長度</string>
-    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_settings_summary">設定點對點連線</string>
     <string name="wifi_p2p_device_info">裝置資訊</string>
-    <string name="wifi_p2p_wps_setup">WLAN 保護設定</string>
+    <string name="wifi_p2p_wps_setup">Wi-Fi 保護設定</string>
     <string name="wifi_p2p_wps_pin">輸入 PIN</string>
     <string name="wifi_p2p_persist_network">記住這個連線</string>
     <string name="wifi_p2p_menu_search">搜尋</string>
@@ -520,11 +519,11 @@
     <string name="wifi_p2p_menu_remove_group">移除群組</string>
     <string name="wifi_p2p_menu_advanced">進階</string>
     <string name="wifi_p2p_available_devices">可用的裝置</string>
-    <string name="wifi_tether_checkbox_text">便攜式 WLAN 熱點</string>
+    <string name="wifi_tether_checkbox_text">可攜式 Wi-Fi 無線基地台</string>
     <string name="wifi_tether_enabled_subtext">可攜式無線基地台 %1$s 已啟用</string>
-    <string name="wifi_tether_failed_subtext">便攜式 WLAN 熱點錯誤</string>
-    <string name="wifi_tether_configure_ap_text">配置 WLAN 熱點</string>
-    <string name="wifi_tether_configure_subtext">%1$s %2$s 便攜式 WLAN 熱點</string>
+    <string name="wifi_tether_failed_subtext">可攜式 Wi-Fi 無線基地台發生錯誤</string>
+    <string name="wifi_tether_configure_ap_text">設定 Wi-Fi 無線基地台</string>
+    <string name="wifi_tether_configure_subtext">%1$s %2$s 可攜式 Wi-Fi 無線基地台</string>
     <string name="wifi_tether_configure_ssid_default">Android 無線基地台</string>
     <string name="display_settings_title">顯示</string>
     <string name="sound_settings">聲音和震動</string>
@@ -642,7 +641,7 @@ PIN 碼可能不正確。"</string>
     <string name="status_signal_strength">訊號強度</string>
     <string name="status_roaming">漫遊</string>
     <string name="status_operator">網路</string>
-    <string name="status_wifi_mac_address">WLAN MAC 地址</string>
+    <string name="status_wifi_mac_address">Wi-Fi MAC 位址</string>
     <string name="status_bt_address">藍牙位址</string>
     <string name="status_serial_number">序號</string>
     <string name="status_unavailable">無法取得</string>
@@ -782,9 +781,9 @@ PIN 碼可能不正確。"</string>
     <string name="tethering_help_button_text">說明</string>
     <string name="network_settings_title">行動網路</string>
     <string name="location_title">我的位置</string>
-    <string name="location_network_based">基於網路的位置服務</string>
-    <string name="location_neighborhood_level">允許應用程式使用來自 WLAN 或網際網路的數據確定您的大致位置</string>
-    <string name="location_neighborhood_level_wifi">通過 WLAN 確定位置</string>
+    <string name="location_network_based">Google 的定位服務</string>
+    <string name="location_neighborhood_level">讓應用程式使用 Wi-Fi 和行動網路等來源的資料測定您的約略位置</string>
+    <string name="location_neighborhood_level_wifi">根據 Wi-Fi 判定位置</string>
     <string name="location_gps">GPS 衛星定位</string>
     <string name="location_street_level">允許應用程式使用 GPS 定出您的精確位置</string>
     <string name="assisted_gps">使用輔助 GPS</string>
@@ -1096,12 +1095,12 @@ PIN 碼可能不正確。"</string>
     <string name="battery_stats_charging_label">充電</string>
     <string name="battery_stats_screen_on_label">螢幕已開</string>
     <string name="battery_stats_gps_on_label">開啟 GPS</string>
-    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_stats_wifi_running_label">Wi-Fi</string>
     <string name="battery_stats_wake_lock_label">清醒</string>
     <string name="battery_stats_phone_signal_label">行動網路訊號</string>
     <string name="awake">裝置清醒時間</string>
-    <string name="wifi_on_time">WLAN 開啟時間</string>
-    <string name="bluetooth_on_time">WLAN 開啟時間</string>
+    <string name="wifi_on_time">開啟 Wi-Fi 的時間</string>
+    <string name="bluetooth_on_time">開啟 Wi-Fi 的時間</string>
     <string name="usage_name_percent">%1$s - %2$s%%</string>
     <string name="history_details_title">詳細記錄</string>
     <string name="details_title">詳細使用狀況</string>
@@ -1109,7 +1108,7 @@ PIN 碼可能不正確。"</string>
     <string name="controls_subtitle">調整電力使用</string>
     <string name="packages_subtitle">已包含封裝檔案</string>
     <string name="power_screen">螢幕</string>
-    <string name="power_wifi">WLAN</string>
+    <string name="power_wifi">Wi-Fi</string>
     <string name="power_bluetooth">藍牙</string>
     <string name="power_cell">手機待命</string>
     <string name="power_phone">語音通話</string>
@@ -1118,7 +1117,7 @@ PIN 碼可能不正確。"</string>
     <string name="usage_type_cpu_foreground">CPU 前端使用狀況</string>
     <string name="usage_type_wake_lock">保持清醒</string>
     <string name="usage_type_gps">GPS</string>
-    <string name="usage_type_wifi_running">WLAN 正在運行</string>
+    <string name="usage_type_wifi_running">Wi-Fi 執行中</string>
     <string name="usage_type_phone">手機</string>
     <string name="usage_type_data_send">已傳送資料</string>
     <string name="usage_type_data_recv">已接收資料</string>
@@ -1130,7 +1129,7 @@ PIN 碼可能不正確。"</string>
     <string name="battery_action_app_details">應用程式資訊</string>
     <string name="battery_action_app_settings">應用程式設定</string>
     <string name="battery_action_display">螢幕設定</string>
-    <string name="battery_action_wifi">WLAN 設定</string>
+    <string name="battery_action_wifi">Wi-Fi 設定</string>
     <string name="battery_action_bluetooth">藍牙設定</string>
     <string name="battery_desc_voice">語音通話耗電量</string>
     <string name="battery_desc_standby">手機閒置時的耗電量</string>
@@ -1138,8 +1137,8 @@ PIN 碼可能不正確。"</string>
     <string name="battery_sugg_radio">切換到飛行模式，以便裝置不在服務涵蓋範圍時能節省電力</string>
     <string name="battery_desc_display">顯示與背光啟動時的耗電量</string>
     <string name="battery_sugg_display">降低螢幕亮度和/或螢幕自動關閉時間</string>
-    <string name="battery_desc_wifi">WLAN 所耗的電量</string>
-    <string name="battery_sugg_wifi">不使用或無法使用 WLAN 時將其關閉</string>
+    <string name="battery_desc_wifi">Wi-Fi 耗電量</string>
+    <string name="battery_sugg_wifi">未使用或無法使用 Wi-Fi 時即關閉 Wi-Fi</string>
     <string name="battery_desc_bluetooth">藍牙用電量</string>
     <string name="battery_sugg_bluetooth_basic">未使用藍牙時即關閉藍牙</string>
     <string name="battery_sugg_bluetooth_headset">試著連線至其他藍牙裝置</string>
@@ -1201,7 +1200,7 @@ PIN 碼可能不正確。"</string>
     <string name="tts_engine_preference_section_title">偏好的引擎</string>
     <string name="tts_general_section_title">一般</string>
     <string name="gadget_title">電源控制</string>
-    <string name="gadget_toggle_wifi">正在更新 WLAN 設定</string>
+    <string name="gadget_toggle_wifi">正在更新 Wi-Fi 設定</string>
     <string name="gadget_toggle_bluetooth">正在更新藍牙設定</string>
     <string name="vpn_settings_title">VPN</string>
     <string name="credentials_title">憑證儲存空間</string>
@@ -1230,7 +1229,7 @@ PIN 碼可能不正確。"</string>
     <string name="backup_section_title">備份與還原</string>
     <string name="personal_data_section_title">個人資料</string>
     <string name="backup_data_title">備份我的資料</string>
-    <string name="backup_data_summary">將應用程式數據、WLAN 密碼和其他設定備份到 Google 伺服器</string>
+    <string name="backup_data_summary">將應用程式資料、Wi-Fi 密碼，以及其他設定備份到 Google 伺服器</string>
     <string name="backup_configure_account_title">備份帳戶</string>
     <string name="backup_configure_account_default_summary">目前沒有帳戶正在儲存備份資料</string>
     <string name="auto_restore_title">自動還原功能</string>
@@ -1239,7 +1238,7 @@ PIN 碼可能不正確。"</string>
     <string name="local_backup_password_summary_none">電腦完整備份目前未受保護。</string>
     <string name="local_backup_password_summary_change">選取要變更或移除電腦完整備份的密碼</string>
     <string name="backup_erase_dialog_title" />
-    <string name="backup_erase_dialog_message">要停止備份您的 WLAN 密碼、書籤、其他設定以及應用程式數據，並清除 Google 伺服器上的所有副本嗎？</string>
+    <string name="backup_erase_dialog_message">停止備份您的 Wi-Fi 密碼、書籤、其他設定，以及應用程式資料，並清除 Google 伺服器上儲存的所有副本嗎？</string>
     <string name="device_admin_settings_title">裝置管理設定</string>
     <string name="active_device_admin_msg">裝置管理員</string>
     <string name="remove_device_admin">撤銷</string>
@@ -1255,10 +1254,10 @@ PIN 碼可能不正確。"</string>
     <string name="sound_category_calls_and_notification_title">鈴聲與通知</string>
     <string name="sound_category_notification_title">通知</string>
     <string name="sound_category_feedback_title">系統</string>
-    <string name="wifi_setup_title">WLAN 設定</string>
-    <string name="wifi_setup_title_editing_network">連接到 WLAN 網路%s</string>
-    <string name="wifi_setup_title_connecting_network">正在連接到 WLAN 網路「%s」...</string>
-    <string name="wifi_setup_title_connected_network">已連接到 WLAN 網路%s</string>
+    <string name="wifi_setup_title">Wi-Fi 設定</string>
+    <string name="wifi_setup_title_editing_network">連線至 Wi-Fi 網路 %s</string>
+    <string name="wifi_setup_title_connecting_network">正在連線至 Wi-Fi 網路 %s...</string>
+    <string name="wifi_setup_title_connected_network">已連線至 Wi-Fi 網路 %s</string>
     <string name="wifi_setup_title_add_network">新增網路</string>
     <string name="wifi_setup_not_connected">尚未連線</string>
     <string name="wifi_setup_add_network">新增網路</string>
@@ -1280,11 +1279,11 @@ PIN 碼可能不正確。"</string>
     <string name="wifi_setup_status_connecting">連線中…</string>
     <string name="wifi_setup_status_proceed_to_next">前往下一個步驟</string>
     <string name="wifi_setup_status_eap_not_supported">EAP 不受支援。</string>
-    <string name="wifi_setup_eap_not_supported">您無法在設置過程中配置 EAP WLAN 連接。設定完畢後，您可以在「設定」>「無線和網路」中進行配置。</string>
+    <string name="wifi_setup_eap_not_supported">您無法在設定精靈運作期間調整 EAP Wi-Fi 連線設定。如要調整 EAP Wi-Fi 連線設定，請在設定精靈完成後，前往 [設定] 的 [無線與網路] 調整相關設定。</string>
     <string name="wifi_setup_description_connecting">連線中，請稍候幾分鐘...</string>
-    <string name="wifi_setup_description_connected">輕觸<b>下一步</b>"可繼續進行設定。
+    <string name="wifi_setup_description_connected">"輕觸 [下一步] 即可繼續安裝；
 
-輕觸"<b>返回</b>可連接到其他 WLAN 網路。</string>
+輕觸 [返回] 則可連線至其他 Wi-Fi 網路。"</string>
     <string name="accessibility_sync_enabled">同步處理已啟用</string>
     <string name="accessibility_sync_disabled">同步處理已停用</string>
     <string name="accessibility_sync_error">同步處理錯誤。</string>
@@ -1363,7 +1362,7 @@ PIN 碼可能不正確。"</string>
     <string name="data_usage_menu_roaming">漫遊服務</string>
     <string name="data_usage_menu_restrict_background">限制背景資料</string>
     <string name="data_usage_menu_split_4g">獨立顯示 4G 用量</string>
-    <string name="data_usage_menu_show_wifi">顯示 WLAN 使用情況</string>
+    <string name="data_usage_menu_show_wifi">顯示 Wi-Fi 用量</string>
     <string name="data_usage_menu_show_ethernet">顯示乙太網路使用量</string>
     <string name="data_usage_change_cycle">變更週期...</string>
     <string name="data_usage_pick_cycle_day">資料用量週期的重設日期：</string>
@@ -1375,8 +1374,8 @@ PIN 碼可能不正確。"</string>
     <string name="data_usage_disable_mobile_limit">設定行動數據上限</string>
     <string name="data_usage_disable_4g_limit">設定 4G 數據上限</string>
     <string name="data_usage_disable_3g_limit">設定 2G 至 3G 的數據上限</string>
-    <string name="data_usage_disable_wifi_limit">設定 WLAN 數據流量限制</string>
-    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_disable_wifi_limit">設定 Wi-Fi 數據上限</string>
+    <string name="data_usage_tab_wifi">Wi-Fi</string>
     <string name="data_usage_tab_ethernet">乙太網路</string>
     <string name="data_usage_tab_mobile">行動數據</string>
     <string name="data_usage_tab_4g">4G</string>
@@ -1388,12 +1387,12 @@ PIN 碼可能不正確。"</string>
     <string name="data_usage_enable_4g">4G 數據</string>
     <string name="data_usage_app_settings">查看應用程式設定</string>
     <string name="data_usage_app_restrict_background">限制背景資料</string>
-    <string name="data_usage_app_restrict_background_summary">僅在使用網際數據網路時停用背景數據。系統會儘量使用 WLAN 連接。</string>
+    <string name="data_usage_app_restrict_background_summary">只停用行動數據網路的背景資料，可連上 Wi-Fi 時則使用 Wi-Fi。</string>
     <string name="data_usage_app_restrict_background_summary_disabled">您必須設定行動數據限制，才能限制這個應用程式的背景資料。</string>
     <string name="data_usage_app_restrict_dialog_title">限制背景資料？</string>
-    <string name="data_usage_app_restrict_dialog">"在沒有 WLAN 連接的情況下，此功能可能導致需要背景數據的應用程式停止運行。
+    <string name="data_usage_app_restrict_dialog">"這項功能可能導致需要使用背景資料的應用程式在無法連上 Wi-Fi 時停止運作。
 
-您可以在相關應用程式內的設定中查找更合適的數據流量控制選項。"</string>
+如需更多適合的資料用量控制項，請前往應用程式本身的設定中尋找。"</string>
     <string name="data_usage_restrict_denied_dialog">您必須設定行動數據限制，才能限制背景資料。</string>
     <string name="data_usage_cycle_editor_title">用量週期重設日期</string>
     <string name="data_usage_cycle_editor_subtitle">每月固定日期：</string>
@@ -1405,7 +1404,7 @@ PIN 碼可能不正確。"</string>
 
 由於資料用量需依您的手機來計算，而您的行動通訊業者計費方式可能有所不同，請考慮使用保守估計的上限值。"</string>
     <string name="data_usage_restrict_background_title">限制背景資料？</string>
-    <string name="data_usage_restrict_background">如果限制背景網路數據，那麼除非您已連接到 WLAN 網路，否則部分應用程式和服務會無法運行。</string>
+    <string name="data_usage_restrict_background">如果您限制背景行動數據傳輸，則必須連線至 Wi-Fi 網路才能使用特定應用程式與服務。</string>
     <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
 "<font size="12">警告</font></string>
     <string name="data_usage_sweep_limit"><font size="21">^1</font><font size="9">^2</font>"
@@ -1480,7 +1479,7 @@ PIN 碼可能不正確。"</string>
     <string name="additional_system_update_settings_list_item_title">其他系統更新</string>
     <string name="search_airplane">飛航模式;FeiXing</string>
     <string name="search_network">網際網路;電信商;APN;接入點;數據漫遊;網路類型</string>
-    <string name="search_wifi">WiFi;WLAN;Wi-Fi;無線;WuXian</string>
+    <string name="search_wifi">WiFi;Wi-Fi;無線;WuXian</string>
     <string name="search_bluetooth">藍牙;LanYa</string>
     <string name="search_android_beam">NFC;Beam</string>
     <string name="search_vpn">VPN</string>
@@ -1524,7 +1523,7 @@ PIN 碼可能不正確。"</string>
     <string name="haptic_feedback_level">震動強度</string>
     <string name="privacy_protect_title">隱私保護</string>
     <string name="privacy_mode_enable_title">訪客模式</string>
-    <string name="privacy_mode_enable_sum">隱藏通話短信等個人資訊以保護隱私</string>
+    <string name="privacy_mode_enable_sum">隱藏通話簡訊等個人資訊以保護隱私</string>
     <string name="ac_enable_title">瀏覽限制</string>
     <string name="ac_set_apps_title">設定限制瀏覽的應用</string>
     <string name="ac_privacy_mode_title">啟用密碼</string>
@@ -1590,11 +1589,11 @@ PIN 碼可能不正確。"</string>
     <string name="date_time_settings">日期和時間</string>
     <string name="timezone_settings">時區</string>
     <string name="security_privacy_settings_title">安全和隱私</string>
-    <string name="nearby_wifi">選取附近的WLAN</string>
+    <string name="nearby_wifi">選取附近的Wi-Fi</string>
     <string name="unlock_set_enter_system">直接進入系統</string>
     <string name="unlock_set_enter_system_summary">開啟後不使用系統的解鎖樣式，點亮螢幕直接進入系統，需要無螢幕密碼</string>
     <string name="forget_wifi_message">會停止自動連接此網路，並且再次連接時可能需要重新輸入密碼</string>
-    <string name="no_nearby_wifi">沒有來檢測到附近可用的WLAN，可以嘗試重新掃瞄或者手動增加網路</string>
+    <string name="no_nearby_wifi">沒有來檢測到附近可用的Wi-Fi，可以嘗試重新掃瞄或者手動增加網路</string>
     <string name="manually_add_network">手工增加網路</string>
     <string name="network_detail">%s 網路詳情</string>
     <string name="incoming_call_vibrate_abbreviation">來電</string>
@@ -1709,7 +1708,7 @@ PIN 碼可能不正確。"</string>
     <string name="vpn_settings_password">VPN 密碼保護</string>
     <string name="vpn_safe">安全</string>
     <string name="vpn_configure">配置</string>
-    <string name="sync_wifi_label">WLAN設置</string>
+    <string name="sync_wifi_label">Wi-Fi設置</string>
     <string name="drive_mode">行車模式</string>
     <string name="drive_mode_title">設置語音播報和自動回複</string>
     <string name="drive_mode_settings">行車模式設置</string>

@@ -398,7 +398,7 @@
     <string name="status_bar_toggle_sync">同步</string>
     <string name="status_bar_toggle_torch">手电筒</string>
     <string name="status_bar_toggle_vibrate">振动</string>
-    <string name="status_bar_toggle_wifi">WLAN</string>
+    <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="screen_rotation_freeze_message">锁定屏幕为横屏模式</string>
     <string name="screen_button_disabled_message">手机屏幕下方按键功能已停用，可通过“桌面键+电源键”恢复。</string>
     <string name="screen_button_enabled_message">手机屏幕下方按键功能已恢复</string>

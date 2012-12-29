@@ -158,13 +158,13 @@ CC: %4$s
     <string name="message_view_show_details">Show details</string>
     <string name="message_view_message_details_dialog_title">Message details</string>
     <string name="attachment_info_dialog_default_title">Attachment info</string>
-    <string name="attachment_info_dialog_wifi_title">WLAN connection required</string>
-    <string name="attachment_info_wifi_settings">WLAN settings</string>
+    <string name="attachment_info_dialog_wifi_title">Wi-Fi connection required</string>
+    <string name="attachment_info_wifi_settings">Wi-Fi settings</string>
     <string name="attachment_info_application_settings">App settings</string>
     <string name="attachment_info_unknown">"Can't open attachment."</string>
     <string name="attachment_info_malware">"You can't save or open this file because this type of attachment might contain malicious software."</string>
     <string name="attachment_info_policy">"This attachment can't be saved or opened because of this account's security policies."</string>
-    <string name="attachment_info_wifi_only">This attachment is too large to download over a mobile network. You can download it the next time you connect to a WLAN network.</string>
+    <string name="attachment_info_wifi_only">This attachment is too large to download over a mobile network. You can download it the next time you connect to a Wi-Fi network.</string>
     <string name="attachment_info_no_intent">There is no installed app that can open this attachment. Try downloading an appropriate app from Android Market.</string>
     <string name="attachment_info_sideload_disabled">This attachment is an app. You must check Unknown Sources in Settings > Apps before you can install it.</string>
     <string name="attachment_info_apk_install_disabled">"Apps can't be installed directly from email. First save this app and then install it using the Downloads app."</string>
@@ -267,7 +267,7 @@ CC: %4$s
     <string name="account_setup_options_sync_contacts_label">Sync contacts from this account.</string>
     <string name="account_setup_options_sync_calendar_label">Sync calendar from this account.</string>
     <string name="account_setup_options_sync_email_label">Sync email from this account.</string>
-    <string name="account_setup_options_background_attachments_label">Automatically download attachments when connected to WLAN</string>
+    <string name="account_setup_options_background_attachments_label">Automatically download attachments when connected to Wi-Fi</string>
     <string name="account_setup_failed_dlg_title">"Couldn't finish"</string>
     <string name="account_setup_options_mail_window_label">Days to sync</string>
     <string name="account_setup_options_mail_window_auto">Automatic</string>
@@ -322,7 +322,7 @@ CC: %4$s
     <string name="account_settings_default_label">Default account</string>
     <string name="account_settings_default_summary">Send email from this account by default</string>
     <string name="account_settings_background_attachments_label">Download attachments</string>
-    <string name="account_settings_background_attachments_summary">Auto-download attachments to recent messages via WLAN</string>
+    <string name="account_settings_background_attachments_summary">Auto-download attachments to recent messages via Wi-Fi</string>
     <string name="account_settings_notify_label">Email notifications</string>
     <string name="account_settings_summary">Sync frequency, notifications, etc.</string>
     <string name="account_settings_notify_summary">Notify in System bar when email arrives</string>

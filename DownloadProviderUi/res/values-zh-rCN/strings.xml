@@ -32,7 +32,7 @@
     <string name="select_all">全选</string>
     <string name="selected_count">已选择 %1$d 个，共 %2$d 个</string>
     <string name="download_share_dialog">分享方式</string>
-    <string name="pause_download_when_wifi_disconnected">仅在WLAN下下载</string>
+    <string name="pause_download_when_wifi_disconnected">仅在Wi-Fi下下载</string>
     <string name="download_when_network_connected">任何网络连接时下载</string>
     <string name="download_paused">已暂停</string>
     <string name="download_pending">等待下载</string>
@@ -46,7 +46,7 @@
     <string name="restart_download">重试</string>
     <string name="open_download">打开</string>
     <string name="paused_by_app">已被手动暂停</string>
-    <string name="paused_queued_for_wifi">等待WLAN连接</string>
+    <string name="paused_queued_for_wifi">等待Wi-Fi连接</string>
     <string name="paused_waiting_for_network">等待网络连接</string>
     <string name="paused_waiting_to_retry">等待重试</string>
     <string name="paused_unknown">未知原因暂停</string>
@@ -54,7 +54,7 @@
     <string name="confirm_delete_the_download_item_message">确定要删除该下载吗？</string>
     <string name="delete_the_downloaded_file">同时删除已下载的文件</string>
     <string name="downloads_operating">正在操作...</string>
-    <string name="confirm_disable_download_only_in_wifi_message">关闭仅在WLAN下下载，将可能在运营商网络中产生额外数据流量费用，是否确认要关闭仅在WLAN下下载？</string>
+    <string name="confirm_disable_download_only_in_wifi_message">关闭仅在Wi-Fi下下载，将可能在运营商网络中产生额外数据流量费用，是否确认要关闭仅在Wi-Fi下下载？</string>
     <string name="preferences_title">设置</string>
     <string name="pref_download_settings_title">流量警示</string>
     <string name="pref_title_enable_max_bytes_popup">数据下载提示</string>

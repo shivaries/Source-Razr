@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="backup_dialog_content_type">
-        <item>WLAN數據</item>
+        <item>Wi-Fi數據</item>
         <item>所有程序</item>
     </string-array>
     <string-array name="system_package_label">
@@ -19,7 +19,7 @@
         <item>簡訊</item>
         <item>MMS</item>
         <item>系統設定</item>
-        <item>WLAN設定</item>
+        <item>Wi-Fi設定</item>
         <item>桌面佈局位置</item>
         <item>鬧鐘設定</item>
         <item>備註</item>
@@ -35,12 +35,12 @@
         <item>通訊錄</item>
         <item>通話記錄</item>
         <item>簡訊</item>
-        <item>WLAN設定</item>
+        <item>Wi-Fi設定</item>
         <item>備註</item>
     </string-array>
     <string-array name="cloud_account_data">
         <item>通訊錄</item>
-        <item>WLAN設定</item>
+        <item>Wi-Fi設定</item>
         <item>備註</item>
     </string-array>
     <string-array name="cloud_sim_data">

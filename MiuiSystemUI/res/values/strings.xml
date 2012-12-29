@@ -134,7 +134,7 @@ If you re-enable data, you may be charged by the operator."</string>
     <string name="status_bar_time_format_24">HH:mm</string>
     <string name="status_bar_date_format">MMMM d, yyyy</string>
     <string name="status_bar_recent_memory_info_format">%dM</string>
-    <string name="status_bar_recent_memory_info">%1$s / %2$s</string>
+    <string name="status_bar_recent_memory_info">%1$s / %2$s available</string>
     <string name="usb_mode_notification">USB Storage</string>
     <string name="usb_mode_dont_ask">"Don't ask next time"</string>
     <string name="usb_mode_mount_storage_title">Open USB storage now？</string>

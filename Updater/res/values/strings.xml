@@ -5,8 +5,8 @@
     <string name="app_name">Updater</string>
     <string name="apply_now_button_text">Update now</string>
     <string name="view_details">View details</string>
-    <string name="download_whole_rom">Download full ROM (%s)</string>
-    <string name="download_ota_rom">Download the OTA update (%s)</string>
+    <string name="download_whole_rom">Download (%s)</string>
+    <string name="download_ota_rom">Download (%s)</string>
     <string name="apply_later_button_text">Apply later</string>
     <string name="start_update">Begin update</string>
     <string name="applying_update">Updating...%s</string>
@@ -71,10 +71,10 @@
     <string name="stable_build">Stable Build</string>
     <string name="about_device">About Phone</string>
     <string name="emegency_build">Build:</string>
-    <string name="wifi_not_available_title">WLAN not connected</string>
-    <string name="wifi_not_available_body">It is recommended to use WLAN to download updates as file sizes can be large. You are not currently using WLAN, are you sure you want to continue?</string>
+    <string name="wifi_not_available_title">Wi-Fi not connected</string>
+    <string name="wifi_not_available_body">It is recommended to use Wi-Fi to download updates as file sizes can be large. You are not currently using Wi-Fi, are you sure you want to continue?</string>
     <string name="paused_queued_for_network">Waiting for network connection</string>
-    <string name="paused_queued_for_wifi">Waiting for WLAN connection</string>
+    <string name="paused_queued_for_wifi">Waiting for Wi-Fi connection</string>
     <string name="boot_recovery">Reboot to recovery mode</string>
     <string name="applying_rom_message">Applying update</string>
     <string name="loading">Requesting</string>
@@ -98,7 +98,7 @@ Over %2$s users have signed in for MIUI %3$s"</string>
     <string name="finish_download">Download completed</string>
     <string name="install_whole_rom">Download full ROM package is recommended</string>
     <string name="check_update_policy">Check update settings</string>
-    <string name="check_update_when_wifi_available">Check for updates only using WLAN</string>
+    <string name="check_update_when_wifi_available">Check for updates only using Wi-Fi</string>
     <string name="update_monthly_build_only">Update to monthly build only</string>
     <string name="install_file_explorer">Please install file explorer</string>
     <string name="share_update">Share your system update info</string>

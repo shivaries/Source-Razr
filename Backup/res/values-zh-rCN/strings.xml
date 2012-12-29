@@ -63,7 +63,7 @@
     <string name="call_title">通话记录</string>
     <string name="sms_title">短信</string>
     <string name="mms_title">彩信</string>
-    <string name="wifi_title">WLAN设置</string>
+    <string name="wifi_title">Wi-Fi设置</string>
     <string name="note_title">便签</string>
     <string name="compute_backup_info">正在查询备份信息</string>
     <string name="compute_delete_contact_info">正在查询删除联系人信息</string>
@@ -103,7 +103,7 @@
     <string name="service_stoped">服务停止</string>
     <string name="sc_network_unavailable">网络连接错误</string>
     <string name="sc_bad_request">错误的请求</string>
-    <string name="sc_unaccess_password_file">没有读取到WLAN密码文件</string>
+    <string name="sc_unaccess_password_file">没有读取到Wi-Fi密码文件</string>
     <string name="sc_service_unavailable">云端服务不可用</string>
     <string name="sc_unauthorized">认证无效，请重新登录</string>
     <string name="sc_request_timeout">请求超时</string>
@@ -126,7 +126,7 @@
     <string name="local_no_backup">当前无备份</string>
     <string name="auto_backup_setting">设置自动备份</string>
     <string name="auto_backup_open">开启自动备份</string>
-    <string name="auto_backup_only_wifi">仅WLAN连接时自动备份</string>
+    <string name="auto_backup_only_wifi">仅Wi-Fi连接时自动备份</string>
     <string name="auto_backup_date">备份日期</string>
     <string name="auto_backup_time">备份时间</string>
     <string name="auto_backup_choose_title">设置自动备份项目</string>

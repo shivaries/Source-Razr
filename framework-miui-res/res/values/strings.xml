@@ -537,7 +537,7 @@ Current available memory is %2$s"</string>
     <string name="status_bar_toggle_sync">Sync</string>
     <string name="status_bar_toggle_torch">Torch</string>
     <string name="status_bar_toggle_vibrate">Vibrate</string>
-    <string name="status_bar_toggle_wifi">WLAN</string>
+    <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="screen_rotation_freeze_message">Locked screen rotation to landscape mode</string>
     <string name="screen_button_disabled_message">Functions of buttons on the lower screen are disabled. You may enable them by pressing \"Home\" and \"Power\"</string>
     <string name="screen_button_enabled_message">Functions of buttons on the lower screen are enabled</string>

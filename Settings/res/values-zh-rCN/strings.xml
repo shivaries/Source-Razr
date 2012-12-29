@@ -226,7 +226,7 @@
     <string name="airplane_mode">飞行模式</string>
     <string name="radio_controls_title">更多无线连接</string>
     <string name="wireless_networks_settings_title">无线和网络</string>
-    <string name="radio_controls_summary">管理 WLAN、蓝牙、飞行模式、移动网络和 VPN</string>
+    <string name="radio_controls_summary">管理 Wi-Fi、蓝牙、飞行模式、移动网络和 VPN</string>
     <string name="roaming">数据漫游</string>
     <string name="roaming_enable">漫游时连接到数据服务</string>
     <string name="roaming_disable">漫游时连接到数据服务</string>
@@ -425,31 +425,31 @@
     <string name="android_beam_explained">"打开此功能后，您只需将自己的设备与另一台支持 NFC 的设备靠在一起，即可将您设备上的应用程序内容同步分享给对方。例如，您可以发送网页、YouTube 视频、“分享对象”联系人等等。
 
 您只需将设备靠在一起（通常是背靠背）然后触摸屏幕即可，所分享的内容是由该应用程序确定的。"</string>
-    <string name="wifi_quick_toggle_title">WLAN</string>
-    <string name="wifi_quick_toggle_summary">打开 WLAN</string>
-    <string name="wifi_settings">WLAN</string>
-    <string name="wifi_settings_category">WLAN 设置</string>
-    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_quick_toggle_title">Wi-Fi</string>
+    <string name="wifi_quick_toggle_summary">打开 Wi-Fi</string>
+    <string name="wifi_settings">Wi-Fi</string>
+    <string name="wifi_settings_category">Wi-Fi 设置</string>
+    <string name="wifi_settings_title">Wi-Fi</string>
     <string name="wifi_settings_summary">设置和管理无线接入点</string>
-    <string name="wifi_starting">正在打开 WLAN...</string>
-    <string name="wifi_stopping">正在关闭 WLAN...</string>
+    <string name="wifi_starting">正在打开 Wi-Fi...</string>
+    <string name="wifi_stopping">正在关闭 Wi-Fi...</string>
     <string name="wifi_error">出错</string>
     <string name="wifi_in_airplane_mode">正处于飞行模式下</string>
     <string name="wifi_fail_to_scan">扫描不到网络</string>
     <string name="wifi_notify_open_networks">网络通知</string>
     <string name="wifi_notify_open_networks_summary">附近有开放网络时通知我</string>
     <string name="wifi_enable_watchdog_service">不采用状况差的连接</string>
-    <string name="wifi_enable_watchdog_service_summary">仅在 WLAN 互联网连接状况良好时使用 WLAN 网络</string>
-    <string name="wifi_setting_sleep_policy_title">在休眠状态下保持 WLAN 连接</string>
+    <string name="wifi_enable_watchdog_service_summary">仅在 Wi-Fi 互联网连接状况良好时使用 Wi-Fi 网络</string>
+    <string name="wifi_setting_sleep_policy_title">在休眠状态下保持 Wi-Fi 连接</string>
     <string name="wifi_setting_sleep_policy_error">更改设置时出现问题</string>
     <string name="wifi_add_network">添加网络</string>
-    <string name="wifi_access_points">WLAN 网络</string>
+    <string name="wifi_access_points">Wi-Fi 网络</string>
     <string name="wifi_menu_scan">扫描</string>
     <string name="wifi_menu_advanced">高级</string>
     <string name="wifi_menu_connect">连接到网络</string>
     <string name="wifi_menu_forget">不保存网络</string>
     <string name="wifi_menu_modify">修改网络</string>
-    <string name="wifi_empty_list_wifi_off">要查看可用网络，请打开 WLAN。</string>
+    <string name="wifi_empty_list_wifi_off">要查看可用网络，请打开 Wi-Fi。</string>
     <string name="wifi_show_advanced">显示高级选项</string>
     <string name="wifi_network_setup">WPS</string>
     <string name="wifi_wps_pin">键入从接入点获取的 PIN</string>
@@ -478,7 +478,7 @@
     <string name="wifi_disabled_generic">已停用</string>
     <string name="wifi_disabled_network_failure">已停用状况不佳的互联网连接</string>
     <string name="wifi_disabled_heading" />
-    <string name="wifi_disabled_help">系统因连接状况不佳而停用了该网络。您可以通过“设置”>“WLAN”屏幕中的“高级”菜单项关闭此功能。</string>
+    <string name="wifi_disabled_help">系统因连接状况不佳而停用了该网络。您可以通过“设置”>“Wi-Fi”屏幕中的“高级”菜单项关闭此功能。</string>
     <string name="wifi_disabled_password_failure">身份验证出现问题</string>
     <string name="wifi_not_in_range">不在范围内</string>
     <string name="wifi_wps_available_first_item">受保护的网络可用</string>
@@ -490,9 +490,9 @@
     <string name="wifi_forget">不保存</string>
     <string name="wifi_save">保存</string>
     <string name="wifi_cancel">取消</string>
-    <string name="wifi_wps_overlap_error">检测到另一个 WLAN 保护会话。请过几分钟后重试。</string>
-    <string name="wifi_advanced_titlebar">高级 WLAN 设置</string>
-    <string name="wifi_setting_frequency_band_title">WLAN 频带</string>
+    <string name="wifi_wps_overlap_error">检测到另一个 Wi-Fi 保护会话。请过几分钟后重试。</string>
+    <string name="wifi_advanced_titlebar">高级 Wi-Fi 设置</string>
+    <string name="wifi_setting_frequency_band_title">Wi-Fi 频带</string>
     <string name="wifi_setting_frequency_band_summary">指定操作的频率范围</string>
     <string name="wifi_setting_frequency_band_error">设置频带时出现问题。</string>
     <string name="wifi_advanced_mac_address_title">MAC 地址</string>
@@ -508,10 +508,10 @@
     <string name="wifi_dns2">域名 2</string>
     <string name="wifi_gateway">网关</string>
     <string name="wifi_network_prefix_length">网络前缀长度</string>
-    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_settings_summary">设置对等连接</string>
     <string name="wifi_p2p_device_info">设备信息</string>
-    <string name="wifi_p2p_wps_setup">WLAN 保护设置</string>
+    <string name="wifi_p2p_wps_setup">Wi-Fi 保护设置</string>
     <string name="wifi_p2p_wps_pin">键入 PIN</string>
     <string name="wifi_p2p_persist_network">记住该连接</string>
     <string name="wifi_p2p_menu_search">搜索</string>
@@ -519,11 +519,11 @@
     <string name="wifi_p2p_menu_remove_group">删除群组</string>
     <string name="wifi_p2p_menu_advanced">高级</string>
     <string name="wifi_p2p_available_devices">可用设备</string>
-    <string name="wifi_tether_checkbox_text">便携式 WLAN 热点</string>
+    <string name="wifi_tether_checkbox_text">便携式 Wi-Fi 热点</string>
     <string name="wifi_tether_enabled_subtext">便携式热点 %1$s 已启用</string>
-    <string name="wifi_tether_failed_subtext">便携式 WLAN 热点错误</string>
-    <string name="wifi_tether_configure_ap_text">配置 WLAN 热点</string>
-    <string name="wifi_tether_configure_subtext">%1$s %2$s 便携式 WLAN 热点</string>
+    <string name="wifi_tether_failed_subtext">便携式 Wi-Fi 热点错误</string>
+    <string name="wifi_tether_configure_ap_text">配置 Wi-Fi 热点</string>
+    <string name="wifi_tether_configure_subtext">%1$s %2$s 便携式 Wi-Fi 热点</string>
     <string name="wifi_tether_configure_ssid_default">Android 热点</string>
     <string name="display_settings_title">显示</string>
     <string name="sound_settings">声音和振动</string>
@@ -641,7 +641,7 @@ PIN 可能不正确。"</string>
     <string name="status_signal_strength">信号强度</string>
     <string name="status_roaming">漫游</string>
     <string name="status_operator">网络</string>
-    <string name="status_wifi_mac_address">WLAN MAC 地址</string>
+    <string name="status_wifi_mac_address">Wi-Fi MAC 地址</string>
     <string name="status_bt_address">蓝牙地址</string>
     <string name="status_serial_number">序列号</string>
     <string name="status_unavailable">不可用</string>
@@ -781,9 +781,9 @@ PIN 可能不正确。"</string>
     <string name="tethering_help_button_text">帮助</string>
     <string name="network_settings_title">移动网络</string>
     <string name="location_title">我的位置</string>
-    <string name="location_network_based">基于网络的位置服务</string>
-    <string name="location_neighborhood_level">允许应用程序使用来自 WLAN 或移动网络的数据确定您的大致位置</string>
-    <string name="location_neighborhood_level_wifi">通过 WLAN 确定位置</string>
+    <string name="location_network_based">Google 的位置服务</string>
+    <string name="location_neighborhood_level">允许应用程序使用来自 Wi-Fi 或移动网络的数据确定您的大致位置</string>
+    <string name="location_neighborhood_level_wifi">通过 Wi-Fi 确定位置</string>
     <string name="location_gps">GPS 卫星</string>
     <string name="location_street_level">允许应用程序使用 GPS 对您进行定位</string>
     <string name="assisted_gps">使用增强型 GPS</string>
@@ -1095,12 +1095,12 @@ PIN 可能不正确。"</string>
     <string name="battery_stats_charging_label">正在充电</string>
     <string name="battery_stats_screen_on_label">屏幕已开启</string>
     <string name="battery_stats_gps_on_label">GPS 已启用</string>
-    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_stats_wifi_running_label">Wi-Fi</string>
     <string name="battery_stats_wake_lock_label">唤醒</string>
     <string name="battery_stats_phone_signal_label">移动网络信号</string>
     <string name="awake">设备唤醒时间</string>
-    <string name="wifi_on_time">WLAN 开启时间</string>
-    <string name="bluetooth_on_time">WLAN 开启时间</string>
+    <string name="wifi_on_time">Wi-Fi 开启时间</string>
+    <string name="bluetooth_on_time">Wi-Fi 开启时间</string>
     <string name="usage_name_percent">%1$s - %2$s%%</string>
     <string name="history_details_title">历史记录详细信息</string>
     <string name="details_title">使用详情</string>
@@ -1108,7 +1108,7 @@ PIN 可能不正确。"</string>
     <string name="controls_subtitle">调配电量</string>
     <string name="packages_subtitle">包括的软件包</string>
     <string name="power_screen">屏幕</string>
-    <string name="power_wifi">WLAN</string>
+    <string name="power_wifi">Wi-Fi</string>
     <string name="power_bluetooth">蓝牙</string>
     <string name="power_cell">手机待机</string>
     <string name="power_phone">语音通话</string>
@@ -1117,7 +1117,7 @@ PIN 可能不正确。"</string>
     <string name="usage_type_cpu_foreground">CPU（前台）</string>
     <string name="usage_type_wake_lock">保持唤醒状态</string>
     <string name="usage_type_gps">GPS</string>
-    <string name="usage_type_wifi_running">WLAN 正在运行</string>
+    <string name="usage_type_wifi_running">Wi-Fi 正在运行</string>
     <string name="usage_type_phone">通话</string>
     <string name="usage_type_data_send">数据已发送</string>
     <string name="usage_type_data_recv">数据已收到</string>
@@ -1129,7 +1129,7 @@ PIN 可能不正确。"</string>
     <string name="battery_action_app_details">应用程序信息</string>
     <string name="battery_action_app_settings">应用程序设置</string>
     <string name="battery_action_display">屏幕设置</string>
-    <string name="battery_action_wifi">WLAN 设置</string>
+    <string name="battery_action_wifi">Wi-Fi 设置</string>
     <string name="battery_action_bluetooth">蓝牙设置</string>
     <string name="battery_desc_voice">语音通话所耗的电量</string>
     <string name="battery_desc_standby">手机待机时所耗的电量</string>
@@ -1137,8 +1137,8 @@ PIN 可能不正确。"</string>
     <string name="battery_sugg_radio">不在信号覆盖范围内时切换到飞行模式，以节约电量</string>
     <string name="battery_desc_display">显示屏和背光所耗的电量</string>
     <string name="battery_sugg_display">降低屏幕亮度，并且/或者缩短屏幕超时时间</string>
-    <string name="battery_desc_wifi">WLAN 所耗的电量</string>
-    <string name="battery_sugg_wifi">不使用或无法使用 WLAN 时将其关闭</string>
+    <string name="battery_desc_wifi">Wi-Fi 所耗的电量</string>
+    <string name="battery_sugg_wifi">不使用或无法使用 Wi-Fi 时将其关闭</string>
     <string name="battery_desc_bluetooth">蓝牙所耗的电量</string>
     <string name="battery_sugg_bluetooth_basic">请在不使用蓝牙功能时将其关闭</string>
     <string name="battery_sugg_bluetooth_headset">尝试连接另一蓝牙设备</string>
@@ -1200,7 +1200,7 @@ PIN 可能不正确。"</string>
     <string name="tts_engine_preference_section_title">首选引擎</string>
     <string name="tts_general_section_title">常规</string>
     <string name="gadget_title">电量控制</string>
-    <string name="gadget_toggle_wifi">正在更新 WLAN 设置</string>
+    <string name="gadget_toggle_wifi">正在更新 Wi-Fi 设置</string>
     <string name="gadget_toggle_bluetooth">正在更新蓝牙设置</string>
     <string name="vpn_settings_title">VPN</string>
     <string name="credentials_title">凭据存储</string>
@@ -1229,7 +1229,7 @@ PIN 可能不正确。"</string>
     <string name="backup_section_title">备份和还原</string>
     <string name="personal_data_section_title">个人数据</string>
     <string name="backup_data_title">备份我的数据</string>
-    <string name="backup_data_summary">将应用程序数据、WLAN 密码和其他设置备份到 Google 服务器</string>
+    <string name="backup_data_summary">将应用程序数据、Wi-Fi 密码和其他设置备份到 Google 服务器</string>
     <string name="backup_configure_account_title">备份帐户</string>
     <string name="backup_configure_account_default_summary">目前没有帐户存储备份数据</string>
     <string name="auto_restore_title">自动还原</string>
@@ -1238,7 +1238,7 @@ PIN 可能不正确。"</string>
     <string name="local_backup_password_summary_none">桌面完整备份当前未设置保护。</string>
     <string name="local_backup_password_summary_change">选择以更改或删除桌面完整备份的密码</string>
     <string name="backup_erase_dialog_title" />
-    <string name="backup_erase_dialog_message">要停止备份您的 WLAN 密码、书签、其他设置以及应用程序数据，并清除 Google 服务器上的所有副本吗？</string>
+    <string name="backup_erase_dialog_message">要停止备份您的 Wi-Fi 密码、书签、其他设置以及应用程序数据，并清除 Google 服务器上的所有副本吗？</string>
     <string name="device_admin_settings_title">设备管理设置</string>
     <string name="active_device_admin_msg">设备管理器</string>
     <string name="remove_device_admin">取消激活</string>
@@ -1254,10 +1254,10 @@ PIN 可能不正确。"</string>
     <string name="sound_category_calls_and_notification_title">铃声和通知</string>
     <string name="sound_category_notification_title">通知</string>
     <string name="sound_category_feedback_title">系统</string>
-    <string name="wifi_setup_title">WLAN 设置</string>
-    <string name="wifi_setup_title_editing_network">连接到 WLAN 网络%s</string>
-    <string name="wifi_setup_title_connecting_network">正在连接到 WLAN 网络“%s”...</string>
-    <string name="wifi_setup_title_connected_network">已连接到 WLAN 网络%s</string>
+    <string name="wifi_setup_title">Wi-Fi 设置</string>
+    <string name="wifi_setup_title_editing_network">连接到 Wi-Fi 网络%s</string>
+    <string name="wifi_setup_title_connecting_network">正在连接到 Wi-Fi 网络“%s”...</string>
+    <string name="wifi_setup_title_connected_network">已连接到 Wi-Fi 网络%s</string>
     <string name="wifi_setup_title_add_network">添加网络</string>
     <string name="wifi_setup_not_connected">未连接</string>
     <string name="wifi_setup_add_network">添加网络</string>
@@ -1279,11 +1279,11 @@ PIN 可能不正确。"</string>
     <string name="wifi_setup_status_connecting">正在连接...</string>
     <string name="wifi_setup_status_proceed_to_next">转至下一步</string>
     <string name="wifi_setup_status_eap_not_supported">不支持 EAP。</string>
-    <string name="wifi_setup_eap_not_supported">您无法在设置过程中配置 EAP WLAN 连接。设置完毕后，您可以在“设置”>“无线和网络”中进行配置。</string>
+    <string name="wifi_setup_eap_not_supported">您无法在设置过程中配置 EAP Wi-Fi 连接。设置完毕后，您可以在“设置”>“无线和网络”中进行配置。</string>
     <string name="wifi_setup_description_connecting">建立连接可能需要几分钟时间...</string>
     <string name="wifi_setup_description_connected">触摸<b>下一步</b>"可继续进行设置。
 
-触摸"<b>返回</b>可连接到其他 WLAN 网络。</string>
+触摸"<b>返回</b>可连接到其他 Wi-Fi 网络。</string>
     <string name="accessibility_sync_enabled">同步功能已启用</string>
     <string name="accessibility_sync_disabled">同步功能已停用</string>
     <string name="accessibility_sync_error">同步错误。</string>
@@ -1362,7 +1362,7 @@ Google 的这款同步数据工具可让您随时随地访问您的联系人、�
     <string name="data_usage_menu_roaming">数据漫游</string>
     <string name="data_usage_menu_restrict_background">限制后台数据</string>
     <string name="data_usage_menu_split_4g">单独显示 4G 流量</string>
-    <string name="data_usage_menu_show_wifi">显示 WLAN 使用情况</string>
+    <string name="data_usage_menu_show_wifi">显示 Wi-Fi 使用情况</string>
     <string name="data_usage_menu_show_ethernet">显示以太网使用情况</string>
     <string name="data_usage_change_cycle">更改周期...</string>
     <string name="data_usage_pick_cycle_day">流量使用周期的日期设置：</string>
@@ -1374,8 +1374,8 @@ Google 的这款同步数据工具可让您随时随地访问您的联系人、�
     <string name="data_usage_disable_mobile_limit">设置移动数据流量限制</string>
     <string name="data_usage_disable_4g_limit">设置 4G 数据流量限制</string>
     <string name="data_usage_disable_3g_limit">设置 2G-3G 数据流量限制</string>
-    <string name="data_usage_disable_wifi_limit">设置 WLAN 数据流量限制</string>
-    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_disable_wifi_limit">设置 Wi-Fi 数据流量限制</string>
+    <string name="data_usage_tab_wifi">Wi-Fi</string>
     <string name="data_usage_tab_ethernet">以太网</string>
     <string name="data_usage_tab_mobile">移动</string>
     <string name="data_usage_tab_4g">4G</string>
@@ -1387,10 +1387,10 @@ Google 的这款同步数据工具可让您随时随地访问您的联系人、�
     <string name="data_usage_enable_4g">4G 数据</string>
     <string name="data_usage_app_settings">查看应用程序设置</string>
     <string name="data_usage_app_restrict_background">限制后台数据</string>
-    <string name="data_usage_app_restrict_background_summary">仅在使用移动数据网络时停用后台数据。系统会尽量使用 WLAN 连接。</string>
+    <string name="data_usage_app_restrict_background_summary">仅在使用移动数据网络时停用后台数据。系统会尽量使用 Wi-Fi 连接。</string>
     <string name="data_usage_app_restrict_background_summary_disabled">要限制此应用程序使用后台数据，请先设置移动数据上限。</string>
     <string name="data_usage_app_restrict_dialog_title">限制后台数据？</string>
-    <string name="data_usage_app_restrict_dialog">"在没有 WLAN 连接的情况下，此功能可能导致需要后台数据的应用程序停止运行。
+    <string name="data_usage_app_restrict_dialog">"在没有 Wi-Fi 连接的情况下，此功能可能导致需要后台数据的应用程序停止运行。
 
 您可以在相关应用程序内的设置中查找更合适的数据流量控制选项。"</string>
     <string name="data_usage_restrict_denied_dialog">您只有在设置移动数据上限后才能限制后台数据。</string>
@@ -1404,7 +1404,7 @@ Google 的这款同步数据工具可让您随时随地访问您的联系人、�
 
 由于数据流量是由您的手机计算而得的，您的运营商对于流量的计算方法可能有所不同，因此请考虑设置一个较低的上限。"</string>
     <string name="data_usage_restrict_background_title">限制后台数据？</string>
-    <string name="data_usage_restrict_background">如果限制后台移动数据，那么除非您已连接到 WLAN 网络，否则部分应用程序和服务会无法运行。</string>
+    <string name="data_usage_restrict_background">如果限制后台移动数据，那么除非您已连接到 Wi-Fi 网络，否则部分应用程序和服务会无法运行。</string>
     <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
 "<font size="12">警告</font></string>
     <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>"
@@ -1479,7 +1479,7 @@ Google 的这款同步数据工具可让您随时随地访问您的联系人、�
     <string name="additional_system_update_settings_list_item_title">其他系统更新</string>
     <string name="search_airplane">飞行模式;FeiXing</string>
     <string name="search_network">移动网络;运营商;APN;接入点;数据漫游;网络类型</string>
-    <string name="search_wifi">WiFi;WLAN;Wi-Fi;无线;WuXian</string>
+    <string name="search_wifi">WiFi;Wi-Fi;无线;WuXian</string>
     <string name="search_bluetooth">蓝牙;LanYa</string>
     <string name="search_android_beam">NFC;Beam</string>
     <string name="search_vpn">VPN</string>
@@ -1590,11 +1590,11 @@ Google 的这款同步数据工具可让您随时随地访问您的联系人、�
     <string name="date_time_settings">日期和时间</string>
     <string name="timezone_settings">时区</string>
     <string name="security_privacy_settings_title">安全和隐私</string>
-    <string name="nearby_wifi">选取附近的WLAN</string>
+    <string name="nearby_wifi">选取附近的Wi-Fi</string>
     <string name="unlock_set_enter_system">直接进入系统</string>
     <string name="unlock_set_enter_system_summary">开启后不使用系统的锁屏样式，点亮屏幕直接进入系统，需要无屏幕密码</string>
     <string name="forget_wifi_message">会停止自动连接此网络，并且再次连接时可能需要重新输入密码</string>
-    <string name="no_nearby_wifi">没有检测到附近可用的WLAN，可以尝试重新扫描或者手动添加网络</string>
+    <string name="no_nearby_wifi">没有检测到附近可用的Wi-Fi，可以尝试重新扫描或者手动添加网络</string>
     <string name="manually_add_network">手工添加网络</string>
     <string name="network_detail">%s 网络详情</string>
     <string name="incoming_call_vibrate_abbreviation">来电</string>
@@ -1709,7 +1709,7 @@ Google 的这款同步数据工具可让您随时随地访问您的联系人、�
     <string name="vpn_settings_password">VPN 密码保护</string>
     <string name="vpn_safe">安全</string>
     <string name="vpn_configure">配置</string>
-    <string name="sync_wifi_label">WLAN设置</string>
+    <string name="sync_wifi_label">Wi-Fi设置</string>
     <string name="drive_mode">开车模式</string>
     <string name="drive_mode_title">设置语音播报和自动回复</string>
     <string name="drive_mode_settings">开车模式设置</string>

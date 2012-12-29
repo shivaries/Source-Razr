@@ -32,11 +32,11 @@
 %s（%s）
 
 下载以上文件可能会产生较高的流量费用"</string>
-    <string name="button_queue_for_wifi">有了WLAN再下载</string>
+    <string name="button_queue_for_wifi">有了Wi-Fi再下载</string>
     <string name="button_cancel_download">取消</string>
     <string name="button_start_now">立即下载</string>
     <string name="download_percent">%d%%</string>
     <string name="dialog_insufficient_space_on_external">外部存储器的空间不足</string>
     <string name="dialog_insufficient_space_on_cache">内部下载存储器的空间不足</string>
-    <string name="auto_restart_under_wifi">WLAN下将自动开始下载此文件</string>
+    <string name="auto_restart_under_wifi">Wi-Fi下将自动开始下载此文件</string>
 </resources>

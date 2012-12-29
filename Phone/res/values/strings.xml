@@ -447,7 +447,7 @@ Next period starts in %2$d days (%3$s)"</string>
 After pressing “Activate”, listen to the instructions provided to activate your phone."</string>
     <string name="ota_touch_activate_new">"Touch “Activate” to place a special call that activates your phone on your carrier's mobile network, so you can place calls and connect to mobile data networks."</string>
     <string name="ota_skip_activation_dialog_title">Skip activation?</string>
-    <string name="ota_skip_activation_dialog_message">"If you skip activation, you can't place calls or connect to mobile data networks (though you can connect to WLAN networks). Until you activate your phone, you will be asked to activate it each time you turn it on."</string>
+    <string name="ota_skip_activation_dialog_message">"If you skip activation, you can't place calls or connect to mobile data networks (though you can connect to Wi-Fi networks). Until you activate your phone, you are asked to activate it each time you turn it on."</string>
     <string name="ota_skip_activation_dialog_skip_label">Skip</string>
     <string name="ota_skip_activation_dialog_continue_label">Activate</string>
     <string name="ota_activate">Activate</string>
@@ -508,7 +508,7 @@ end call on hold"</string>
     <string name="sip_receive_calls_summary">Reduces battery life</string>
     <string name="sip_call_options">Configure call options</string>
     <string name="sip_call_options_title">Use Internet calling</string>
-    <string name="sip_call_options_wifi_only_title">Use internet calling (WLAN only)</string>
+    <string name="sip_call_options_wifi_only_title">Use Internet calling (Wi-Fi only)</string>
     <string name="sip_call_options_entry_1">For all calls when data network is available</string>
     <string name="sip_call_options_entry_2">Only for Internet calls</string>
     <string name="sip_call_options_entry_3">Ask for each call</string>
@@ -544,7 +544,7 @@ end call on hold"</string>
     <string name="registration_status_still_trying">Still trying...</string>
     <string name="registration_status_not_receiving">Not receiving calls</string>
     <string name="registration_status_no_data">Account registration stopped because there is no Internet connection</string>
-    <string name="registration_status_no_wifi_data">Account registration stopped because there is no WLAN connection</string>
+    <string name="registration_status_no_wifi_data">Account registration stopped because there is no Wi-Fi connection</string>
     <string name="registration_status_not_running">Account registration unsuccessful</string>
     <string name="registration_status_done">Receiving calls</string>
     <string name="registration_status_failed_try_later">Account registration unsuccessful: (%s); will try later</string>
@@ -579,9 +579,9 @@ end call on hold"</string>
     <string name="empty_alert">%s is required, cannot be left blank</string>
     <string name="not_a_valid_port">Port number should be within 1000 and 65534</string>
     <string name="no_internet_available_title">No Internet connection</string>
-    <string name="no_wifi_available_title">No WLAN connection</string>
+    <string name="no_wifi_available_title">No Wi-Fi connection</string>
     <string name="no_internet_available">To place an Internet call, check your Internet connection first</string>
-    <string name="no_wifi_available">You must be connected to a WLAN network for internet calls (go to Wireless &amp; Network settings)</string>
+    <string name="no_wifi_available">You must be connected to a Wi-Fi network for Internet calls (use the Wireless &amp; Network settings)</string>
     <string name="no_voip">Internet calling not supported</string>
     <string name="sip_system_decide">Automatic</string>
     <string name="sip_always_send_keepalive">Always send</string>
