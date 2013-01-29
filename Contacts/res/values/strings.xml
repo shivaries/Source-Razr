@@ -584,6 +584,10 @@ Choose one of the following options:"</string>
     <string name="not_applied">Not supported</string>
     <string name="toast_for_saving_nickname">Nickname saved</string>
     <string name="toast_for_failed_saving_nickname">Failed to save nickname!</string>
+    <string name="auto_nickname">Auto</string>
+    <string name="auto_set_nickname">Auto</string>
+    <string name="restore_nickname">Restore</string>
+    <string name="custom_nickname_hint">Type the title such as: Mr/Doctor</string>
     <string name="select_all">Select all</string>
     <string name="deselect_all">Deselect all</string>
     <string name="select_none">Nothing selected, the operation is invalid</string>

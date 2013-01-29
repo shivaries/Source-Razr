@@ -8,7 +8,7 @@
     <string name="sim_empty">SIM 卡中無訊息。</string>
     <string name="sim_full_title">SIM 卡已滿</string>
     <string name="save_to_sim">儲存到SIM卡</string>
-    <string name="app_label">訊息</string>
+    <string name="app_label">簡訊</string>
     <string name="new_message">新增簡訊</string>
     <string name="menu_call_back">呼叫%s</string>
     <string name="menu_send_email">傳送電子郵件至%s</string>

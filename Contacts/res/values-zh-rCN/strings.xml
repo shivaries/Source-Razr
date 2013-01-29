@@ -269,7 +269,7 @@
     <string name="share_via">联系人分享方式</string>
     <string name="share_error">无法分享此联系人。</string>
     <string name="nameLabelsGroup">姓名</string>
-    <string name="nicknameLabelsGroup">昵称</string>
+    <string name="nicknameLabelsGroup">称呼</string>
     <string name="organizationLabelsGroup">组织</string>
     <string name="websiteLabelsGroup">网站</string>
     <string name="eventLabelsGroup">生日</string>
@@ -570,6 +570,10 @@
     <string name="not_applied">不支持</string>
     <string name="toast_for_saving_nickname">您修改的称呼已经保存</string>
     <string name="toast_for_failed_saving_nickname">保存称呼修改失败！</string>
+    <string name="auto_nickname">智能称呼</string>
+    <string name="auto_set_nickname">智能填充</string>
+    <string name="restore_nickname">恢复默认</string>
+    <string name="custom_nickname_hint">输入称呼 如：“老师”、“经理”</string>
     <string name="select_all">全选</string>
     <string name="deselect_all">取消全选</string>
     <string name="select_none">没有选中项，操作无效</string>

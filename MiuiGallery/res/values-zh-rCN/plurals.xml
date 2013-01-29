@@ -19,4 +19,9 @@
         <item quantity="other">允许离线查看图册。</item>
         <item quantity="one">允许离线查看图册。</item>
     </plurals>
+    <plurals name="number_of_cloudimages">
+        <item quantity="other">%1$d张图片</item>
+        <item quantity="zero">%1$d张图片</item>
+        <item quantity="one">%1$d张图片</item>
+    </plurals>
 </resources>

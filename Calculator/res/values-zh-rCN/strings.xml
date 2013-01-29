@@ -12,8 +12,8 @@
     <string name="digit7">7</string>
     <string name="digit8">8</string>
     <string name="digit9">9</string>
-    <string name="del">删除</string>
-    <string name="clear">清除</string>
+    <string name="del">DEL</string>
+    <string name="clear">C</string>
     <string name="sin">sin</string>
     <string name="cos">cos</string>
     <string name="tan">tan</string>
@@ -26,4 +26,26 @@
     <string name="advanced">高级面板</string>
     <string name="clear_history">清除历史记录</string>
     <string name="text_copied_toast">文本已复制。</string>
+    <string name="standard">标准</string>
+    <string name="scientific">科学</string>
+    <string name="leftParenDesc">左括号</string>
+    <string name="rightParenDesc">右括号</string>
+    <string name="factorialDesc">阶乘</string>
+    <string name="lnDesc">自然对数</string>
+    <string name="lgDesc">对数</string>
+    <string name="sqrtDesc">平方根</string>
+    <string name="divDesc">除</string>
+    <string name="mulDesc">乘</string>
+    <string name="plusDesc">加</string>
+    <string name="minusDesc">减</string>
+    <string name="dotDesc">小数点</string>
+    <string name="powerDesc">幂</string>
+    <string name="delDesc">删除</string>
+    <string name="clearDesc">清除</string>
+    <string name="tanDesc">正切</string>
+    <string name="sinDesc">正弦</string>
+    <string name="cosDesc">余弦</string>
+    <string name="eDesc">欧拉数</string>
+    <string name="piDesc">圆周率</string>
+    <string name="equalDesc">等于</string>
 </resources>
